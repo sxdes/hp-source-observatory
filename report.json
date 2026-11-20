@@ -506,7 +506,7 @@
         22
       ],
       "disabled": false,
-      "checked_at": 1795156642.8933318,
+      "checked_at": 1795156792.332494,
       "status": "homepage_readable"
     },
     {
@@ -1272,13 +1272,13 @@
       "note": "用户提供的导航入口，保留以便失效时重抓；分类内容由实际页面核实，不以URL数字推断。",
       "discovery": {
         "status": "data_read",
-        "checked_at": 1795156643.5807598,
+        "checked_at": 1795156793.3658953,
         "documents": 1,
         "sites": 0,
         "reference_links": 0
       },
       "status": "readable",
-      "checked_at": 1795156643.5807598
+      "checked_at": 1795156793.3658953
     },
     {
       "id": 41,
@@ -1288,13 +1288,13 @@
       "note": "实际页面已核实为资源采集分类；只从正文提取普通资源站，保留来源与详情地址，不采页脚推广。",
       "discovery": {
         "status": "data_read",
-        "checked_at": 1795156644.2242544,
+        "checked_at": 1795156793.972259,
         "documents": 1,
-        "sites": 0,
+        "sites": 42,
         "reference_links": 0
       },
       "status": "readable",
-      "checked_at": 1795156644.2242544
+      "checked_at": 1795156793.972259
     }
   ],
   "tests": [
@@ -1390,10 +1390,10 @@
     }
   },
   "discovery": {
-    "cached_site_URLs": 443,
+    "cached_site_URLs": 485,
     "cached_reference_links": 103,
     "origins_checked": 21,
-    "updated_at": 1795156644.697631,
+    "updated_at": 1795156794.531726,
     "media_fetched": false
   },
   "counts": {
