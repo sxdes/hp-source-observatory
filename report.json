@@ -300,13 +300,22 @@
       "stable": false
     }
   ],
+  "gist": {
+    "status": "running",
+    "total": 167,
+    "completed": 80,
+    "checked_at": 1795153961.5534399,
+    "api_verified": 0,
+    "web_verified": 0,
+    "failed": 73
+  },
   "counts": {
     "registered_inputs": 20,
     "readable_inputs": 13,
     "brands": 5,
     "api_hints": 4,
     "pending_brands": 212,
-    "health_tested": 13,
+    "health_tested": 84,
     "playable_samples": 0,
     "stable_sources": 0
   },
