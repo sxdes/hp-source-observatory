@@ -1,7 +1,7 @@
 {
   "schema": 1,
   "generated_at": 1795155963.07442,
-  "detected_at": "2026-11-20T10:27:35.548913+00:00",
+  "detected_at": 1795174864.801205,
   "health_checked_at": 1795174038.1477365,
   "last_attempt_at": 1795173836.9978569,
   "last_attempt": "not_due",
@@ -28,7 +28,11 @@
       ],
       "disabled": false,
       "checked_at": 1795153307.3612022,
-      "status": "api_readable"
+      "status": "api_readable",
+      "playback": {
+        "stage": "previous_sample_not_passed",
+        "checked_at": 1795168584.1872003
+      }
     },
     {
       "name": "光速",
@@ -53,7 +57,11 @@
       ],
       "disabled": false,
       "checked_at": 1795154016.4929893,
-      "status": "api_readable"
+      "status": "api_readable",
+      "playback": {
+        "stage": "shared_sample",
+        "checked_at": 1795174864.801205
+      }
     },
     {
       "name": "天涯影视",
@@ -72,7 +80,11 @@
       ],
       "disabled": false,
       "checked_at": 1795159555.1568162,
-      "status": "api_failed"
+      "status": "api_failed",
+      "playback": {
+        "stage": "not_tested",
+        "checked_at": null
+      }
     },
     {
       "name": "最大",
@@ -98,7 +110,11 @@
       ],
       "disabled": false,
       "checked_at": 1795156506.794159,
-      "status": "api_readable"
+      "status": "api_readable",
+      "playback": {
+        "stage": "previous_sample_not_passed",
+        "checked_at": 1795164008.029432
+      }
     },
     {
       "name": "极速",
@@ -119,7 +135,11 @@
       ],
       "disabled": false,
       "checked_at": 1795159559.9633088,
-      "status": "api_readable"
+      "status": "api_readable",
+      "playback": {
+        "stage": "not_tested",
+        "checked_at": null
+      }
     },
     {
       "name": "橘猫影视",
@@ -136,7 +156,11 @@
       ],
       "disabled": false,
       "checked_at": 1795154115.2571316,
-      "status": "api_readable"
+      "status": "api_readable",
+      "playback": {
+        "stage": "not_tested",
+        "checked_at": null
+      }
     },
     {
       "name": "牛牛",
@@ -157,7 +181,11 @@
       ],
       "disabled": false,
       "checked_at": 1795156509.6901855,
-      "status": "api_failed"
+      "status": "api_failed",
+      "playback": {
+        "stage": "not_tested",
+        "checked_at": null
+      }
     },
     {
       "name": "猫眼",
@@ -178,7 +206,11 @@
       ],
       "disabled": false,
       "checked_at": 1795159562.1579115,
-      "status": "api_readable"
+      "status": "api_readable",
+      "playback": {
+        "stage": "not_tested",
+        "checked_at": null
+      }
     },
     {
       "name": "百度",
@@ -201,7 +233,11 @@
       ],
       "disabled": false,
       "checked_at": 1795154028.9116876,
-      "status": "api_readable"
+      "status": "api_readable",
+      "playback": {
+        "stage": "not_tested",
+        "checked_at": null
+      }
     },
     {
       "name": "红牛",
@@ -226,7 +262,11 @@
       ],
       "disabled": false,
       "checked_at": 1795156512.7717724,
-      "status": "api_readable"
+      "status": "api_readable",
+      "playback": {
+        "stage": "decoded_sample",
+        "checked_at": 1795170775.5284913
+      }
     },
     {
       "name": "艾旦影视",
@@ -242,7 +282,11 @@
       ],
       "disabled": false,
       "checked_at": 1795154103.217342,
-      "status": "api_readable"
+      "status": "api_readable",
+      "playback": {
+        "stage": "not_tested",
+        "checked_at": null
+      }
     },
     {
       "name": "茅台",
@@ -260,7 +304,11 @@
       ],
       "disabled": false,
       "checked_at": 1795161361.974786,
-      "status": "api_readable"
+      "status": "api_readable",
+      "playback": {
+        "stage": "not_tested",
+        "checked_at": null
+      }
     },
     {
       "name": "虎牙",
@@ -277,7 +325,11 @@
       ],
       "disabled": false,
       "checked_at": 1795159563.7601645,
-      "status": "api_readable"
+      "status": "api_readable",
+      "playback": {
+        "stage": "not_tested",
+        "checked_at": null
+      }
     },
     {
       "name": "豪华",
@@ -294,7 +346,11 @@
       ],
       "disabled": false,
       "checked_at": 1795156504.8495705,
-      "status": "api_readable"
+      "status": "api_readable",
+      "playback": {
+        "stage": "shared_sample",
+        "checked_at": 1795174864.801205
+      }
     },
     {
       "name": "金鹰",
@@ -320,7 +376,11 @@
       ],
       "disabled": false,
       "checked_at": 1795159569.6290011,
-      "status": "api_readable"
+      "status": "api_readable",
+      "playback": {
+        "stage": "not_tested",
+        "checked_at": null
+      }
     },
     {
       "name": "魔都",
@@ -341,7 +401,11 @@
       ],
       "disabled": false,
       "checked_at": 1795153310.8041384,
-      "status": "api_readable"
+      "status": "api_readable",
+      "playback": {
+        "stage": "segments_slow",
+        "checked_at": 1795172485.356886
+      }
     },
     {
       "name": "鸭鸭",
@@ -362,7 +426,11 @@
       ],
       "disabled": false,
       "checked_at": 1795156515.1455843,
-      "status": "api_failed"
+      "status": "api_failed",
+      "playback": {
+        "stage": "not_tested",
+        "checked_at": null
+      }
     },
     {
       "name": "🚀155",
@@ -380,7 +448,11 @@
       ],
       "disabled": false,
       "checked_at": 1795155728.029264,
-      "status": "api_readable"
+      "status": "api_readable",
+      "playback": {
+        "stage": "not_tested",
+        "checked_at": null
+      }
     },
     {
       "name": "🚀深林",
@@ -398,7 +470,11 @@
       ],
       "disabled": false,
       "checked_at": 1795155716.8900528,
-      "status": "api_readable"
+      "status": "api_readable",
+      "playback": {
+        "stage": "not_tested",
+        "checked_at": null
+      }
     },
     {
       "name": "🚀玉兔",
@@ -416,7 +492,11 @@
       ],
       "disabled": false,
       "checked_at": 1795155715.80785,
-      "status": "api_readable"
+      "status": "api_readable",
+      "playback": {
+        "stage": "not_tested",
+        "checked_at": null
+      }
     },
     {
       "name": "优质",
@@ -442,7 +522,11 @@
       ],
       "disabled": false,
       "checked_at": 1795152873.2633817,
-      "status": "publication_verified"
+      "status": "publication_verified",
+      "playback": {
+        "stage": "web_unadapted",
+        "checked_at": null
+      }
     },
     {
       "name": "66 大片网",
@@ -458,7 +542,11 @@
       ],
       "disabled": false,
       "checked_at": 1795155322.4047685,
-      "status": "homepage_readable"
+      "status": "homepage_readable",
+      "playback": {
+        "stage": "web_unadapted",
+        "checked_at": null
+      }
     },
     {
       "name": "PPnix",
@@ -474,7 +562,11 @@
       ],
       "disabled": false,
       "checked_at": 1795155273.8205357,
-      "status": "homepage_readable"
+      "status": "homepage_readable",
+      "playback": {
+        "stage": "web_unadapted",
+        "checked_at": null
+      }
     },
     {
       "name": "SA视频",
@@ -490,7 +582,11 @@
       ],
       "disabled": false,
       "checked_at": 1795155305.38567,
-      "status": "homepage_readable"
+      "status": "homepage_readable",
+      "playback": {
+        "stage": "web_unadapted",
+        "checked_at": null
+      }
     },
     {
       "name": "七五网",
@@ -508,7 +604,11 @@
       ],
       "disabled": false,
       "checked_at": 1795156792.332494,
-      "status": "homepage_readable"
+      "status": "homepage_readable",
+      "playback": {
+        "stage": "web_unadapted",
+        "checked_at": null
+      }
     },
     {
       "name": "光速影视",
@@ -524,7 +624,11 @@
       ],
       "disabled": false,
       "checked_at": 1795155288.8137538,
-      "status": "homepage_readable"
+      "status": "homepage_readable",
+      "playback": {
+        "stage": "web_unadapted",
+        "checked_at": null
+      }
     },
     {
       "name": "剧踪影院",
@@ -541,7 +645,11 @@
       ],
       "disabled": false,
       "checked_at": 1795155317.2618132,
-      "status": "homepage_readable"
+      "status": "homepage_readable",
+      "playback": {
+        "stage": "web_unadapted",
+        "checked_at": null
+      }
     },
     {
       "name": "嘀嗒影视",
@@ -558,7 +666,11 @@
       ],
       "disabled": false,
       "checked_at": 1795155326.0754473,
-      "status": "homepage_readable"
+      "status": "homepage_readable",
+      "playback": {
+        "stage": "web_unadapted",
+        "checked_at": null
+      }
     },
     {
       "name": "奈菲影视",
@@ -574,7 +686,11 @@
       ],
       "disabled": false,
       "checked_at": 1795155265.3691392,
-      "status": "homepage_readable"
+      "status": "homepage_readable",
+      "playback": {
+        "stage": "web_unadapted",
+        "checked_at": null
+      }
     },
     {
       "name": "奈飞工厂",
@@ -591,7 +707,11 @@
       ],
       "disabled": false,
       "checked_at": 1795155263.4429617,
-      "status": "homepage_readable"
+      "status": "homepage_readable",
+      "playback": {
+        "stage": "web_unadapted",
+        "checked_at": null
+      }
     },
     {
       "name": "开心影院",
@@ -608,7 +728,11 @@
       ],
       "disabled": false,
       "checked_at": 1795155340.2325263,
-      "status": "homepage_readable"
+      "status": "homepage_readable",
+      "playback": {
+        "stage": "web_unadapted",
+        "checked_at": null
+      }
     },
     {
       "name": "影夕视频",
@@ -624,7 +748,11 @@
       ],
       "disabled": false,
       "checked_at": 1795155367.3606713,
-      "status": "homepage_readable"
+      "status": "homepage_readable",
+      "playback": {
+        "stage": "web_unadapted",
+        "checked_at": null
+      }
     },
     {
       "name": "影猫仓库",
@@ -641,7 +769,11 @@
       ],
       "disabled": false,
       "checked_at": 1795155281.8430893,
-      "status": "homepage_readable"
+      "status": "homepage_readable",
+      "playback": {
+        "stage": "web_unadapted",
+        "checked_at": null
+      }
     },
     {
       "name": "片库",
@@ -658,7 +790,11 @@
       ],
       "disabled": false,
       "checked_at": 1795155320.4881105,
-      "status": "homepage_readable"
+      "status": "homepage_readable",
+      "playback": {
+        "stage": "web_unadapted",
+        "checked_at": null
+      }
     },
     {
       "name": "独播库",
@@ -674,7 +810,11 @@
       ],
       "disabled": false,
       "checked_at": 1795155275.0601308,
-      "status": "homepage_readable"
+      "status": "homepage_readable",
+      "playback": {
+        "stage": "web_unadapted",
+        "checked_at": null
+      }
     },
     {
       "name": "豆花电影网",
@@ -691,7 +831,11 @@
       ],
       "disabled": false,
       "checked_at": 1795155341.375925,
-      "status": "homepage_readable"
+      "status": "homepage_readable",
+      "playback": {
+        "stage": "web_unadapted",
+        "checked_at": null
+      }
     },
     {
       "name": "追影",
@@ -708,7 +852,11 @@
       ],
       "disabled": false,
       "checked_at": 1795155328.5535758,
-      "status": "homepage_readable"
+      "status": "homepage_readable",
+      "playback": {
+        "stage": "web_unadapted",
+        "checked_at": null
+      }
     },
     {
       "name": "饭搭子影视",
@@ -724,7 +872,11 @@
       ],
       "disabled": false,
       "checked_at": 1795155300.5589356,
-      "status": "homepage_readable"
+      "status": "homepage_readable",
+      "playback": {
+        "stage": "web_unadapted",
+        "checked_at": null
+      }
     }
   ],
   "inputs": [
@@ -1396,6 +1548,36 @@
       "segments": 2,
       "segments_fast": true,
       "decode": "sample_passed",
+      "same_media_as": null,
+      "checked_at": 1795170455.548913,
+      "stable": false
+    },
+    {
+      "name": "光速",
+      "identity": true,
+      "coverage": "sampled",
+      "encryption": "AES-128",
+      "complete_sequence": true,
+      "missing": [],
+      "segments": 2,
+      "segments_fast": true,
+      "decode": "not_tested",
+      "same_media_as": "红牛",
+      "checked_at": 1795174864.801205,
+      "stable": false
+    },
+    {
+      "name": "豪华",
+      "identity": true,
+      "coverage": "sampled",
+      "encryption": "AES-128",
+      "complete_sequence": true,
+      "missing": [],
+      "segments": 2,
+      "segments_fast": true,
+      "decode": "not_tested",
+      "same_media_as": "红牛",
+      "checked_at": 1795174864.801205,
       "stable": false
     }
   ],
