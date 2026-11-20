@@ -2,7 +2,7 @@
   "schema": 1,
   "generated_at": 1795155963.07442,
   "detected_at": "2026-11-20T04:44:25.309278+00:00",
-  "health_checked_at": 1795155963.0744185,
+  "health_checked_at": 1795156520.4382613,
   "last_attempt_at": 1795153774.2340348,
   "last_attempt": "not_due",
   "model_calls": 0,
@@ -200,8 +200,8 @@
         41
       ],
       "disabled": false,
-      "checked_at": null,
-      "status": "untested"
+      "checked_at": 1795156506.794159,
+      "status": "api_readable"
     },
     {
       "name": "橘猫影视",
@@ -219,6 +219,27 @@
       "disabled": false,
       "checked_at": 1795154115.2571316,
       "status": "api_readable"
+    },
+    {
+      "name": "牛牛",
+      "urls": [
+        "https://api.niuniuzy.me/"
+      ],
+      "publication_urls": [],
+      "api_count": 1,
+      "resource_verified": true,
+      "verification": "api",
+      "origin_ids": [
+        2,
+        5,
+        28,
+        32,
+        33,
+        34
+      ],
+      "disabled": false,
+      "checked_at": 1795156509.6901855,
+      "status": "api_failed"
     },
     {
       "name": "百度",
@@ -244,6 +265,31 @@
       "status": "api_readable"
     },
     {
+      "name": "红牛",
+      "urls": [
+        "http://hongniuzy2.com/api.php/provide/vod/"
+      ],
+      "publication_urls": [],
+      "api_count": 1,
+      "resource_verified": true,
+      "verification": "api",
+      "origin_ids": [
+        2,
+        5,
+        9,
+        16,
+        28,
+        30,
+        32,
+        33,
+        34,
+        41
+      ],
+      "disabled": false,
+      "checked_at": 1795156512.7717724,
+      "status": "api_readable"
+    },
+    {
       "name": "艾旦影视",
       "urls": [
         "https://lovedan.net/api.php/provide/vod/"
@@ -257,6 +303,23 @@
       ],
       "disabled": false,
       "checked_at": 1795154103.217342,
+      "status": "api_readable"
+    },
+    {
+      "name": "豪华",
+      "urls": [
+        "https://haohuazy.com/api.php/provide/vod/"
+      ],
+      "publication_urls": [],
+      "api_count": 1,
+      "resource_verified": true,
+      "verification": "api",
+      "origin_ids": [
+        2,
+        41
+      ],
+      "disabled": false,
+      "checked_at": 1795156504.8495705,
       "status": "api_readable"
     },
     {
@@ -295,6 +358,27 @@
       "disabled": false,
       "checked_at": 1795153310.8041384,
       "status": "api_readable"
+    },
+    {
+      "name": "鸭鸭",
+      "urls": [
+        "https://cj.yayazy.net/api.php/provide/vod/"
+      ],
+      "publication_urls": [],
+      "api_count": 1,
+      "resource_verified": true,
+      "verification": "api",
+      "origin_ids": [
+        2,
+        28,
+        32,
+        33,
+        34,
+        41
+      ],
+      "disabled": false,
+      "checked_at": 1795156515.1455843,
+      "status": "api_failed"
     },
     {
       "name": "🚀155",
@@ -351,33 +435,6 @@
       "status": "api_readable"
     },
     {
-      "name": "七五网",
-      "urls": [
-        "https://www.qmp4.com/",
-        "https://www.gmp4.com/",
-        "https://www.qwmp4.com/",
-        "https://www.qwmkv.com/",
-        "https://www.qwfilm.com/",
-        "https://www.qwfun.com/",
-        "https://www.qwshow.com/",
-        "https://www.qnnull.com/",
-        "https://www.qnhot.com/",
-        "https://www.qncool.com/"
-      ],
-      "publication_urls": [
-        "https://www.qn63.com/"
-      ],
-      "api_count": 0,
-      "resource_verified": true,
-      "verification": "publication_page",
-      "origin_ids": [
-        22
-      ],
-      "disabled": false,
-      "checked_at": 1795155929.268187,
-      "status": "publication_verified"
-    },
-    {
       "name": "优质",
       "urls": [
         "https://www.1080zyk15.com/"
@@ -432,6 +489,24 @@
       ],
       "disabled": false,
       "checked_at": 1795155273.8205357,
+      "status": "homepage_readable"
+    },
+    {
+      "name": "七五网",
+      "urls": [
+        "https://www.qmp4.com/"
+      ],
+      "publication_urls": [
+        "https://www.qn63.com/"
+      ],
+      "api_count": 0,
+      "resource_verified": true,
+      "verification": "video_site",
+      "origin_ids": [
+        22
+      ],
+      "disabled": false,
+      "checked_at": 1795156642.8933318,
       "status": "homepage_readable"
     },
     {
@@ -1197,13 +1272,13 @@
       "note": "用户提供的导航入口，保留以便失效时重抓；分类内容由实际页面核实，不以URL数字推断。",
       "discovery": {
         "status": "data_read",
-        "checked_at": 1795156416.192658,
+        "checked_at": 1795156643.5807598,
         "documents": 1,
         "sites": 0,
         "reference_links": 0
       },
       "status": "readable",
-      "checked_at": 1795156416.192658
+      "checked_at": 1795156643.5807598
     },
     {
       "id": 41,
@@ -1213,13 +1288,13 @@
       "note": "实际页面已核实为资源采集分类；只从正文提取普通资源站，保留来源与详情地址，不采页脚推广。",
       "discovery": {
         "status": "data_read",
-        "checked_at": 1795156418.0513349,
+        "checked_at": 1795156644.2242544,
         "documents": 1,
         "sites": 0,
         "reference_links": 0
       },
       "status": "readable",
-      "checked_at": 1795156418.0513349
+      "checked_at": 1795156644.2242544
     }
   ],
   "tests": [
@@ -1318,16 +1393,16 @@
     "cached_site_URLs": 443,
     "cached_reference_links": 103,
     "origins_checked": 21,
-    "updated_at": 1795156418.530539,
+    "updated_at": 1795156644.697631,
     "media_fetched": false
   },
   "counts": {
     "registered_inputs": 41,
     "readable_inputs": 28,
-    "brands": 30,
-    "api_hints": 11,
-    "pending_brands": 523,
-    "health_tested": 320,
+    "brands": 34,
+    "api_hints": 15,
+    "pending_brands": 519,
+    "health_tested": 326,
     "playable_samples": 0,
     "stable_sources": 0
   },
