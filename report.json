@@ -2,8 +2,8 @@
   "schema": 1,
   "generated_at": 1795155963.07442,
   "detected_at": 1795190870.491927,
-  "health_checked_at": 1795183314.4597678,
-  "last_attempt_at": 1795192687.3147566,
+  "health_checked_at": 1795194627.051703,
+  "last_attempt_at": 1795194548.7227862,
   "last_attempt": "not_due",
   "model_calls": 0,
   "execution": "HP · 国内直连 · 空闲检测",
@@ -156,6 +156,27 @@
       ],
       "disabled": false,
       "checked_at": 1795154115.2571316,
+      "status": "api_readable",
+      "playback": {
+        "stage": "not_tested",
+        "checked_at": null
+      }
+    },
+    {
+      "name": "爱奇艺资源站",
+      "urls": [
+        "https://iqiyizyapi.com/api.php/provide/vod"
+      ],
+      "publication_urls": [],
+      "api_count": 1,
+      "resource_verified": true,
+      "verification": "api",
+      "origin_ids": [
+        2,
+        41
+      ],
+      "disabled": false,
+      "checked_at": 1795194620.54414,
       "status": "api_readable",
       "playback": {
         "stage": "not_tested",
@@ -542,6 +563,26 @@
       ],
       "disabled": false,
       "checked_at": 1795155322.4047685,
+      "status": "homepage_readable",
+      "playback": {
+        "stage": "web_unadapted",
+        "checked_at": null
+      }
+    },
+    {
+      "name": "7itv.com",
+      "urls": [
+        "https://www.7itv.com/"
+      ],
+      "publication_urls": [],
+      "api_count": 0,
+      "resource_verified": true,
+      "verification": "video_site",
+      "origin_ids": [
+        23
+      ],
+      "disabled": false,
+      "checked_at": 1795194624.6408381,
       "status": "homepage_readable",
       "playback": {
         "stage": "web_unadapted",
@@ -1707,10 +1748,10 @@
   "counts": {
     "registered_inputs": 41,
     "readable_inputs": 28,
-    "brands": 38,
-    "api_hints": 20,
-    "pending_brands": 619,
-    "health_tested": 369,
+    "brands": 40,
+    "api_hints": 21,
+    "pending_brands": 617,
+    "health_tested": 375,
     "playable_samples": 1,
     "stable_sources": 0
   },
