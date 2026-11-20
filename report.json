@@ -2,7 +2,7 @@
   "schema": 1,
   "generated_at": 1795155963.07442,
   "detected_at": 1795190870.491927,
-  "health_checked_at": 1795196443.8266335,
+  "health_checked_at": 1795198272.1580973,
   "last_attempt_at": 1795196408.1246188,
   "last_attempt": "not_due",
   "model_calls": 0,
@@ -1751,7 +1751,7 @@
     "brands": 40,
     "api_hints": 21,
     "pending_brands": 617,
-    "health_tested": 381,
+    "health_tested": 387,
     "playable_samples": 1,
     "stable_sources": 0
   },
