@@ -314,6 +314,27 @@
       "kind": "gist_resource_directory",
       "status": "connector_seed_cached",
       "checked_at": 1795153779.9080577
+    },
+    {
+      "id": 21,
+      "url": "https://github.com/laoma528/awesome-zhuiju-free",
+      "kind": "curated_project",
+      "status": "connector_seed_cached",
+      "checked_at": 1795155191.6500387
+    },
+    {
+      "id": 22,
+      "url": "https://www.qn63.com/",
+      "kind": "resource_publication",
+      "status": "pending",
+      "checked_at": 1795155191.6500394
+    },
+    {
+      "id": 23,
+      "url": "https://github.com/dlgt7/TVbox-interface/tree/main",
+      "kind": "tvbox_reference",
+      "status": "connector_seed_cached",
+      "checked_at": 1795155191.6500409
     }
   ],
   "tests": [
@@ -377,14 +398,43 @@
     "checked_at": 1795154139.4445853,
     "api_verified": 4,
     "web_verified": 0,
-    "failed": 148
+    "failed": 148,
+    "unverified": 15,
+    "by_origin": {}
+  },
+  "references": {
+    "status": "running",
+    "total": 267,
+    "completed": 3,
+    "checked_at": 1795155195.1761184,
+    "api_verified": 0,
+    "web_verified": 0,
+    "failed": 2,
+    "unverified": 1,
+    "by_origin": {
+      "21": {
+        "completed": 0,
+        "api_verified": 0,
+        "web_verified": 0
+      },
+      "22": {
+        "completed": 0,
+        "api_verified": 0,
+        "web_verified": 0
+      },
+      "23": {
+        "completed": 3,
+        "api_verified": 0,
+        "web_verified": 0
+      }
+    }
   },
   "counts": {
-    "registered_inputs": 20,
+    "registered_inputs": 23,
     "readable_inputs": 13,
     "brands": 9,
     "api_hints": 8,
-    "pending_brands": 208,
+    "pending_brands": 363,
     "health_tested": 165,
     "playable_samples": 0,
     "stable_sources": 0
