@@ -11,3 +11,5 @@ Gist 167入口和新增参考267入口专项已完成；后续候选由HP持续�
 精选数据参考 [laoma528/awesome-zhuiju-free](https://github.com/laoma528/awesome-zhuiju-free)，依 [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)保留出处，地址已筛选并由HP独立复查；不采信上游评分或无广告宣传作为本机认证。其他项目按事实记录公开入口与研究结论，未复制执行型配置或软件。
 
 仅发布index.html、style.css、app.js、report.json、README.md、.nojekyll六个文件。账号、密钥、会话、观看记录、设备地址、原始日志和私人截图保留在HP或本地私有维护目录。静态页面使用原生HTML/CSS/JavaScript，没有外部字体或统计脚本。
+
+双源对照单列每集取样完整度与下载偏慢分片数；未发现相同样本不等于底层独立。只公开计数和固定名称，不公开媒体主机、分片哈希或地址。必要的人工模型研究另存维护文档，本站固定探针继续不调用模型。
