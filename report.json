@@ -3,7 +3,7 @@
   "generated_at": 1795155963.07442,
   "detected_at": "2026-11-20T04:44:25.309278+00:00",
   "health_checked_at": 1795156520.4382613,
-  "last_attempt_at": 1795153774.2340348,
+  "last_attempt_at": 1795157420.5509539,
   "last_attempt": "not_due",
   "model_calls": 0,
   "execution": "HP · 国内直连 · 空闲检测",
@@ -439,7 +439,8 @@
       "resource_verified": true,
       "verification": "video_site",
       "origin_ids": [
-        21
+        21,
+        37
       ],
       "disabled": false,
       "checked_at": 1795155317.2618132,
@@ -455,7 +456,8 @@
       "resource_verified": true,
       "verification": "video_site",
       "origin_ids": [
-        21
+        21,
+        37
       ],
       "disabled": false,
       "checked_at": 1795155326.0754473,
@@ -487,7 +489,8 @@
       "resource_verified": true,
       "verification": "video_site",
       "origin_ids": [
-        21
+        21,
+        37
       ],
       "disabled": false,
       "checked_at": 1795155263.4429617,
@@ -503,7 +506,8 @@
       "resource_verified": true,
       "verification": "video_site",
       "origin_ids": [
-        21
+        21,
+        37
       ],
       "disabled": false,
       "checked_at": 1795155340.2325263,
@@ -552,7 +556,8 @@
       "resource_verified": true,
       "verification": "video_site",
       "origin_ids": [
-        21
+        21,
+        37
       ],
       "disabled": false,
       "checked_at": 1795155320.4881105,
@@ -584,7 +589,8 @@
       "resource_verified": true,
       "verification": "video_site",
       "origin_ids": [
-        21
+        21,
+        37
       ],
       "disabled": false,
       "checked_at": 1795155341.375925,
@@ -600,7 +606,8 @@
       "resource_verified": true,
       "verification": "video_site",
       "origin_ids": [
-        21
+        21,
+        37
       ],
       "disabled": false,
       "checked_at": 1795155328.5535758,
@@ -1205,7 +1212,7 @@
       "url": "https://yingshi.xxsnav.com/",
       "kind": "navigation",
       "title": "XXS · 影视导航大全",
-      "note": "影视网站入口导航，跳转页只解出公开目标地址，拒绝邀请码、解析器和下载广告。",
+      "note": "影视网站入口导航，跳转页只解出公开目标地址，拒绝邀请码、解析器和下载广告。 Chrome按网站分组读取127条，缓存69个在线网站地址及57个其他参考；这不是HP可达证明。",
       "discovery": {
         "status": "fetch_failed",
         "checked_at": 1795156401.00645,
@@ -1374,10 +1381,10 @@
     }
   },
   "discovery": {
-    "cached_site_URLs": 485,
-    "cached_reference_links": 103,
+    "cached_site_URLs": 554,
+    "cached_reference_links": 160,
     "origins_checked": 21,
-    "updated_at": 1795156794.531726,
+    "updated_at": 1795157709.7362673,
     "media_fetched": false
   },
   "counts": {
@@ -1385,7 +1392,7 @@
     "readable_inputs": 28,
     "brands": 33,
     "api_hints": 15,
-    "pending_brands": 579,
+    "pending_brands": 624,
     "health_tested": 326,
     "playable_samples": 0,
     "stable_sources": 0
