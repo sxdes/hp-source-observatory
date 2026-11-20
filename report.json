@@ -2,8 +2,8 @@
   "schema": 1,
   "generated_at": 1795155963.07442,
   "detected_at": 1795212946.669229,
-  "health_checked_at": 1795216301.220944,
-  "last_attempt_at": 1795216621.1571906,
+  "health_checked_at": 1795218140.0819762,
+  "last_attempt_at": 1795218475.5179014,
   "last_attempt": "not_due",
   "model_calls": 0,
   "execution": "HP · 国内直连 · 空闲检测",
@@ -32,6 +32,26 @@
       "playback": {
         "stage": "previous_sample_not_passed",
         "checked_at": 1795190829.523555
+      }
+    },
+    {
+      "name": "AV-老色逼资源",
+      "urls": [
+        "https://apilsbzy1.com/api.php/provide/vod"
+      ],
+      "publication_urls": [],
+      "api_count": 1,
+      "resource_verified": true,
+      "verification": "api",
+      "origin_ids": [
+        32
+      ],
+      "disabled": false,
+      "checked_at": 1795218102.53835,
+      "status": "api_readable",
+      "playback": {
+        "stage": "not_tested",
+        "checked_at": null
       }
     },
     {
@@ -1887,10 +1907,10 @@
   "counts": {
     "registered_inputs": 41,
     "readable_inputs": 28,
-    "brands": 45,
-    "api_hints": 26,
-    "pending_brands": 612,
-    "health_tested": 443,
+    "brands": 46,
+    "api_hints": 27,
+    "pending_brands": 611,
+    "health_tested": 449,
     "playable_samples": 1,
     "stable_sources": 0
   },
