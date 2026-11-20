@@ -19,7 +19,11 @@
       "verification": "api",
       "origin_ids": [
         2,
-        16
+        16,
+        28,
+        32,
+        33,
+        34
       ],
       "disabled": false,
       "checked_at": 1795153307.3612022,
@@ -71,7 +75,11 @@
         5,
         9,
         18,
-        20
+        20,
+        28,
+        30,
+        32,
+        34
       ],
       "disabled": false,
       "checked_at": 1795154016.4929893,
@@ -156,7 +164,11 @@
         9,
         14,
         16,
-        20
+        20,
+        28,
+        32,
+        33,
+        34
       ],
       "disabled": false,
       "checked_at": 1795154031.9729192,
@@ -177,7 +189,11 @@
         4,
         5,
         8,
-        3
+        3,
+        28,
+        32,
+        33,
+        34
       ],
       "disabled": false,
       "checked_at": null,
@@ -193,7 +209,8 @@
       "resource_verified": true,
       "verification": "api",
       "origin_ids": [
-        20
+        20,
+        30
       ],
       "disabled": false,
       "checked_at": 1795154115.2571316,
@@ -211,7 +228,11 @@
       "origin_ids": [
         2,
         5,
-        20
+        20,
+        28,
+        30,
+        32,
+        34
       ],
       "disabled": false,
       "checked_at": 1795154028.9116876,
@@ -259,7 +280,11 @@
       "resource_verified": true,
       "verification": "api",
       "origin_ids": [
-        2
+        2,
+        28,
+        32,
+        33,
+        34
       ],
       "disabled": false,
       "checked_at": 1795153310.8041384,
@@ -275,7 +300,9 @@
       "resource_verified": true,
       "verification": "api",
       "origin_ids": [
-        23
+        23,
+        32,
+        34
       ],
       "disabled": false,
       "checked_at": 1795155728.029264,
@@ -291,7 +318,9 @@
       "resource_verified": true,
       "verification": "api",
       "origin_ids": [
-        23
+        23,
+        32,
+        34
       ],
       "disabled": false,
       "checked_at": 1795155716.8900528,
@@ -307,7 +336,9 @@
       "resource_verified": true,
       "verification": "api",
       "origin_ids": [
-        23
+        23,
+        32,
+        34
       ],
       "disabled": false,
       "checked_at": 1795155715.80785,
@@ -354,7 +385,11 @@
       "origin_ids": [
         2,
         16,
-        19
+        19,
+        28,
+        30,
+        32,
+        34
       ],
       "disabled": false,
       "checked_at": 1795152873.2633817,
@@ -856,8 +891,8 @@
         "sites": 0,
         "reference_links": 0
       },
-      "status": "connector_seed_cached",
-      "checked_at": 1795155191.6500387
+      "status": "fetch_failed",
+      "checked_at": 1795156022.590407
     },
     {
       "id": 22,
@@ -873,7 +908,7 @@
         "reference_links": 0
       },
       "status": "readable",
-      "checked_at": 1795155930.0987751
+      "checked_at": 1795156024.6942928
     },
     {
       "id": 23,
@@ -882,14 +917,14 @@
       "title": "dlgt7/TVbox-interface",
       "note": "历史TVBox配置参考，98个小JSON/JSONC已数据提取，不加载执行型规则。",
       "discovery": {
-        "status": "not_run",
-        "checked_at": null,
-        "documents": 0,
+        "status": "fetch_failed",
+        "checked_at": 1795156025.6345615,
+        "documents": 2,
         "sites": 0,
         "reference_links": 0
       },
-      "status": "connector_seed_cached",
-      "checked_at": 1795155191.6500409
+      "status": "fetch_failed",
+      "checked_at": 1795156025.6345615
     },
     {
       "id": 24,
@@ -898,14 +933,14 @@
       "title": "52liulian/tvapp_store",
       "note": "应用、教程、TVBox与直播接口汇总；适合找线索，不安装第三方APK。",
       "discovery": {
-        "status": "not_run",
-        "checked_at": null,
-        "documents": 0,
+        "status": "data_read",
+        "checked_at": 1795156031.0675492,
+        "documents": 1,
         "sites": 0,
-        "reference_links": 0
+        "reference_links": 31
       },
-      "status": "connector_seed_cached",
-      "checked_at": 1795156019.8140993
+      "status": "readable",
+      "checked_at": 1795156031.0675492
     },
     {
       "id": 25,
@@ -914,14 +949,14 @@
       "title": "CCSH/IPTV",
       "note": "直播、EPG、台标采集项目；频道归一和黑白名单思路可参考，上游测速不代表HP。",
       "discovery": {
-        "status": "not_run",
-        "checked_at": null,
-        "documents": 0,
+        "status": "fetch_failed",
+        "checked_at": 1795156031.622942,
+        "documents": 1,
         "sites": 0,
         "reference_links": 0
       },
-      "status": "connector_seed_cached",
-      "checked_at": 1795156019.8140998
+      "status": "fetch_failed",
+      "checked_at": 1795156031.622942
     },
     {
       "id": 26,
@@ -930,14 +965,14 @@
       "title": "影猫仓库 · 地址发布页",
       "note": "发布主站ymck.pro和备用ymck.me、ymck.xyz，保留发布页并关联实际站点。",
       "discovery": {
-        "status": "not_run",
-        "checked_at": null,
-        "documents": 0,
-        "sites": 0,
+        "status": "data_read",
+        "checked_at": 1795156042.6105177,
+        "documents": 1,
+        "sites": 3,
         "reference_links": 0
       },
-      "status": "connector_seed_cached",
-      "checked_at": 1795156019.8141005
+      "status": "readable",
+      "checked_at": 1795156042.6105177
     },
     {
       "id": 27,
@@ -946,14 +981,14 @@
       "title": "XXS导航 · 影视分类",
       "note": "综合导航，原影视锚点保留，只采影视范围；不能把AI、生活工具或推广链接当片源。",
       "discovery": {
-        "status": "not_run",
-        "checked_at": null,
-        "documents": 0,
+        "status": "fetch_failed",
+        "checked_at": 1795156043.3281796,
+        "documents": 1,
         "sites": 0,
         "reference_links": 0
       },
-      "status": "connector_seed_cached",
-      "checked_at": 1795156019.814101
+      "status": "fetch_failed",
+      "checked_at": 1795156043.3281796
     },
     {
       "id": 28,
@@ -962,14 +997,14 @@
       "title": "tushen6/Tomorrow",
       "note": "多仓/单仓TVBox与影视仓配置；只解析公开配置数据，不加载JAR、Python或JS爬虫。",
       "discovery": {
-        "status": "not_run",
-        "checked_at": null,
-        "documents": 0,
-        "sites": 0,
+        "status": "data_read",
+        "checked_at": 1795156043.361576,
+        "documents": 2,
+        "sites": 47,
         "reference_links": 0
       },
-      "status": "connector_seed_cached",
-      "checked_at": 1795156019.8141015
+      "status": "readable",
+      "checked_at": 1795156043.361576
     },
     {
       "id": 29,
@@ -978,14 +1013,14 @@
       "title": "djteang/OrangeTV",
       "note": "可自建Next.js聚合播放器，空壳无内置源；不能直接放GitHub Pages替代HP检测。去广告仅删不连续标签；LICENSE为CC BY-NC-SA 4.0，与README的MIT徽章不一致。",
       "discovery": {
-        "status": "not_run",
-        "checked_at": null,
-        "documents": 0,
+        "status": "fetch_failed",
+        "checked_at": 1795156068.1148064,
+        "documents": 1,
         "sites": 0,
         "reference_links": 0
       },
-      "status": "connector_seed_cached",
-      "checked_at": 1795156019.814102
+      "status": "fetch_failed",
+      "checked_at": 1795156068.1148064
     },
     {
       "id": 30,
@@ -994,14 +1029,14 @@
       "title": "2hacc/Video",
       "note": "TOMATOX和ZY Player资源API清单，含XML格式；接口通过不等于当前JSON插件直接兼容。",
       "discovery": {
-        "status": "not_run",
-        "checked_at": null,
-        "documents": 0,
-        "sites": 0,
-        "reference_links": 0
+        "status": "data_read",
+        "checked_at": 1795156078.5126886,
+        "documents": 2,
+        "sites": 155,
+        "reference_links": 2
       },
-      "status": "connector_seed_cached",
-      "checked_at": 1795156019.8141024
+      "status": "readable",
+      "checked_at": 1795156078.5126886
     },
     {
       "id": 31,
@@ -1010,14 +1045,14 @@
       "title": "jiaoshoushui/TVBox-",
       "note": "README中的单仓/多仓入口索引，不是检测程序；只登记配置地址。",
       "discovery": {
-        "status": "not_run",
-        "checked_at": null,
-        "documents": 0,
+        "status": "data_read",
+        "checked_at": 1795156120.5220435,
+        "documents": 1,
         "sites": 0,
-        "reference_links": 0
+        "reference_links": 18
       },
-      "status": "connector_seed_cached",
-      "checked_at": 1795156019.8141031
+      "status": "readable",
+      "checked_at": 1795156120.5220435
     },
     {
       "id": 32,
@@ -1026,14 +1061,14 @@
       "title": "lllrrr2/TVBOX-franksun1211",
       "note": "大型历史配置混合仓；适合提取采集API，跳过成人配置、令牌文件、脚本和二进制。",
       "discovery": {
-        "status": "not_run",
-        "checked_at": null,
-        "documents": 0,
-        "sites": 0,
+        "status": "data_read",
+        "checked_at": 1795156141.2214618,
+        "documents": 2,
+        "sites": 69,
         "reference_links": 0
       },
-      "status": "connector_seed_cached",
-      "checked_at": 1795156019.8141036
+      "status": "readable",
+      "checked_at": 1795156141.2214618
     },
     {
       "id": 33,
@@ -1042,14 +1077,14 @@
       "title": "purkylin / vod.json",
       "note": "VOD API与XPTV执行型扩展混合；仅提取HTTP采集API，不运行扩展。",
       "discovery": {
-        "status": "not_run",
-        "checked_at": null,
-        "documents": 0,
-        "sites": 0,
+        "status": "data_read",
+        "checked_at": 1795156183.1230943,
+        "documents": 1,
+        "sites": 35,
         "reference_links": 0
       },
-      "status": "connector_seed_cached",
-      "checked_at": 1795156019.814104
+      "status": "readable",
+      "checked_at": 1795156183.1230943
     },
     {
       "id": 34,
@@ -1058,14 +1093,14 @@
       "title": "s14685/tv",
       "note": "TVBox单仓/多仓及直播混合配置，适合配置索引和公开API线索，不能整包接入。",
       "discovery": {
-        "status": "not_run",
-        "checked_at": null,
-        "documents": 0,
-        "sites": 0,
-        "reference_links": 0
+        "status": "data_read",
+        "checked_at": 1795156184.0063097,
+        "documents": 2,
+        "sites": 84,
+        "reference_links": 25
       },
-      "status": "connector_seed_cached",
-      "checked_at": 1795156019.8141043
+      "status": "readable",
+      "checked_at": 1795156184.0063097
     },
     {
       "id": 35,
@@ -1074,14 +1109,14 @@
       "title": "best-fan/iptv-sources",
       "note": "8份直播列表加README，当前树未提供采集验证脚本；适合直播参考，重复链接已合并。",
       "discovery": {
-        "status": "not_run",
-        "checked_at": null,
-        "documents": 0,
+        "status": "fetch_failed",
+        "checked_at": 1795156223.5012493,
+        "documents": 1,
         "sites": 0,
         "reference_links": 0
       },
-      "status": "connector_seed_cached",
-      "checked_at": 1795156019.8141048
+      "status": "fetch_failed",
+      "checked_at": 1795156223.5012493
     },
     {
       "id": 36,
@@ -1273,18 +1308,18 @@
     }
   },
   "discovery": {
-    "cached_site_URLs": 0,
-    "cached_reference_links": 0,
-    "origins_checked": 1,
-    "updated_at": 1795156023.9287872,
+    "cached_site_URLs": 265,
+    "cached_reference_links": 75,
+    "origins_checked": 14,
+    "updated_at": 1795156243.8040705,
     "media_fetched": false
   },
   "counts": {
     "registered_inputs": 41,
-    "readable_inputs": 14,
+    "readable_inputs": 22,
     "brands": 30,
     "api_hints": 11,
-    "pending_brands": 342,
+    "pending_brands": 422,
     "health_tested": 320,
     "playable_samples": 0,
     "stable_sources": 0
