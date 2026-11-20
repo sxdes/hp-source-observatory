@@ -315,7 +315,8 @@
       "api_count": 1,
       "origin_ids": [
         2,
-        16
+        16,
+        12
       ],
       "disabled": false,
       "checked_at": null,
@@ -588,7 +589,8 @@
         "http://zuidazy.me/",
         "http://zuidazy.net/",
         "http://www.zuidazy4.com/",
-        "http://zuidazy2.net/"
+        "http://zuidazy2.net/",
+        "https://zuidazy.me/"
       ],
       "api_count": 1,
       "origin_ids": [
@@ -596,7 +598,8 @@
         1,
         4,
         5,
-        8
+        8,
+        3
       ],
       "disabled": false,
       "checked_at": null,
@@ -771,6 +774,23 @@
       "status": "untested"
     },
     {
+      "name": "电影天堂",
+      "urls": [
+        "https://api.dyttzy.com/",
+        "https://dyttzy.tv/"
+      ],
+      "api_count": 1,
+      "origin_ids": [
+        2,
+        1,
+        5,
+        16
+      ],
+      "disabled": false,
+      "checked_at": null,
+      "status": "untested"
+    },
+    {
       "name": "百万云",
       "urls": [
         "http://www.baiwanzy.com/",
@@ -922,7 +942,7 @@
         "https://www.ttzy.cc/",
         "http://www.ttzy.cc/"
       ],
-      "api_count": 1,
+      "api_count": 0,
       "origin_ids": [
         2,
         1,
@@ -1359,7 +1379,7 @@
   "counts": {
     "registered_inputs": 18,
     "readable_inputs": 12,
-    "brands": 71,
+    "brands": 72,
     "api_hints": 34,
     "health_tested": 0,
     "playable_samples": 0,
