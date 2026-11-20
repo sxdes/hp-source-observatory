@@ -31,38 +31,6 @@
       "status": "api_readable"
     },
     {
-      "name": "SA视频",
-      "urls": [
-        "https://www.lsjys11.com/"
-      ],
-      "publication_urls": [],
-      "api_count": 0,
-      "resource_verified": true,
-      "verification": "resource_page",
-      "origin_ids": [
-        21
-      ],
-      "disabled": false,
-      "checked_at": 1795155305.38567,
-      "status": "homepage_readable"
-    },
-    {
-      "name": "xbpq成品",
-      "urls": [
-        "https://www.edelholz.cn/"
-      ],
-      "publication_urls": [],
-      "api_count": 0,
-      "resource_verified": true,
-      "verification": "resource_page",
-      "origin_ids": [
-        23
-      ],
-      "disabled": false,
-      "checked_at": 1795155674.569213,
-      "status": "homepage_readable"
-    },
-    {
       "name": "光速",
       "urls": [
         "https://api.guangsuapi.com/api.php/provide/vod/"
@@ -86,70 +54,6 @@
       "disabled": false,
       "checked_at": 1795154016.4929893,
       "status": "api_readable"
-    },
-    {
-      "name": "光速影视",
-      "urls": [
-        "https://www.yingshiso.link/"
-      ],
-      "publication_urls": [],
-      "api_count": 0,
-      "resource_verified": true,
-      "verification": "resource_page",
-      "origin_ids": [
-        21
-      ],
-      "disabled": false,
-      "checked_at": 1795155288.8137538,
-      "status": "homepage_readable"
-    },
-    {
-      "name": "剧踪影院",
-      "urls": [
-        "https://www.juzong01.me/"
-      ],
-      "publication_urls": [],
-      "api_count": 0,
-      "resource_verified": true,
-      "verification": "resource_page",
-      "origin_ids": [
-        21
-      ],
-      "disabled": false,
-      "checked_at": 1795155317.2618132,
-      "status": "homepage_readable"
-    },
-    {
-      "name": "嘀嗒影视",
-      "urls": [
-        "https://www.didahd.xyz/"
-      ],
-      "publication_urls": [],
-      "api_count": 0,
-      "resource_verified": true,
-      "verification": "resource_page",
-      "origin_ids": [
-        21
-      ],
-      "disabled": false,
-      "checked_at": 1795155326.0754473,
-      "status": "homepage_readable"
-    },
-    {
-      "name": "奈飞工厂",
-      "urls": [
-        "https://www.netflixgc.com/"
-      ],
-      "publication_urls": [],
-      "api_count": 0,
-      "resource_verified": true,
-      "verification": "resource_page",
-      "origin_ids": [
-        21
-      ],
-      "disabled": false,
-      "checked_at": 1795155263.4429617,
-      "status": "homepage_readable"
     },
     {
       "name": "无尽",
@@ -223,7 +127,7 @@
     {
       "name": "牛牛",
       "urls": [
-        "https://api.niuniuzy.me/"
+        "https://api.niuniuzy.me/api.php/provide/vod/"
       ],
       "publication_urls": [],
       "api_count": 1,
@@ -321,22 +225,6 @@
       "disabled": false,
       "checked_at": 1795156504.8495705,
       "status": "api_readable"
-    },
-    {
-      "name": "追影",
-      "urls": [
-        "https://zhuiying3.cc/"
-      ],
-      "publication_urls": [],
-      "api_count": 0,
-      "resource_verified": true,
-      "verification": "resource_page",
-      "origin_ids": [
-        21
-      ],
-      "disabled": false,
-      "checked_at": 1795155328.5535758,
-      "status": "homepage_readable"
     },
     {
       "name": "魔都",
@@ -492,6 +380,22 @@
       "status": "homepage_readable"
     },
     {
+      "name": "SA视频",
+      "urls": [
+        "https://www.lsjys11.com/"
+      ],
+      "publication_urls": [],
+      "api_count": 0,
+      "resource_verified": true,
+      "verification": "video_site",
+      "origin_ids": [
+        21
+      ],
+      "disabled": false,
+      "checked_at": 1795155305.38567,
+      "status": "homepage_readable"
+    },
+    {
       "name": "七五网",
       "urls": [
         "https://www.qmp4.com/"
@@ -510,6 +414,54 @@
       "status": "homepage_readable"
     },
     {
+      "name": "光速影视",
+      "urls": [
+        "https://www.yingshiso.link/"
+      ],
+      "publication_urls": [],
+      "api_count": 0,
+      "resource_verified": true,
+      "verification": "video_site",
+      "origin_ids": [
+        21
+      ],
+      "disabled": false,
+      "checked_at": 1795155288.8137538,
+      "status": "homepage_readable"
+    },
+    {
+      "name": "剧踪影院",
+      "urls": [
+        "https://www.juzong01.me/"
+      ],
+      "publication_urls": [],
+      "api_count": 0,
+      "resource_verified": true,
+      "verification": "video_site",
+      "origin_ids": [
+        21
+      ],
+      "disabled": false,
+      "checked_at": 1795155317.2618132,
+      "status": "homepage_readable"
+    },
+    {
+      "name": "嘀嗒影视",
+      "urls": [
+        "https://www.didahd.xyz/"
+      ],
+      "publication_urls": [],
+      "api_count": 0,
+      "resource_verified": true,
+      "verification": "video_site",
+      "origin_ids": [
+        21
+      ],
+      "disabled": false,
+      "checked_at": 1795155326.0754473,
+      "status": "homepage_readable"
+    },
+    {
       "name": "奈菲影视",
       "urls": [
         "https://www.nfyingshi.com/"
@@ -523,6 +475,22 @@
       ],
       "disabled": false,
       "checked_at": 1795155265.3691392,
+      "status": "homepage_readable"
+    },
+    {
+      "name": "奈飞工厂",
+      "urls": [
+        "https://www.netflixgc.com/"
+      ],
+      "publication_urls": [],
+      "api_count": 0,
+      "resource_verified": true,
+      "verification": "video_site",
+      "origin_ids": [
+        21
+      ],
+      "disabled": false,
+      "checked_at": 1795155263.4429617,
       "status": "homepage_readable"
     },
     {
@@ -620,6 +588,22 @@
       ],
       "disabled": false,
       "checked_at": 1795155341.375925,
+      "status": "homepage_readable"
+    },
+    {
+      "name": "追影",
+      "urls": [
+        "https://zhuiying3.cc/"
+      ],
+      "publication_urls": [],
+      "api_count": 0,
+      "resource_verified": true,
+      "verification": "video_site",
+      "origin_ids": [
+        21
+      ],
+      "disabled": false,
+      "checked_at": 1795155328.5535758,
       "status": "homepage_readable"
     },
     {
@@ -1399,9 +1383,9 @@
   "counts": {
     "registered_inputs": 41,
     "readable_inputs": 28,
-    "brands": 34,
+    "brands": 33,
     "api_hints": 15,
-    "pending_brands": 519,
+    "pending_brands": 579,
     "health_tested": 326,
     "playable_samples": 0,
     "stable_sources": 0
