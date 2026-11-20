@@ -1,10 +1,10 @@
 {
   "schema": 1,
   "generated_at": 1795155963.07442,
-  "detected_at": 1795174864.801205,
+  "detected_at": 1795190870.491927,
   "health_checked_at": 1795183314.4597678,
-  "last_attempt_at": 1795188989.106381,
-  "last_attempt": "not_due",
+  "last_attempt_at": 1795190829.523555,
+  "last_attempt": "completed",
   "model_calls": 0,
   "execution": "HP · 国内直连 · 空闲检测",
   "sources": [
@@ -30,8 +30,8 @@
       "checked_at": 1795183303.9048328,
       "status": "api_readable",
       "playback": {
-        "stage": "previous_sample_not_passed",
-        "checked_at": 1795168584.1872003
+        "stage": "segments_slow",
+        "checked_at": 1795190870.491927
       }
     },
     {
@@ -59,8 +59,8 @@
       "checked_at": 1795183309.2773256,
       "status": "api_readable",
       "playback": {
-        "stage": "shared_sample",
-        "checked_at": 1795174864.801205
+        "stage": "identity_unverified",
+        "checked_at": 1795190870.491927
       }
     },
     {
@@ -348,8 +348,8 @@
       "checked_at": 1795156504.8495705,
       "status": "api_readable",
       "playback": {
-        "stage": "shared_sample",
-        "checked_at": 1795174864.801205
+        "stage": "segments_fast",
+        "checked_at": 1795190870.491927
       }
     },
     {
@@ -403,8 +403,8 @@
       "checked_at": 1795183306.224326,
       "status": "api_readable",
       "playback": {
-        "stage": "segments_slow",
-        "checked_at": 1795172485.356886
+        "stage": "sample_incomplete",
+        "checked_at": 1795190870.491927
       }
     },
     {
@@ -1547,23 +1547,23 @@
       "missing": [],
       "segments": 2,
       "segments_fast": true,
-      "decode": "sample_passed",
+      "decode": "not_tested",
       "same_media_as": null,
-      "checked_at": 1795170455.548913,
+      "checked_at": 1795190870.491927,
       "stable": false
     },
     {
-      "name": "光速",
+      "name": "360",
       "identity": true,
       "coverage": "sampled",
       "encryption": "AES-128",
       "complete_sequence": true,
       "missing": [],
       "segments": 2,
-      "segments_fast": true,
+      "segments_fast": false,
       "decode": "not_tested",
-      "same_media_as": "红牛",
-      "checked_at": 1795174864.801205,
+      "same_media_as": null,
+      "checked_at": 1795190870.491927,
       "stable": false
     },
     {
@@ -1576,8 +1576,50 @@
       "segments": 2,
       "segments_fast": true,
       "decode": "not_tested",
-      "same_media_as": "红牛",
-      "checked_at": 1795174864.801205,
+      "same_media_as": null,
+      "checked_at": 1795190870.491927,
+      "stable": false
+    },
+    {
+      "name": "魔都",
+      "identity": true,
+      "coverage": "probe_failed",
+      "encryption": "none",
+      "complete_sequence": true,
+      "missing": [],
+      "segments": 1,
+      "segments_fast": true,
+      "decode": "not_tested",
+      "same_media_as": null,
+      "checked_at": 1795190870.491927,
+      "stable": false
+    },
+    {
+      "name": "光速",
+      "identity": false,
+      "coverage": "not_tested",
+      "encryption": "unknown",
+      "complete_sequence": false,
+      "missing": [],
+      "segments": 0,
+      "segments_fast": false,
+      "decode": "not_tested",
+      "same_media_as": null,
+      "checked_at": 1795190870.491927,
+      "stable": false
+    },
+    {
+      "name": "ikun",
+      "identity": false,
+      "coverage": "not_tested",
+      "encryption": "unknown",
+      "complete_sequence": false,
+      "missing": [],
+      "segments": 0,
+      "segments_fast": false,
+      "decode": "not_tested",
+      "same_media_as": null,
+      "checked_at": 1795190870.491927,
       "stable": false
     }
   ],
