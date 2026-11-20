@@ -450,7 +450,8 @@
       "resource_verified": true,
       "verification": "video_site",
       "origin_ids": [
-        21
+        21,
+        26
       ],
       "disabled": false,
       "checked_at": 1795155281.8430893,
@@ -526,6 +527,15 @@
       "id": 1,
       "url": "https://www.garygeng.net/buildsite/yingshiziyuanzhandaquan-dianshidianyingzidongcaijizhanbibei/",
       "kind": "article",
+      "title": "",
+      "note": "",
+      "discovery": {
+        "status": "not_run",
+        "checked_at": null,
+        "documents": 0,
+        "sites": 0,
+        "reference_links": 0
+      },
       "status": "readable",
       "checked_at": 1795150860.7562954
     },
@@ -533,6 +543,15 @@
       "id": 2,
       "url": "https://github.com/mylazily/ziyuanzhan",
       "kind": "github_directory_monitor",
+      "title": "mylazily/ziyuanzhan",
+      "note": "资源站/API候选清单，现有缓存保留；上游首页在线状态不代替HP验证。",
+      "discovery": {
+        "status": "not_run",
+        "checked_at": null,
+        "documents": 0,
+        "sites": 0,
+        "reference_links": 0
+      },
       "status": "connector_seed_cached",
       "checked_at": 1795150860.7562954
     },
@@ -540,6 +559,15 @@
       "id": 3,
       "url": "https://zuidazy.me/vodtype/13.html",
       "kind": "mixed_resource_catalogue",
+      "title": "",
+      "note": "",
+      "discovery": {
+        "status": "not_run",
+        "checked_at": null,
+        "documents": 0,
+        "sites": 0,
+        "reference_links": 0
+      },
       "status": "fetch_failed",
       "checked_at": 1795150860.7562954
     },
@@ -547,6 +575,15 @@
       "id": 4,
       "url": "https://www.yszzdh.com/210.html",
       "kind": "article",
+      "title": "",
+      "note": "",
+      "discovery": {
+        "status": "not_run",
+        "checked_at": null,
+        "documents": 0,
+        "sites": 0,
+        "reference_links": 0
+      },
       "status": "readable",
       "checked_at": 1795150860.7562954
     },
@@ -554,6 +591,15 @@
       "id": 5,
       "url": "https://www.josejang.com/posts/about-work/video-resource-sites-collection/",
       "kind": "mixed_article_directory",
+      "title": "",
+      "note": "",
+      "discovery": {
+        "status": "not_run",
+        "checked_at": null,
+        "documents": 0,
+        "sites": 0,
+        "reference_links": 0
+      },
       "status": "readable",
       "checked_at": 1795150860.7562954
     },
@@ -561,6 +607,15 @@
       "id": 6,
       "url": "https://www.9wdn.com/detail?id=951",
       "kind": "article",
+      "title": "",
+      "note": "",
+      "discovery": {
+        "status": "not_run",
+        "checked_at": null,
+        "documents": 0,
+        "sites": 0,
+        "reference_links": 0
+      },
       "status": "fetch_failed",
       "checked_at": 1795150860.7562954
     },
@@ -568,6 +623,15 @@
       "id": 7,
       "url": "https://www.yszzq.com/ziyuan/",
       "kind": "mixed_navigation",
+      "title": "",
+      "note": "",
+      "discovery": {
+        "status": "not_run",
+        "checked_at": null,
+        "documents": 0,
+        "sites": 0,
+        "reference_links": 0
+      },
       "status": "readable",
       "checked_at": 1795150860.7562954
     },
@@ -575,6 +639,15 @@
       "id": 8,
       "url": "https://www.cxk8.com/jzzh/68.html",
       "kind": "mixed_article_directory",
+      "title": "",
+      "note": "",
+      "discovery": {
+        "status": "not_run",
+        "checked_at": null,
+        "documents": 0,
+        "sites": 0,
+        "reference_links": 0
+      },
       "status": "readable",
       "checked_at": 1795150860.7562954
     },
@@ -582,6 +655,15 @@
       "id": 9,
       "url": "https://woodchen.ink/p/1207",
       "kind": "article",
+      "title": "",
+      "note": "",
+      "discovery": {
+        "status": "not_run",
+        "checked_at": null,
+        "documents": 0,
+        "sites": 0,
+        "reference_links": 0
+      },
       "status": "readable",
       "checked_at": 1795150860.7562954
     },
@@ -589,6 +671,15 @@
       "id": 10,
       "url": "https://www.cunshao.com/forum-post/271519.html",
       "kind": "mixed_forum_directory",
+      "title": "",
+      "note": "",
+      "discovery": {
+        "status": "not_run",
+        "checked_at": null,
+        "documents": 0,
+        "sites": 0,
+        "reference_links": 0
+      },
       "status": "fetch_failed",
       "checked_at": 1795150860.7562954
     },
@@ -596,6 +687,15 @@
       "id": 11,
       "url": "https://linux.do/t/topic/108844",
       "kind": "forum_discussion",
+      "title": "",
+      "note": "",
+      "discovery": {
+        "status": "not_run",
+        "checked_at": null,
+        "documents": 0,
+        "sites": 0,
+        "reference_links": 0
+      },
       "status": "fetch_failed",
       "checked_at": 1795150860.7562954
     },
@@ -603,6 +703,15 @@
       "id": 12,
       "url": "https://www.ikunzy.com/",
       "kind": "mixed_resource_api",
+      "title": "",
+      "note": "",
+      "discovery": {
+        "status": "not_run",
+        "checked_at": null,
+        "documents": 0,
+        "sites": 0,
+        "reference_links": 0
+      },
       "status": "fetch_failed",
       "checked_at": 1795150860.7562954
     },
@@ -610,6 +719,15 @@
       "id": 13,
       "url": "https://www.caijiz.com/",
       "kind": "mixed_navigation",
+      "title": "",
+      "note": "",
+      "discovery": {
+        "status": "not_run",
+        "checked_at": null,
+        "documents": 0,
+        "sites": 0,
+        "reference_links": 0
+      },
       "status": "readable",
       "checked_at": 1795150860.7562954
     },
@@ -617,6 +735,15 @@
       "id": 14,
       "url": "https://www.wujinzy.com/",
       "kind": "mixed_resource_api",
+      "title": "",
+      "note": "",
+      "discovery": {
+        "status": "not_run",
+        "checked_at": null,
+        "documents": 0,
+        "sites": 0,
+        "reference_links": 0
+      },
       "status": "readable",
       "checked_at": 1795150860.7562954
     },
@@ -624,6 +751,15 @@
       "id": 15,
       "url": "https://www.bilibili.com/opus/597379686873046456",
       "kind": "article",
+      "title": "",
+      "note": "",
+      "discovery": {
+        "status": "not_run",
+        "checked_at": null,
+        "documents": 0,
+        "sites": 0,
+        "reference_links": 0
+      },
       "status": "readable",
       "checked_at": 1795150860.7562954
     },
@@ -631,6 +767,15 @@
       "id": 16,
       "url": "https://www.yszzdh.com/",
       "kind": "mixed_navigation",
+      "title": "",
+      "note": "",
+      "discovery": {
+        "status": "not_run",
+        "checked_at": null,
+        "documents": 0,
+        "sites": 0,
+        "reference_links": 0
+      },
       "status": "readable",
       "checked_at": 1795150860.7562954
     },
@@ -638,6 +783,15 @@
       "id": 17,
       "url": "https://www.cnlive.com.cn/",
       "kind": "article_directory_not_verified_official_content_provider",
+      "title": "",
+      "note": "",
+      "discovery": {
+        "status": "not_run",
+        "checked_at": null,
+        "documents": 0,
+        "sites": 0,
+        "reference_links": 0
+      },
       "status": "readable",
       "checked_at": 1795150860.7562954
     },
@@ -645,6 +799,15 @@
       "id": 18,
       "url": "https://www.xiabk.com/thread-1018.htm",
       "kind": "article_directory",
+      "title": "",
+      "note": "",
+      "discovery": {
+        "status": "not_run",
+        "checked_at": null,
+        "documents": 0,
+        "sites": 0,
+        "reference_links": 0
+      },
       "status": "readable",
       "checked_at": 1795150860.7562954
     },
@@ -652,6 +815,15 @@
       "id": 19,
       "url": "https://yzzy.tv/",
       "kind": "resource_publication",
+      "title": "优质资源 · 发布页",
+      "note": "保留发布页，追踪当前资源主站。",
+      "discovery": {
+        "status": "not_run",
+        "checked_at": null,
+        "documents": 0,
+        "sites": 0,
+        "reference_links": 0
+      },
       "status": "readable",
       "checked_at": 1795153304.705177
     },
@@ -659,6 +831,15 @@
       "id": 20,
       "url": "https://gist.github.com/tisyang/2e59d4be4e21a7662fd3b7cadc861c55",
       "kind": "gist_resource_directory",
+      "title": "tisyang · Gist清单",
+      "note": "两配置只作数据提取，167条已完成HP检查。",
+      "discovery": {
+        "status": "not_run",
+        "checked_at": null,
+        "documents": 0,
+        "sites": 0,
+        "reference_links": 0
+      },
       "status": "connector_seed_cached",
       "checked_at": 1795153779.9080577
     },
@@ -666,6 +847,15 @@
       "id": 21,
       "url": "https://github.com/laoma528/awesome-zhuiju-free",
       "kind": "curated_project",
+      "title": "laoma528/awesome-zhuiju-free",
+      "note": "CC BY 4.0精选参考，128条中只提取普通影视公开网站；HP独立验证，不采信无广告宣传。",
+      "discovery": {
+        "status": "fetch_failed",
+        "checked_at": 1795156022.590407,
+        "documents": 1,
+        "sites": 0,
+        "reference_links": 0
+      },
       "status": "connector_seed_cached",
       "checked_at": 1795155191.6500387
     },
@@ -673,6 +863,15 @@
       "id": 22,
       "url": "https://www.qn63.com/",
       "kind": "resource_publication",
+      "title": "七五网 · 发布页",
+      "note": "读取发布页及静态地址数据，保留发布页关联，不执行脚本。",
+      "discovery": {
+        "status": "not_run",
+        "checked_at": null,
+        "documents": 0,
+        "sites": 0,
+        "reference_links": 0
+      },
       "status": "readable",
       "checked_at": 1795155930.0987751
     },
@@ -680,8 +879,305 @@
       "id": 23,
       "url": "https://github.com/dlgt7/TVbox-interface/tree/main",
       "kind": "tvbox_reference",
+      "title": "dlgt7/TVbox-interface",
+      "note": "历史TVBox配置参考，98个小JSON/JSONC已数据提取，不加载执行型规则。",
+      "discovery": {
+        "status": "not_run",
+        "checked_at": null,
+        "documents": 0,
+        "sites": 0,
+        "reference_links": 0
+      },
       "status": "connector_seed_cached",
       "checked_at": 1795155191.6500409
+    },
+    {
+      "id": 24,
+      "url": "https://github.com/52liulian/tvapp_store",
+      "kind": "application_directory",
+      "title": "52liulian/tvapp_store",
+      "note": "应用、教程、TVBox与直播接口汇总；适合找线索，不安装第三方APK。",
+      "discovery": {
+        "status": "not_run",
+        "checked_at": null,
+        "documents": 0,
+        "sites": 0,
+        "reference_links": 0
+      },
+      "status": "connector_seed_cached",
+      "checked_at": 1795156019.8140993
+    },
+    {
+      "id": 25,
+      "url": "https://github.com/CCSH/IPTV",
+      "kind": "iptv_collection",
+      "title": "CCSH/IPTV",
+      "note": "直播、EPG、台标采集项目；频道归一和黑白名单思路可参考，上游测速不代表HP。",
+      "discovery": {
+        "status": "not_run",
+        "checked_at": null,
+        "documents": 0,
+        "sites": 0,
+        "reference_links": 0
+      },
+      "status": "connector_seed_cached",
+      "checked_at": 1795156019.8140998
+    },
+    {
+      "id": 26,
+      "url": "https://www.ymck.vip/",
+      "kind": "video_publication",
+      "title": "影猫仓库 · 地址发布页",
+      "note": "发布主站ymck.pro和备用ymck.me、ymck.xyz，保留发布页并关联实际站点。",
+      "discovery": {
+        "status": "not_run",
+        "checked_at": null,
+        "documents": 0,
+        "sites": 0,
+        "reference_links": 0
+      },
+      "status": "connector_seed_cached",
+      "checked_at": 1795156019.8141005
+    },
+    {
+      "id": 27,
+      "url": "https://www.xxsnav.com/",
+      "kind": "navigation",
+      "title": "XXS导航 · 影视分类",
+      "note": "综合导航，原影视锚点保留，只采影视范围；不能把AI、生活工具或推广链接当片源。",
+      "discovery": {
+        "status": "not_run",
+        "checked_at": null,
+        "documents": 0,
+        "sites": 0,
+        "reference_links": 0
+      },
+      "status": "connector_seed_cached",
+      "checked_at": 1795156019.814101
+    },
+    {
+      "id": 28,
+      "url": "https://github.com/tushen6/Tomorrow",
+      "kind": "tvbox_reference",
+      "title": "tushen6/Tomorrow",
+      "note": "多仓/单仓TVBox与影视仓配置；只解析公开配置数据，不加载JAR、Python或JS爬虫。",
+      "discovery": {
+        "status": "not_run",
+        "checked_at": null,
+        "documents": 0,
+        "sites": 0,
+        "reference_links": 0
+      },
+      "status": "connector_seed_cached",
+      "checked_at": 1795156019.8141015
+    },
+    {
+      "id": 29,
+      "url": "https://github.com/djteang/OrangeTV",
+      "kind": "selfhost_player",
+      "title": "djteang/OrangeTV",
+      "note": "可自建Next.js聚合播放器，空壳无内置源；不能直接放GitHub Pages替代HP检测。去广告仅删不连续标签；LICENSE为CC BY-NC-SA 4.0，与README的MIT徽章不一致。",
+      "discovery": {
+        "status": "not_run",
+        "checked_at": null,
+        "documents": 0,
+        "sites": 0,
+        "reference_links": 0
+      },
+      "status": "connector_seed_cached",
+      "checked_at": 1795156019.814102
+    },
+    {
+      "id": 30,
+      "url": "https://github.com/2hacc/Video/blob/main/TOMATOX%E8%A7%86%E9%A2%91%E6%BA%90.txt",
+      "kind": "resource_api_directory",
+      "title": "2hacc/Video",
+      "note": "TOMATOX和ZY Player资源API清单，含XML格式；接口通过不等于当前JSON插件直接兼容。",
+      "discovery": {
+        "status": "not_run",
+        "checked_at": null,
+        "documents": 0,
+        "sites": 0,
+        "reference_links": 0
+      },
+      "status": "connector_seed_cached",
+      "checked_at": 1795156019.8141024
+    },
+    {
+      "id": 31,
+      "url": "https://github.com/jiaoshoushui/TVBox-",
+      "kind": "tvbox_directory",
+      "title": "jiaoshoushui/TVBox-",
+      "note": "README中的单仓/多仓入口索引，不是检测程序；只登记配置地址。",
+      "discovery": {
+        "status": "not_run",
+        "checked_at": null,
+        "documents": 0,
+        "sites": 0,
+        "reference_links": 0
+      },
+      "status": "connector_seed_cached",
+      "checked_at": 1795156019.8141031
+    },
+    {
+      "id": 32,
+      "url": "https://github.com/lllrrr2/TVBOX-franksun1211",
+      "kind": "tvbox_reference",
+      "title": "lllrrr2/TVBOX-franksun1211",
+      "note": "大型历史配置混合仓；适合提取采集API，跳过成人配置、令牌文件、脚本和二进制。",
+      "discovery": {
+        "status": "not_run",
+        "checked_at": null,
+        "documents": 0,
+        "sites": 0,
+        "reference_links": 0
+      },
+      "status": "connector_seed_cached",
+      "checked_at": 1795156019.8141036
+    },
+    {
+      "id": 33,
+      "url": "https://gist.github.com/purkylin/7a40b71bb66205ce40cf0c7fde55e482",
+      "kind": "gist_resource_directory",
+      "title": "purkylin / vod.json",
+      "note": "VOD API与XPTV执行型扩展混合；仅提取HTTP采集API，不运行扩展。",
+      "discovery": {
+        "status": "not_run",
+        "checked_at": null,
+        "documents": 0,
+        "sites": 0,
+        "reference_links": 0
+      },
+      "status": "connector_seed_cached",
+      "checked_at": 1795156019.814104
+    },
+    {
+      "id": 34,
+      "url": "https://github.com/s14685/tv",
+      "kind": "tvbox_reference",
+      "title": "s14685/tv",
+      "note": "TVBox单仓/多仓及直播混合配置，适合配置索引和公开API线索，不能整包接入。",
+      "discovery": {
+        "status": "not_run",
+        "checked_at": null,
+        "documents": 0,
+        "sites": 0,
+        "reference_links": 0
+      },
+      "status": "connector_seed_cached",
+      "checked_at": 1795156019.8141043
+    },
+    {
+      "id": 35,
+      "url": "https://github.com/best-fan/iptv-sources",
+      "kind": "iptv_playlist",
+      "title": "best-fan/iptv-sources",
+      "note": "8份直播列表加README，当前树未提供采集验证脚本；适合直播参考，重复链接已合并。",
+      "discovery": {
+        "status": "not_run",
+        "checked_at": null,
+        "documents": 0,
+        "sites": 0,
+        "reference_links": 0
+      },
+      "status": "connector_seed_cached",
+      "checked_at": 1795156019.8141048
+    },
+    {
+      "id": 36,
+      "url": "https://github.com/liu673cn/box",
+      "kind": "tvbox_reference",
+      "title": "liu673cn/box",
+      "note": "历史Box配置与多仓清单；只取公开数据，README的DNS修改建议不作为操作指令。",
+      "discovery": {
+        "status": "not_run",
+        "checked_at": null,
+        "documents": 0,
+        "sites": 0,
+        "reference_links": 0
+      },
+      "status": "connector_seed_cached",
+      "checked_at": 1795156019.8141053
+    },
+    {
+      "id": 37,
+      "url": "https://yingshi.xxsnav.com/",
+      "kind": "navigation",
+      "title": "XXS · 影视导航大全",
+      "note": "影视网站入口导航，跳转页只解出公开目标地址，拒绝邀请码、解析器和下载广告。",
+      "discovery": {
+        "status": "not_run",
+        "checked_at": null,
+        "documents": 0,
+        "sites": 0,
+        "reference_links": 0
+      },
+      "status": "connector_seed_cached",
+      "checked_at": 1795156019.8141057
+    },
+    {
+      "id": 38,
+      "url": "https://github.com/suxuang/myIPTV",
+      "kind": "iptv_playlist",
+      "title": "suxuang/myIPTV",
+      "note": "手工维护的IPv4/IPv6直播列表；运营商和地区会影响可用性，保留为直播参考。",
+      "discovery": {
+        "status": "not_run",
+        "checked_at": null,
+        "documents": 0,
+        "sites": 0,
+        "reference_links": 0
+      },
+      "status": "connector_seed_cached",
+      "checked_at": 1795156019.8141065
+    },
+    {
+      "id": 39,
+      "url": "https://github.com/jhihhe/MovieHub",
+      "kind": "desktop_library",
+      "title": "jhihhe/MovieHub",
+      "note": "Electron电影收藏/磁力抓取和TMDB元数据；可借鉴解析、离线缓存、去重。现有窗口关闭sandbox/webSecurity，不直接部署为HP守护；未读.env。",
+      "discovery": {
+        "status": "not_run",
+        "checked_at": null,
+        "documents": 0,
+        "sites": 0,
+        "reference_links": 0
+      },
+      "status": "connector_seed_cached",
+      "checked_at": 1795156019.814107
+    },
+    {
+      "id": 40,
+      "url": "https://www.guanyingdaohang.com/",
+      "kind": "navigation",
+      "title": "观影导航 · 首页",
+      "note": "用户提供的导航入口，保留以便失效时重抓；分类内容由实际页面核实，不以URL数字推断。",
+      "discovery": {
+        "status": "not_run",
+        "checked_at": null,
+        "documents": 0,
+        "sites": 0,
+        "reference_links": 0
+      },
+      "status": "connector_seed_cached",
+      "checked_at": 1795156019.8141074
+    },
+    {
+      "id": 41,
+      "url": "https://www.guanyingdaohang.com/category/90",
+      "kind": "navigation",
+      "title": "观影导航 · 分类90",
+      "note": "用户提供的导航入口，保留以便失效时重抓；分类内容由实际页面核实，不以URL数字推断。",
+      "discovery": {
+        "status": "not_run",
+        "checked_at": null,
+        "documents": 0,
+        "sites": 0,
+        "reference_links": 0
+      },
+      "status": "connector_seed_cached",
+      "checked_at": 1795156019.8141117
     }
   ],
   "tests": [
@@ -776,8 +1272,15 @@
       }
     }
   },
+  "discovery": {
+    "cached_site_URLs": 0,
+    "cached_reference_links": 0,
+    "origins_checked": 1,
+    "updated_at": 1795156023.9287872,
+    "media_fetched": false
+  },
   "counts": {
-    "registered_inputs": 23,
+    "registered_inputs": 41,
     "readable_inputs": 14,
     "brands": 30,
     "api_hints": 11,
