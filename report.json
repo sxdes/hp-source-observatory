@@ -1,8 +1,8 @@
 {
   "schema": 1,
-  "generated_at": 1795153310.8062525,
+  "generated_at": 1795154139.4445903,
   "detected_at": "2026-11-20T04:44:25.309278+00:00",
-  "health_checked_at": 1795153310.80625,
+  "health_checked_at": 1795154139.4445899,
   "last_attempt_at": 1795153774.2340348,
   "last_attempt": "not_due",
   "model_calls": 0,
@@ -46,6 +46,26 @@
       "status": "publication_verified"
     },
     {
+      "name": "光速",
+      "urls": [
+        "https://api.guangsuapi.com/api.php/provide/vod/"
+      ],
+      "publication_urls": [],
+      "api_count": 1,
+      "resource_verified": true,
+      "verification": "api",
+      "origin_ids": [
+        2,
+        5,
+        9,
+        18,
+        20
+      ],
+      "disabled": false,
+      "checked_at": 1795154016.4929893,
+      "status": "api_readable"
+    },
+    {
       "name": "无尽",
       "urls": [
         "https://api.wujinapi.me/api.php/provide/vod/from/wjm3u8/"
@@ -63,8 +83,8 @@
         20
       ],
       "disabled": false,
-      "checked_at": null,
-      "status": "untested"
+      "checked_at": 1795154031.9729192,
+      "status": "api_failed"
     },
     {
       "name": "最大",
@@ -86,6 +106,56 @@
       "disabled": false,
       "checked_at": null,
       "status": "untested"
+    },
+    {
+      "name": "橘猫影视",
+      "urls": [
+        "http://www.zitv.cc/api.php/provide/vod/"
+      ],
+      "publication_urls": [],
+      "api_count": 1,
+      "resource_verified": true,
+      "verification": "api",
+      "origin_ids": [
+        20
+      ],
+      "disabled": false,
+      "checked_at": 1795154115.2571316,
+      "status": "api_readable"
+    },
+    {
+      "name": "百度",
+      "urls": [
+        "https://api.apibdzy.com/api.php/provide/vod/"
+      ],
+      "publication_urls": [],
+      "api_count": 1,
+      "resource_verified": true,
+      "verification": "api",
+      "origin_ids": [
+        2,
+        5,
+        20
+      ],
+      "disabled": false,
+      "checked_at": 1795154028.9116876,
+      "status": "api_readable"
+    },
+    {
+      "name": "艾旦影视",
+      "urls": [
+        "https://lovedan.net/api.php/provide/vod/"
+      ],
+      "publication_urls": [],
+      "api_count": 1,
+      "resource_verified": true,
+      "verification": "api",
+      "origin_ids": [
+        20
+      ],
+      "disabled": false,
+      "checked_at": 1795154103.217342,
+      "status": "api_readable"
     },
     {
       "name": "魔都",
@@ -301,21 +371,21 @@
     }
   ],
   "gist": {
-    "status": "running",
+    "status": "completed",
     "total": 167,
-    "completed": 80,
-    "checked_at": 1795153961.5534399,
-    "api_verified": 0,
+    "completed": 167,
+    "checked_at": 1795154139.4445853,
+    "api_verified": 4,
     "web_verified": 0,
-    "failed": 73
+    "failed": 148
   },
   "counts": {
     "registered_inputs": 20,
     "readable_inputs": 13,
-    "brands": 5,
-    "api_hints": 4,
-    "pending_brands": 212,
-    "health_tested": 84,
+    "brands": 9,
+    "api_hints": 8,
+    "pending_brands": 208,
+    "health_tested": 165,
     "playable_samples": 0,
     "stable_sources": 0
   },
