@@ -1,7 +1,7 @@
 {
   "schema": 1,
   "generated_at": 1795155963.07442,
-  "detected_at": "2026-11-20T09:51:26.672182+00:00",
+  "detected_at": "2026-11-20T10:27:35.548913+00:00",
   "health_checked_at": 1795168600.1188626,
   "last_attempt_at": 1795170202.3551974,
   "last_attempt": "not_due",
@@ -72,32 +72,6 @@
       ],
       "disabled": false,
       "checked_at": 1795159555.1568162,
-      "status": "api_failed"
-    },
-    {
-      "name": "无尽",
-      "urls": [
-        "https://api.wujinapi.me/api.php/provide/vod/from/wjm3u8/"
-      ],
-      "publication_urls": [],
-      "api_count": 1,
-      "resource_verified": true,
-      "verification": "api",
-      "origin_ids": [
-        2,
-        5,
-        9,
-        14,
-        16,
-        20,
-        28,
-        32,
-        33,
-        34,
-        41
-      ],
-      "disabled": false,
-      "checked_at": 1795154031.9729192,
       "status": "api_failed"
     },
     {
@@ -1413,18 +1387,6 @@
   ],
   "tests": [
     {
-      "name": "360",
-      "identity": true,
-      "coverage": "sampled",
-      "encryption": "AES-128",
-      "complete_sequence": true,
-      "missing": [],
-      "segments": 2,
-      "segments_fast": true,
-      "decode": "decode_deadline",
-      "stable": false
-    },
-    {
       "name": "红牛",
       "identity": true,
       "coverage": "sampled",
@@ -1433,43 +1395,7 @@
       "missing": [],
       "segments": 2,
       "segments_fast": true,
-      "decode": "not_tested",
-      "stable": false
-    },
-    {
-      "name": "无尽",
-      "identity": true,
-      "coverage": "sampled",
-      "encryption": "none",
-      "complete_sequence": true,
-      "missing": [],
-      "segments": 2,
-      "segments_fast": false,
-      "decode": "not_tested",
-      "stable": false
-    },
-    {
-      "name": "索尼",
-      "identity": false,
-      "coverage": "not_tested",
-      "encryption": "unknown",
-      "complete_sequence": false,
-      "missing": [],
-      "segments": 0,
-      "segments_fast": false,
-      "decode": "not_tested",
-      "stable": false
-    },
-    {
-      "name": "闪电",
-      "identity": false,
-      "coverage": "not_tested",
-      "encryption": "unknown",
-      "complete_sequence": false,
-      "missing": [],
-      "segments": 0,
-      "segments_fast": false,
-      "decode": "not_tested",
+      "decode": "sample_passed",
       "stable": false
     }
   ],
@@ -1521,11 +1447,11 @@
   "counts": {
     "registered_inputs": 41,
     "readable_inputs": 28,
-    "brands": 39,
-    "api_hints": 21,
-    "pending_brands": 618,
+    "brands": 38,
+    "api_hints": 20,
+    "pending_brands": 619,
     "health_tested": 361,
-    "playable_samples": 0,
+    "playable_samples": 1,
     "stable_sources": 0
   },
   "policy": {
