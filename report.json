@@ -1,0 +1,1375 @@
+{
+  "schema": 1,
+  "generated_at": 1795150940.4492304,
+  "detected_at": "2026-11-20T04:44:25.309278+00:00",
+  "health_checked_at": null,
+  "last_attempt_at": 1795150114.6815095,
+  "last_attempt": "not_due",
+  "model_calls": 0,
+  "execution": "HP · 国内直连 · 空闲检测",
+  "sources": [
+    {
+      "name": "123库",
+      "urls": [
+        "http://www.123ku.com/"
+      ],
+      "api_count": 0,
+      "origin_ids": [
+        1,
+        5,
+        8
+      ],
+      "disabled": false,
+      "checked_at": null,
+      "status": "untested"
+    },
+    {
+      "name": "131",
+      "urls": [
+        "http://131zy.vip/"
+      ],
+      "api_count": 0,
+      "origin_ids": [
+        1,
+        4,
+        5,
+        8
+      ],
+      "disabled": false,
+      "checked_at": null,
+      "status": "untested"
+    },
+    {
+      "name": "135",
+      "urls": [
+        "http://135zy.cc/",
+        "http://135zy0.com/"
+      ],
+      "api_count": 0,
+      "origin_ids": [
+        1,
+        4,
+        5,
+        8
+      ],
+      "disabled": false,
+      "checked_at": null,
+      "status": "untested"
+    },
+    {
+      "name": "156",
+      "urls": [
+        "http://www.156zy.cc/",
+        "http://www.156zy.me/",
+        "http://www.1156zy.net/"
+      ],
+      "api_count": 0,
+      "origin_ids": [
+        1,
+        4,
+        5,
+        8
+      ],
+      "disabled": false,
+      "checked_at": null,
+      "status": "untested"
+    },
+    {
+      "name": "172",
+      "urls": [
+        "http://www.172zy.net/",
+        "http://www.172zy.net（合并最大/"
+      ],
+      "api_count": 0,
+      "origin_ids": [
+        1,
+        4,
+        5,
+        8
+      ],
+      "disabled": false,
+      "checked_at": null,
+      "status": "untested"
+    },
+    {
+      "name": "1977",
+      "urls": [
+        "http://www.1977zy.com/",
+        "http://www.1977zy.com（合并最大/"
+      ],
+      "api_count": 0,
+      "origin_ids": [
+        1,
+        4,
+        5,
+        8
+      ],
+      "disabled": false,
+      "checked_at": null,
+      "status": "untested"
+    },
+    {
+      "name": "360",
+      "urls": [
+        "https://360zy.com/",
+        "https://www.360zy.com/"
+      ],
+      "api_count": 1,
+      "origin_ids": [
+        2,
+        16
+      ],
+      "disabled": false,
+      "checked_at": null,
+      "status": "untested"
+    },
+    {
+      "name": "398",
+      "urls": [
+        "https://www.398zy.com/",
+        "http://www.398zy.com/",
+        "https://mac.398zy.com/",
+        "http://www.398zy.com（已经GG/"
+      ],
+      "api_count": 0,
+      "origin_ids": [
+        1,
+        4,
+        5,
+        8
+      ],
+      "disabled": false,
+      "checked_at": null,
+      "status": "untested"
+    },
+    {
+      "name": "520",
+      "urls": [
+        "http://www.520zyz.com/"
+      ],
+      "api_count": 0,
+      "origin_ids": [
+        1,
+        5,
+        8
+      ],
+      "disabled": false,
+      "checked_at": null,
+      "status": "untested"
+    },
+    {
+      "name": "605",
+      "urls": [
+        "http://www.765zy.com/"
+      ],
+      "api_count": 0,
+      "origin_ids": [
+        1,
+        4,
+        5,
+        8
+      ],
+      "disabled": false,
+      "checked_at": null,
+      "status": "untested"
+    },
+    {
+      "name": "88",
+      "urls": [
+        "http://www.88zyw.net/"
+      ],
+      "api_count": 0,
+      "origin_ids": [
+        1,
+        5
+      ],
+      "disabled": false,
+      "checked_at": null,
+      "status": "untested"
+    },
+    {
+      "name": "8K",
+      "urls": [
+        "https://www.8k.cm/",
+        "https://8k.cm/"
+      ],
+      "api_count": 0,
+      "origin_ids": [
+        1,
+        5
+      ],
+      "disabled": false,
+      "checked_at": null,
+      "status": "untested"
+    },
+    {
+      "name": "CK",
+      "urls": [
+        "https://api.ckzy.com/",
+        "https://www.ckzy.cc/",
+        "http://www.ckzy.cc/",
+        "http://www.ckzy1.com/"
+      ],
+      "api_count": 1,
+      "origin_ids": [
+        2,
+        5,
+        9
+      ],
+      "disabled": false,
+      "checked_at": null,
+      "status": "untested"
+    },
+    {
+      "name": "C值云",
+      "urls": [
+        "http://www.czhiyun.com/",
+        "http://www.czhiziyuan.com/"
+      ],
+      "api_count": 0,
+      "origin_ids": [
+        1,
+        4,
+        5,
+        8
+      ],
+      "disabled": false,
+      "checked_at": null,
+      "status": "untested"
+    },
+    {
+      "name": "FOX",
+      "urls": [
+        "https://help.foxzyapi.com/"
+      ],
+      "api_count": 0,
+      "origin_ids": [
+        18
+      ],
+      "disabled": false,
+      "checked_at": null,
+      "status": "untested"
+    },
+    {
+      "name": "OK",
+      "urls": [
+        "https://api.okzy.com/",
+        "http://www.haozy.cc/",
+        "https://okzyw.cc/",
+        "https://www.okzy10.com/",
+        "http://www.okzyw.net/"
+      ],
+      "api_count": 1,
+      "origin_ids": [
+        2,
+        1,
+        4,
+        5,
+        8,
+        9,
+        16
+      ],
+      "disabled": false,
+      "checked_at": null,
+      "status": "untested"
+    },
+    {
+      "name": "TOM",
+      "urls": [
+        "http://tomziyuan.com/"
+      ],
+      "api_count": 0,
+      "origin_ids": [
+        18
+      ],
+      "disabled": false,
+      "checked_at": null,
+      "status": "untested"
+    },
+    {
+      "name": "U酷",
+      "urls": [
+        "https://api.ukuzy.com/",
+        "http://www.kukuzy.com/",
+        "https://ukuzy0.com/"
+      ],
+      "api_count": 1,
+      "origin_ids": [
+        2,
+        1,
+        4,
+        5,
+        8,
+        9
+      ],
+      "disabled": false,
+      "checked_at": null,
+      "status": "untested"
+    },
+    {
+      "name": "ikun",
+      "urls": [
+        "https://ikunzyapi.com/",
+        "https://www.ikunzy.com/"
+      ],
+      "api_count": 1,
+      "origin_ids": [
+        2,
+        16
+      ],
+      "disabled": false,
+      "checked_at": null,
+      "status": "untested"
+    },
+    {
+      "name": "乐多",
+      "urls": [
+        "http://www.leduozy.com/"
+      ],
+      "api_count": 0,
+      "origin_ids": [
+        1,
+        4,
+        5,
+        8
+      ],
+      "disabled": false,
+      "checked_at": null,
+      "status": "untested"
+    },
+    {
+      "name": "乐库",
+      "urls": [
+        "http://www.wokanzy.com/"
+      ],
+      "api_count": 0,
+      "origin_ids": [
+        1,
+        5
+      ],
+      "disabled": false,
+      "checked_at": null,
+      "status": "untested"
+    },
+    {
+      "name": "优质",
+      "urls": [
+        "https://api.yzzy.com/",
+        "https://www.1080zyk.com/"
+      ],
+      "api_count": 1,
+      "origin_ids": [
+        2,
+        16
+      ],
+      "disabled": false,
+      "checked_at": null,
+      "status": "untested"
+    },
+    {
+      "name": "值资",
+      "urls": [
+        "http://www.ziyuanpian.net/"
+      ],
+      "api_count": 0,
+      "origin_ids": [
+        1,
+        4,
+        5,
+        8
+      ],
+      "disabled": false,
+      "checked_at": null,
+      "status": "untested"
+    },
+    {
+      "name": "光速",
+      "urls": [
+        "https://api.guangsuapi.com/",
+        "https://guangsuzy.com/",
+        "https://help.guangsuzy.com/"
+      ],
+      "api_count": 1,
+      "origin_ids": [
+        2,
+        5,
+        9,
+        18
+      ],
+      "disabled": false,
+      "checked_at": null,
+      "status": "untested"
+    },
+    {
+      "name": "八戒",
+      "urls": [
+        "http://zy.bajieziyuan.com/",
+        "https://bajiezy.cc/"
+      ],
+      "api_count": 0,
+      "origin_ids": [
+        1,
+        4,
+        5,
+        8
+      ],
+      "disabled": false,
+      "checked_at": null,
+      "status": "untested"
+    },
+    {
+      "name": "卧龙",
+      "urls": [
+        "http://wolongzy.net/",
+        "https://wolongzy.net/",
+        "http://wolongzyw.com/"
+      ],
+      "api_count": 0,
+      "origin_ids": [
+        1,
+        4,
+        5,
+        8,
+        9
+      ],
+      "disabled": false,
+      "checked_at": null,
+      "status": "untested"
+    },
+    {
+      "name": "哈酷",
+      "urls": [
+        "http://www.666zy.com/"
+      ],
+      "api_count": 0,
+      "origin_ids": [
+        1,
+        4,
+        5,
+        8
+      ],
+      "disabled": false,
+      "checked_at": null,
+      "status": "untested"
+    },
+    {
+      "name": "天堂",
+      "urls": [
+        "https://tiantangzy.com/"
+      ],
+      "api_count": 0,
+      "origin_ids": [
+        1,
+        4,
+        5
+      ],
+      "disabled": false,
+      "checked_at": null,
+      "status": "untested"
+    },
+    {
+      "name": "天涯影视",
+      "urls": [
+        "https://tyyszyapi.com/"
+      ],
+      "api_count": 1,
+      "origin_ids": [
+        2
+      ],
+      "disabled": false,
+      "checked_at": null,
+      "status": "untested"
+    },
+    {
+      "name": "如意",
+      "urls": [
+        "https://api.ryzy.com/",
+        "https://ryzy.tv/"
+      ],
+      "api_count": 1,
+      "origin_ids": [
+        2,
+        16
+      ],
+      "disabled": false,
+      "checked_at": null,
+      "status": "untested"
+    },
+    {
+      "name": "快车",
+      "urls": [
+        "https://api.kczy.com/",
+        "http://kuaichezy.com/",
+        "https://help.kczyapi.com/"
+      ],
+      "api_count": 1,
+      "origin_ids": [
+        2,
+        5,
+        9,
+        18
+      ],
+      "disabled": false,
+      "checked_at": null,
+      "status": "untested"
+    },
+    {
+      "name": "搜乐",
+      "urls": [
+        "https://www.solezy.com/"
+      ],
+      "api_count": 0,
+      "origin_ids": [
+        1,
+        5,
+        8
+      ],
+      "disabled": false,
+      "checked_at": null,
+      "status": "untested"
+    },
+    {
+      "name": "新浪",
+      "urls": [
+        "https://api.xlzy.com/",
+        "https://www.xinlangzy.com/",
+        "https://xinlangzy.com/"
+      ],
+      "api_count": 1,
+      "origin_ids": [
+        2,
+        5,
+        9,
+        16,
+        18
+      ],
+      "disabled": false,
+      "checked_at": null,
+      "status": "untested"
+    },
+    {
+      "name": "无尽",
+      "urls": [
+        "https://api.wujinapi.me/",
+        "http://www.wujinzy.net/",
+        "http://help.wujinapi.me/",
+        "https://www.wujinzy.com/"
+      ],
+      "api_count": 1,
+      "origin_ids": [
+        2,
+        5,
+        9,
+        14,
+        16
+      ],
+      "disabled": false,
+      "checked_at": null,
+      "status": "untested"
+    },
+    {
+      "name": "暴风",
+      "urls": [
+        "https://bfzyapi.com/",
+        "https://bfzy.tv/"
+      ],
+      "api_count": 1,
+      "origin_ids": [
+        2,
+        16
+      ],
+      "disabled": false,
+      "checked_at": null,
+      "status": "untested"
+    },
+    {
+      "name": "最大",
+      "urls": [
+        "http://zuidazy.me/",
+        "http://zuidazy.net/",
+        "http://www.zuidazy4.com/",
+        "http://zuidazy2.net/"
+      ],
+      "api_count": 1,
+      "origin_ids": [
+        2,
+        1,
+        4,
+        5,
+        8
+      ],
+      "disabled": false,
+      "checked_at": null,
+      "status": "untested"
+    },
+    {
+      "name": "最快",
+      "urls": [
+        "http://zuikzy.cc/",
+        "http://zuikzy.cc（更名为1866资源/"
+      ],
+      "api_count": 0,
+      "origin_ids": [
+        1,
+        4,
+        5,
+        8
+      ],
+      "disabled": false,
+      "checked_at": null,
+      "status": "untested"
+    },
+    {
+      "name": "最新",
+      "urls": [
+        "http://www.zuixzy.com/",
+        "http://www.zuixinzy.cc/",
+        "https://www.zuixzy.com/",
+        "https://www.zuixinzy.com/"
+      ],
+      "api_count": 0,
+      "origin_ids": [
+        1,
+        4,
+        5,
+        8
+      ],
+      "disabled": false,
+      "checked_at": null,
+      "status": "untested"
+    },
+    {
+      "name": "极速",
+      "urls": [
+        "https://jszyapi.com/",
+        "https://www.jisuzy.com/"
+      ],
+      "api_count": 1,
+      "origin_ids": [
+        2,
+        16
+      ],
+      "disabled": false,
+      "checked_at": null,
+      "status": "untested"
+    },
+    {
+      "name": "极速云",
+      "urls": [
+        "http://www.caijizy.com/"
+      ],
+      "api_count": 0,
+      "origin_ids": [
+        1,
+        4,
+        5,
+        8
+      ],
+      "disabled": false,
+      "checked_at": null,
+      "status": "untested"
+    },
+    {
+      "name": "樱花",
+      "urls": [
+        "https://m3u8.apiyhzy.com/",
+        "http://yinghuazy.com/"
+      ],
+      "api_count": 1,
+      "origin_ids": [
+        2,
+        1,
+        5
+      ],
+      "disabled": false,
+      "checked_at": null,
+      "status": "untested"
+    },
+    {
+      "name": "步步高",
+      "urls": [
+        "http://www.bbkdj.com/"
+      ],
+      "api_count": 0,
+      "origin_ids": [
+        1,
+        4,
+        5,
+        8
+      ],
+      "disabled": false,
+      "checked_at": null,
+      "status": "untested"
+    },
+    {
+      "name": "永久",
+      "urls": [
+        "http://yongjiuzy.cc/",
+        "http://www.yongjiuzy1.com/",
+        "http://www.yongjiuzy.vip/"
+      ],
+      "api_count": 0,
+      "origin_ids": [
+        1,
+        4,
+        5,
+        8
+      ],
+      "disabled": false,
+      "checked_at": null,
+      "status": "untested"
+    },
+    {
+      "name": "淘片",
+      "urls": [
+        "https://api.tpzy.com/",
+        "https://www.taopianzy.com/"
+      ],
+      "api_count": 1,
+      "origin_ids": [
+        2,
+        5,
+        9,
+        18
+      ],
+      "disabled": false,
+      "checked_at": null,
+      "status": "untested"
+    },
+    {
+      "name": "牛牛",
+      "urls": [
+        "https://api.niuniuzy.me/",
+        "http://niuniuzy.com/",
+        "http://www.niuniuzy.net/"
+      ],
+      "api_count": 1,
+      "origin_ids": [
+        2,
+        5
+      ],
+      "disabled": false,
+      "checked_at": null,
+      "status": "untested"
+    },
+    {
+      "name": "猫眼",
+      "urls": [
+        "https://api.maoyanapi.top/",
+        "http://maoyan123.com/"
+      ],
+      "api_count": 1,
+      "origin_ids": [
+        2,
+        1,
+        4,
+        5,
+        8
+      ],
+      "disabled": false,
+      "checked_at": null,
+      "status": "untested"
+    },
+    {
+      "name": "百万云",
+      "urls": [
+        "http://www.baiwanzy.com/",
+        "https://www.baiwanzy.com/"
+      ],
+      "api_count": 0,
+      "origin_ids": [
+        1,
+        4,
+        5,
+        8
+      ],
+      "disabled": false,
+      "checked_at": null,
+      "status": "untested"
+    },
+    {
+      "name": "百度",
+      "urls": [
+        "https://api.apibdzy.com/",
+        "http://bdzy.com/",
+        "http://help.apibdzy.com/"
+      ],
+      "api_count": 1,
+      "origin_ids": [
+        2,
+        5
+      ],
+      "disabled": false,
+      "checked_at": null,
+      "status": "untested"
+    },
+    {
+      "name": "秒播",
+      "urls": [
+        "https://www.mb700.com/"
+      ],
+      "api_count": 0,
+      "origin_ids": [
+        1,
+        5,
+        8
+      ],
+      "disabled": false,
+      "checked_at": null,
+      "status": "untested"
+    },
+    {
+      "name": "索尼",
+      "urls": [
+        "https://suonizy.net/",
+        "https://suonizy.com/"
+      ],
+      "api_count": 1,
+      "origin_ids": [
+        2,
+        5,
+        9,
+        16
+      ],
+      "disabled": false,
+      "checked_at": null,
+      "status": "untested"
+    },
+    {
+      "name": "红牛",
+      "urls": [
+        "http://hongniuzy2.com/",
+        "https://www.hongniuzy.com/",
+        "https://www.hongniuziyuan.com/"
+      ],
+      "api_count": 1,
+      "origin_ids": [
+        2,
+        5,
+        9,
+        16
+      ],
+      "disabled": false,
+      "checked_at": null,
+      "status": "untested"
+    },
+    {
+      "name": "茅台",
+      "urls": [
+        "https://mtzy5.com/",
+        "https://mtzy.me/"
+      ],
+      "api_count": 1,
+      "origin_ids": [
+        2,
+        16
+      ],
+      "disabled": false,
+      "checked_at": null,
+      "status": "untested"
+    },
+    {
+      "name": "虎牙",
+      "urls": [
+        "https://huyazy.net/"
+      ],
+      "api_count": 1,
+      "origin_ids": [
+        2
+      ],
+      "disabled": false,
+      "checked_at": null,
+      "status": "untested"
+    },
+    {
+      "name": "豆瓣",
+      "urls": [
+        "https://dbzy.tv/",
+        "http://www.doubanzy.com/",
+        "https://www.doubanzy.com/"
+      ],
+      "api_count": 1,
+      "origin_ids": [
+        2,
+        1,
+        4,
+        5,
+        8,
+        9,
+        16
+      ],
+      "disabled": false,
+      "checked_at": null,
+      "status": "untested"
+    },
+    {
+      "name": "豪华",
+      "urls": [
+        "https://haohuazy.com/"
+      ],
+      "api_count": 1,
+      "origin_ids": [
+        2
+      ],
+      "disabled": false,
+      "checked_at": null,
+      "status": "untested"
+    },
+    {
+      "name": "超快",
+      "urls": [
+        "http://265zy.cc/",
+        "https://www.ttzy.cc/",
+        "http://www.ttzy.cc/"
+      ],
+      "api_count": 1,
+      "origin_ids": [
+        2,
+        1,
+        5,
+        16
+      ],
+      "disabled": false,
+      "checked_at": null,
+      "status": "untested"
+    },
+    {
+      "name": "超级",
+      "urls": [
+        "http://chaojizy.com/"
+      ],
+      "api_count": 0,
+      "origin_ids": [
+        1,
+        4,
+        5,
+        8
+      ],
+      "disabled": false,
+      "checked_at": null,
+      "status": "untested"
+    },
+    {
+      "name": "速播",
+      "urls": [
+        "https://subocj.com/",
+        "https://www.subo8988.com/"
+      ],
+      "api_count": 1,
+      "origin_ids": [
+        2,
+        1,
+        4,
+        5,
+        8
+      ],
+      "disabled": false,
+      "checked_at": null,
+      "status": "untested"
+    },
+    {
+      "name": "速更",
+      "urls": [
+        "https://www.sugengzy.cn/"
+      ],
+      "api_count": 0,
+      "origin_ids": [
+        18
+      ],
+      "disabled": false,
+      "checked_at": null,
+      "status": "untested"
+    },
+    {
+      "name": "酷云",
+      "urls": [
+        "http://www.kuyunzy1.com/",
+        "http://kuyunzy.cc/",
+        "https://2kuyun.com/",
+        "http://www.kuyunzy.net/"
+      ],
+      "api_count": 0,
+      "origin_ids": [
+        1,
+        4,
+        5,
+        8
+      ],
+      "disabled": false,
+      "checked_at": null,
+      "status": "untested"
+    },
+    {
+      "name": "酷播",
+      "urls": [
+        "http://kubozy.net/"
+      ],
+      "api_count": 0,
+      "origin_ids": [
+        1,
+        4,
+        5,
+        8
+      ],
+      "disabled": false,
+      "checked_at": null,
+      "status": "untested"
+    },
+    {
+      "name": "酷点",
+      "urls": [
+        "https://kudianzy.com/"
+      ],
+      "api_count": 0,
+      "origin_ids": [
+        18
+      ],
+      "disabled": false,
+      "checked_at": null,
+      "status": "untested"
+    },
+    {
+      "name": "量子",
+      "urls": [
+        "https://api.lzizy.com/",
+        "https://lzizy.net/",
+        "http://lzizy.net/"
+      ],
+      "api_count": 1,
+      "origin_ids": [
+        2,
+        16,
+        18
+      ],
+      "disabled": false,
+      "checked_at": null,
+      "status": "untested"
+    },
+    {
+      "name": "金鹰",
+      "urls": [
+        "https://jyzyapi.com/",
+        "http://jinyingzy.com/",
+        "https://jinyingzy.net/"
+      ],
+      "api_count": 1,
+      "origin_ids": [
+        2,
+        5,
+        9,
+        16,
+        18
+      ],
+      "disabled": false,
+      "checked_at": null,
+      "status": "untested"
+    },
+    {
+      "name": "闪电",
+      "urls": [
+        "https://api.sdzy.com/",
+        "https://shandianzy.com/",
+        "https://shan01.com/"
+      ],
+      "api_count": 1,
+      "origin_ids": [
+        2,
+        16,
+        18
+      ],
+      "disabled": false,
+      "checked_at": null,
+      "status": "untested"
+    },
+    {
+      "name": "非凡",
+      "urls": [
+        "https://ffzy5.tv/",
+        "https://www.ffzy8.com/",
+        "https://ffzy.tv/"
+      ],
+      "api_count": 1,
+      "origin_ids": [
+        2,
+        5,
+        16
+      ],
+      "disabled": true,
+      "checked_at": null,
+      "status": "untested"
+    },
+    {
+      "name": "高清资源",
+      "urls": [
+        "http://gaoqingzy.com/",
+        "http://www.wuxiou.com/",
+        "https://www.gaoqingzy.com/"
+      ],
+      "api_count": 0,
+      "origin_ids": [
+        1,
+        4,
+        5,
+        8
+      ],
+      "disabled": false,
+      "checked_at": null,
+      "status": "untested"
+    },
+    {
+      "name": "魔卡",
+      "urls": [
+        "https://mokazy.com/"
+      ],
+      "api_count": 0,
+      "origin_ids": [
+        1,
+        5
+      ],
+      "disabled": false,
+      "checked_at": null,
+      "status": "untested"
+    },
+    {
+      "name": "魔都",
+      "urls": [
+        "https://www.mdzyapi.com/"
+      ],
+      "api_count": 1,
+      "origin_ids": [
+        2
+      ],
+      "disabled": false,
+      "checked_at": null,
+      "status": "untested"
+    },
+    {
+      "name": "鸭鸭",
+      "urls": [
+        "https://cj.yayazy.net/"
+      ],
+      "api_count": 1,
+      "origin_ids": [
+        2
+      ],
+      "disabled": false,
+      "checked_at": null,
+      "status": "untested"
+    },
+    {
+      "name": "麻花",
+      "urls": [
+        "http://www.mahuazy.net/",
+        "http://www.mahuazy.com/"
+      ],
+      "api_count": 0,
+      "origin_ids": [
+        1,
+        4,
+        5,
+        8
+      ],
+      "disabled": false,
+      "checked_at": null,
+      "status": "untested"
+    }
+  ],
+  "inputs": [
+    {
+      "id": 1,
+      "url": "https://www.garygeng.net/buildsite/yingshiziyuanzhandaquan-dianshidianyingzidongcaijizhanbibei/",
+      "kind": "article",
+      "status": "readable",
+      "checked_at": 1795150860.7562954
+    },
+    {
+      "id": 2,
+      "url": "https://github.com/mylazily/ziyuanzhan",
+      "kind": "github_directory_monitor",
+      "status": "connector_seed_cached",
+      "checked_at": 1795150860.7562954
+    },
+    {
+      "id": 3,
+      "url": "https://zuidazy.me/vodtype/13.html",
+      "kind": "mixed_resource_catalogue",
+      "status": "fetch_failed",
+      "checked_at": 1795150860.7562954
+    },
+    {
+      "id": 4,
+      "url": "https://www.yszzdh.com/210.html",
+      "kind": "article",
+      "status": "readable",
+      "checked_at": 1795150860.7562954
+    },
+    {
+      "id": 5,
+      "url": "https://www.josejang.com/posts/about-work/video-resource-sites-collection/",
+      "kind": "mixed_article_directory",
+      "status": "readable",
+      "checked_at": 1795150860.7562954
+    },
+    {
+      "id": 6,
+      "url": "https://www.9wdn.com/detail?id=951",
+      "kind": "article",
+      "status": "fetch_failed",
+      "checked_at": 1795150860.7562954
+    },
+    {
+      "id": 7,
+      "url": "https://www.yszzq.com/ziyuan/",
+      "kind": "mixed_navigation",
+      "status": "readable",
+      "checked_at": 1795150860.7562954
+    },
+    {
+      "id": 8,
+      "url": "https://www.cxk8.com/jzzh/68.html",
+      "kind": "mixed_article_directory",
+      "status": "readable",
+      "checked_at": 1795150860.7562954
+    },
+    {
+      "id": 9,
+      "url": "https://woodchen.ink/p/1207",
+      "kind": "article",
+      "status": "readable",
+      "checked_at": 1795150860.7562954
+    },
+    {
+      "id": 10,
+      "url": "https://www.cunshao.com/forum-post/271519.html",
+      "kind": "mixed_forum_directory",
+      "status": "fetch_failed",
+      "checked_at": 1795150860.7562954
+    },
+    {
+      "id": 11,
+      "url": "https://linux.do/t/topic/108844",
+      "kind": "forum_discussion",
+      "status": "fetch_failed",
+      "checked_at": 1795150860.7562954
+    },
+    {
+      "id": 12,
+      "url": "https://www.ikunzy.com/",
+      "kind": "mixed_resource_api",
+      "status": "fetch_failed",
+      "checked_at": 1795150860.7562954
+    },
+    {
+      "id": 13,
+      "url": "https://www.caijiz.com/",
+      "kind": "mixed_navigation",
+      "status": "readable",
+      "checked_at": 1795150860.7562954
+    },
+    {
+      "id": 14,
+      "url": "https://www.wujinzy.com/",
+      "kind": "mixed_resource_api",
+      "status": "readable",
+      "checked_at": 1795150860.7562954
+    },
+    {
+      "id": 15,
+      "url": "https://www.bilibili.com/opus/597379686873046456",
+      "kind": "article",
+      "status": "readable",
+      "checked_at": 1795150860.7562954
+    },
+    {
+      "id": 16,
+      "url": "https://www.yszzdh.com/",
+      "kind": "mixed_navigation",
+      "status": "readable",
+      "checked_at": 1795150860.7562954
+    },
+    {
+      "id": 17,
+      "url": "https://www.cnlive.com.cn/",
+      "kind": "article_directory_not_verified_official_content_provider",
+      "status": "readable",
+      "checked_at": 1795150860.7562954
+    },
+    {
+      "id": 18,
+      "url": "https://www.xiabk.com/thread-1018.htm",
+      "kind": "article_directory",
+      "status": "readable",
+      "checked_at": 1795150860.7562954
+    }
+  ],
+  "tests": [
+    {
+      "name": "ikun",
+      "identity": false,
+      "complete_sequence": false,
+      "missing": [],
+      "segments": 0,
+      "segments_fast": false,
+      "decode": "not_tested",
+      "stable": false
+    },
+    {
+      "name": "最大",
+      "identity": true,
+      "complete_sequence": false,
+      "missing": [
+        8
+      ],
+      "segments": 0,
+      "segments_fast": false,
+      "decode": "not_tested",
+      "stable": false
+    },
+    {
+      "name": "无尽",
+      "identity": true,
+      "complete_sequence": true,
+      "missing": [],
+      "segments": 2,
+      "segments_fast": false,
+      "decode": "not_tested",
+      "stable": false
+    },
+    {
+      "name": "索尼",
+      "identity": false,
+      "complete_sequence": false,
+      "missing": [],
+      "segments": 0,
+      "segments_fast": false,
+      "decode": "not_tested",
+      "stable": false
+    },
+    {
+      "name": "闪电",
+      "identity": false,
+      "complete_sequence": false,
+      "missing": [],
+      "segments": 0,
+      "segments_fast": false,
+      "decode": "not_tested",
+      "stable": false
+    }
+  ],
+  "counts": {
+    "registered_inputs": 18,
+    "readable_inputs": 12,
+    "brands": 71,
+    "api_hints": 34,
+    "health_tested": 0,
+    "playable_samples": 0,
+    "stable_sources": 0
+  },
+  "policy": {
+    "health_interval_hours": 6,
+    "navigation_interval_hours": 24,
+    "stale_after_hours": 30,
+    "github_required_for_detection": false,
+    "automatic_catalogue_import": false
+  }
+}
