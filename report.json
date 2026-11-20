@@ -1,8 +1,8 @@
 {
   "schema": 1,
   "generated_at": 1795155963.07442,
-  "detected_at": "2026-11-20T08:40:08.026842+00:00",
-  "health_checked_at": 1795166804.7835028,
+  "detected_at": "2026-11-20T09:51:26.672182+00:00",
+  "health_checked_at": 1795168600.1188626,
   "last_attempt_at": 1795166528.1627693,
   "last_attempt": "not_due",
   "model_calls": 0,
@@ -103,7 +103,7 @@
     {
       "name": "最大",
       "urls": [
-        "https://api.zuidapi.com/api.php/provide/vod/from/zuidam3u8/"
+        "http://zuidazy.me/api.php/provide/vod/"
       ],
       "publication_urls": [],
       "api_count": 1,
@@ -1413,20 +1413,34 @@
   ],
   "tests": [
     {
-      "name": "最大",
+      "name": "360",
       "identity": true,
-      "complete_sequence": false,
-      "missing": [
-        8
-      ],
-      "segments": 0,
-      "segments_fast": false,
+      "coverage": "sampled",
+      "encryption": "AES-128",
+      "complete_sequence": true,
+      "missing": [],
+      "segments": 2,
+      "segments_fast": true,
+      "decode": "decode_deadline",
+      "stable": false
+    },
+    {
+      "name": "红牛",
+      "identity": true,
+      "coverage": "sampled",
+      "encryption": "AES-128",
+      "complete_sequence": true,
+      "missing": [],
+      "segments": 2,
+      "segments_fast": true,
       "decode": "not_tested",
       "stable": false
     },
     {
       "name": "无尽",
       "identity": true,
+      "coverage": "sampled",
+      "encryption": "none",
       "complete_sequence": true,
       "missing": [],
       "segments": 2,
@@ -1437,6 +1451,8 @@
     {
       "name": "索尼",
       "identity": false,
+      "coverage": "not_tested",
+      "encryption": "unknown",
       "complete_sequence": false,
       "missing": [],
       "segments": 0,
@@ -1447,27 +1463,9 @@
     {
       "name": "闪电",
       "identity": false,
+      "coverage": "not_tested",
+      "encryption": "unknown",
       "complete_sequence": false,
-      "missing": [],
-      "segments": 0,
-      "segments_fast": false,
-      "decode": "not_tested",
-      "stable": false
-    },
-    {
-      "name": "360",
-      "identity": true,
-      "complete_sequence": true,
-      "missing": [],
-      "segments": 0,
-      "segments_fast": false,
-      "decode": "not_tested",
-      "stable": false
-    },
-    {
-      "name": "红牛",
-      "identity": true,
-      "complete_sequence": true,
       "missing": [],
       "segments": 0,
       "segments_fast": false,
@@ -1526,7 +1524,7 @@
     "brands": 39,
     "api_hints": 21,
     "pending_brands": 618,
-    "health_tested": 355,
+    "health_tested": 361,
     "playable_samples": 0,
     "stable_sources": 0
   },
