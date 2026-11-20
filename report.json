@@ -1,8 +1,8 @@
 {
   "schema": 1,
-  "generated_at": 1795154139.4445903,
+  "generated_at": 1795155963.07442,
   "detected_at": "2026-11-20T04:44:25.309278+00:00",
-  "health_checked_at": 1795154139.4445899,
+  "health_checked_at": 1795155963.0744185,
   "last_attempt_at": 1795153774.2340348,
   "last_attempt": "not_due",
   "model_calls": 0,
@@ -39,6 +39,22 @@
       ],
       "disabled": false,
       "checked_at": 1795155305.38567,
+      "status": "homepage_readable"
+    },
+    {
+      "name": "xbpq成品",
+      "urls": [
+        "https://www.edelholz.cn/"
+      ],
+      "publication_urls": [],
+      "api_count": 0,
+      "resource_verified": true,
+      "verification": "resource_page",
+      "origin_ids": [
+        23
+      ],
+      "disabled": false,
+      "checked_at": 1795155674.569213,
       "status": "homepage_readable"
     },
     {
@@ -248,6 +264,81 @@
       "disabled": false,
       "checked_at": 1795153310.8041384,
       "status": "api_readable"
+    },
+    {
+      "name": "🚀155",
+      "urls": [
+        "https://155api.com/api.php/provide/vod/"
+      ],
+      "publication_urls": [],
+      "api_count": 1,
+      "resource_verified": true,
+      "verification": "api",
+      "origin_ids": [
+        23
+      ],
+      "disabled": false,
+      "checked_at": 1795155728.029264,
+      "status": "api_readable"
+    },
+    {
+      "name": "🚀深林",
+      "urls": [
+        "https://slapibf.com/api.php/provide/vod/"
+      ],
+      "publication_urls": [],
+      "api_count": 1,
+      "resource_verified": true,
+      "verification": "api",
+      "origin_ids": [
+        23
+      ],
+      "disabled": false,
+      "checked_at": 1795155716.8900528,
+      "status": "api_readable"
+    },
+    {
+      "name": "🚀玉兔",
+      "urls": [
+        "https://apiyutu.com/api.php/provide/vod/"
+      ],
+      "publication_urls": [],
+      "api_count": 1,
+      "resource_verified": true,
+      "verification": "api",
+      "origin_ids": [
+        23
+      ],
+      "disabled": false,
+      "checked_at": 1795155715.80785,
+      "status": "api_readable"
+    },
+    {
+      "name": "七五网",
+      "urls": [
+        "https://www.qmp4.com/",
+        "https://www.gmp4.com/",
+        "https://www.qwmp4.com/",
+        "https://www.qwmkv.com/",
+        "https://www.qwfilm.com/",
+        "https://www.qwfun.com/",
+        "https://www.qwshow.com/",
+        "https://www.qnnull.com/",
+        "https://www.qnhot.com/",
+        "https://www.qncool.com/"
+      ],
+      "publication_urls": [
+        "https://www.qn63.com/"
+      ],
+      "api_count": 0,
+      "resource_verified": true,
+      "verification": "publication_page",
+      "origin_ids": [
+        22
+      ],
+      "disabled": false,
+      "checked_at": 1795155929.268187,
+      "status": "publication_verified"
     },
     {
       "name": "优质",
@@ -582,8 +673,8 @@
       "id": 22,
       "url": "https://www.qn63.com/",
       "kind": "resource_publication",
-      "status": "pending",
-      "checked_at": 1795155191.6500394
+      "status": "readable",
+      "checked_at": 1795155930.0987751
     },
     {
       "id": 23,
@@ -659,14 +750,14 @@
     "by_origin": {}
   },
   "references": {
-    "status": "running",
+    "status": "completed",
     "total": 267,
-    "completed": 93,
-    "checked_at": 1795155409.5631125,
-    "api_verified": 0,
-    "web_verified": 16,
-    "failed": 65,
-    "unverified": 12,
+    "completed": 267,
+    "checked_at": 1795155963.0744135,
+    "api_verified": 5,
+    "web_verified": 21,
+    "failed": 197,
+    "unverified": 44,
     "by_origin": {
       "21": {
         "completed": 51,
@@ -674,24 +765,24 @@
         "web_verified": 16
       },
       "22": {
-        "completed": 0,
+        "completed": 11,
         "api_verified": 0,
-        "web_verified": 0
+        "web_verified": 1
       },
       "23": {
-        "completed": 42,
-        "api_verified": 0,
-        "web_verified": 0
+        "completed": 205,
+        "api_verified": 5,
+        "web_verified": 4
       }
     }
   },
   "counts": {
     "registered_inputs": 23,
-    "readable_inputs": 13,
-    "brands": 25,
-    "api_hints": 8,
-    "pending_brands": 347,
-    "health_tested": 235,
+    "readable_inputs": 14,
+    "brands": 30,
+    "api_hints": 11,
+    "pending_brands": 342,
+    "health_tested": 320,
     "playable_samples": 0,
     "stable_sources": 0
   },
