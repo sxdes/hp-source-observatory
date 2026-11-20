@@ -23,7 +23,8 @@
         28,
         32,
         33,
-        34
+        34,
+        41
       ],
       "disabled": false,
       "checked_at": 1795153307.3612022,
@@ -79,7 +80,8 @@
         28,
         30,
         32,
-        34
+        34,
+        41
       ],
       "disabled": false,
       "checked_at": 1795154016.4929893,
@@ -168,7 +170,8 @@
         28,
         32,
         33,
-        34
+        34,
+        41
       ],
       "disabled": false,
       "checked_at": 1795154031.9729192,
@@ -193,7 +196,8 @@
         28,
         32,
         33,
-        34
+        34,
+        41
       ],
       "disabled": false,
       "checked_at": null,
@@ -232,7 +236,8 @@
         28,
         30,
         32,
-        34
+        34,
+        41
       ],
       "disabled": false,
       "checked_at": 1795154028.9116876,
@@ -284,7 +289,8 @@
         28,
         32,
         33,
-        34
+        34,
+        41
       ],
       "disabled": false,
       "checked_at": 1795153310.8041384,
@@ -389,7 +395,8 @@
         28,
         30,
         32,
-        34
+        34,
+        41
       ],
       "disabled": false,
       "checked_at": 1795152873.2633817,
@@ -1202,8 +1209,8 @@
       "id": 41,
       "url": "https://www.guanyingdaohang.com/category/90",
       "kind": "navigation",
-      "title": "观影导航 · 分类90",
-      "note": "用户提供的导航入口，保留以便失效时重抓；分类内容由实际页面核实，不以URL数字推断。",
+      "title": "观影导航 · 资源采集",
+      "note": "实际页面已核实为资源采集分类；只从正文提取普通资源站，保留来源与详情地址，不采页脚推广。",
       "discovery": {
         "status": "not_run",
         "checked_at": null,
@@ -1319,7 +1326,7 @@
     "readable_inputs": 22,
     "brands": 30,
     "api_hints": 11,
-    "pending_brands": 422,
+    "pending_brands": 523,
     "health_tested": 320,
     "playable_samples": 0,
     "stable_sources": 0
