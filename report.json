@@ -2,7 +2,7 @@
   "schema": 1,
   "generated_at": 1795150940.4492304,
   "detected_at": "2026-11-20T04:44:25.309278+00:00",
-  "health_checked_at": null,
+  "health_checked_at": 1795152873.4475389,
   "last_attempt_at": 1795151935.2273934,
   "last_attempt": "not_due",
   "model_calls": 0,
@@ -120,8 +120,8 @@
         16
       ],
       "disabled": false,
-      "checked_at": null,
-      "status": "untested"
+      "checked_at": 1795152869.7509992,
+      "status": "api_readable"
     },
     {
       "name": "398",
@@ -217,8 +217,8 @@
         9
       ],
       "disabled": false,
-      "checked_at": null,
-      "status": "untested"
+      "checked_at": 1795152871.3057628,
+      "status": "api_failed"
     },
     {
       "name": "C值云",
@@ -270,8 +270,8 @@
         16
       ],
       "disabled": false,
-      "checked_at": null,
-      "status": "untested"
+      "checked_at": 1795152872.8161964,
+      "status": "api_failed"
     },
     {
       "name": "TOM",
@@ -303,8 +303,8 @@
         9
       ],
       "disabled": false,
-      "checked_at": null,
-      "status": "untested"
+      "checked_at": 1795152872.9968984,
+      "status": "api_failed"
     },
     {
       "name": "ikun",
@@ -319,8 +319,8 @@
         12
       ],
       "disabled": false,
-      "checked_at": null,
-      "status": "untested"
+      "checked_at": 1795152873.2433314,
+      "status": "api_failed"
     },
     {
       "name": "乐多",
@@ -364,8 +364,8 @@
         16
       ],
       "disabled": false,
-      "checked_at": null,
-      "status": "untested"
+      "checked_at": 1795152873.2633817,
+      "status": "api_failed"
     },
     {
       "name": "值资",
@@ -1381,7 +1381,7 @@
     "readable_inputs": 12,
     "brands": 72,
     "api_hints": 34,
-    "health_tested": 0,
+    "health_tested": 6,
     "playable_samples": 0,
     "stable_sources": 0
   },
