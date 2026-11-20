@@ -876,14 +876,14 @@
       "title": "tisyang · Gist清单",
       "note": "两配置只作数据提取，167条已完成HP检查。",
       "discovery": {
-        "status": "not_run",
-        "checked_at": null,
-        "documents": 0,
-        "sites": 0,
+        "status": "data_read",
+        "checked_at": 1795156348.6316016,
+        "documents": 1,
+        "sites": 167,
         "reference_links": 0
       },
-      "status": "connector_seed_cached",
-      "checked_at": 1795153779.9080577
+      "status": "readable",
+      "checked_at": 1795156348.6316016
     },
     {
       "id": 21,
@@ -1132,14 +1132,14 @@
       "title": "liu673cn/box",
       "note": "历史Box配置与多仓清单；只取公开数据，README的DNS修改建议不作为操作指令。",
       "discovery": {
-        "status": "not_run",
-        "checked_at": null,
-        "documents": 0,
-        "sites": 0,
-        "reference_links": 0
+        "status": "data_read",
+        "checked_at": 1795156368.467296,
+        "documents": 2,
+        "sites": 28,
+        "reference_links": 31
       },
-      "status": "connector_seed_cached",
-      "checked_at": 1795156019.8141053
+      "status": "readable",
+      "checked_at": 1795156368.467296
     },
     {
       "id": 37,
@@ -1148,14 +1148,14 @@
       "title": "XXS · 影视导航大全",
       "note": "影视网站入口导航，跳转页只解出公开目标地址，拒绝邀请码、解析器和下载广告。",
       "discovery": {
-        "status": "not_run",
-        "checked_at": null,
-        "documents": 0,
+        "status": "fetch_failed",
+        "checked_at": 1795156401.00645,
+        "documents": 1,
         "sites": 0,
         "reference_links": 0
       },
-      "status": "connector_seed_cached",
-      "checked_at": 1795156019.8141057
+      "status": "fetch_failed",
+      "checked_at": 1795156401.00645
     },
     {
       "id": 38,
@@ -1164,14 +1164,14 @@
       "title": "suxuang/myIPTV",
       "note": "手工维护的IPv4/IPv6直播列表；运营商和地区会影响可用性，保留为直播参考。",
       "discovery": {
-        "status": "not_run",
-        "checked_at": null,
-        "documents": 0,
+        "status": "data_read",
+        "checked_at": 1795156401.067177,
+        "documents": 1,
         "sites": 0,
         "reference_links": 0
       },
-      "status": "connector_seed_cached",
-      "checked_at": 1795156019.8141065
+      "status": "readable",
+      "checked_at": 1795156401.067177
     },
     {
       "id": 39,
@@ -1180,14 +1180,14 @@
       "title": "jhihhe/MovieHub",
       "note": "Electron电影收藏/磁力抓取和TMDB元数据；可借鉴解析、离线缓存、去重。现有窗口关闭sandbox/webSecurity，不直接部署为HP守护；未读.env。",
       "discovery": {
-        "status": "not_run",
-        "checked_at": null,
-        "documents": 0,
+        "status": "data_read",
+        "checked_at": 1795156404.2280083,
+        "documents": 1,
         "sites": 0,
         "reference_links": 0
       },
-      "status": "connector_seed_cached",
-      "checked_at": 1795156019.814107
+      "status": "readable",
+      "checked_at": 1795156404.2280083
     },
     {
       "id": 40,
@@ -1196,14 +1196,14 @@
       "title": "观影导航 · 首页",
       "note": "用户提供的导航入口，保留以便失效时重抓；分类内容由实际页面核实，不以URL数字推断。",
       "discovery": {
-        "status": "not_run",
-        "checked_at": null,
-        "documents": 0,
+        "status": "data_read",
+        "checked_at": 1795156416.192658,
+        "documents": 1,
         "sites": 0,
         "reference_links": 0
       },
-      "status": "connector_seed_cached",
-      "checked_at": 1795156019.8141074
+      "status": "readable",
+      "checked_at": 1795156416.192658
     },
     {
       "id": 41,
@@ -1212,14 +1212,14 @@
       "title": "观影导航 · 资源采集",
       "note": "实际页面已核实为资源采集分类；只从正文提取普通资源站，保留来源与详情地址，不采页脚推广。",
       "discovery": {
-        "status": "not_run",
-        "checked_at": null,
-        "documents": 0,
+        "status": "data_read",
+        "checked_at": 1795156418.0513349,
+        "documents": 1,
         "sites": 0,
         "reference_links": 0
       },
-      "status": "connector_seed_cached",
-      "checked_at": 1795156019.8141117
+      "status": "readable",
+      "checked_at": 1795156418.0513349
     }
   ],
   "tests": [
@@ -1315,15 +1315,15 @@
     }
   },
   "discovery": {
-    "cached_site_URLs": 265,
-    "cached_reference_links": 75,
-    "origins_checked": 14,
-    "updated_at": 1795156243.8040705,
+    "cached_site_URLs": 443,
+    "cached_reference_links": 103,
+    "origins_checked": 21,
+    "updated_at": 1795156418.530539,
     "media_fetched": false
   },
   "counts": {
     "registered_inputs": 41,
-    "readable_inputs": 22,
+    "readable_inputs": 28,
     "brands": 30,
     "api_hints": 11,
     "pending_brands": 523,
