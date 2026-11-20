@@ -14,3 +14,6 @@ HP 在国内空闲时运行固定 Python 程序。本仓库只接收脱敏静态
 数据结构参考了 [mylazily/ziyuanzhan](https://github.com/mylazily/ziyuanzhan) 的公开资源站目录，保留来源登记；上游历史在线/测速结果不作为 HP 实测结论。页面与检测程序独立实现。
 
 新增Gist两份配置只提取公开地址：167入口已由HP逐项检查，4个资源API通过、148失败、15未核实；不运行配置中的脚本、JAR或解析器。公开9个有资源证据的来源，208品牌线索隔离；这不是9个全片库可播认证。
+
+追加用户给出的项目和导航后共41个登记入口，按导航/文章、资源站/发布页、配置清单、直播/EPG、应用/自建项目、精选参考分类。来源登记不代表播放批准。HP只抓取登记的公开数据，未核实地址隔离，缓存和检测不依赖GitHub在线。直播项目为参考，不恢复原直播筛选。
+精选数据出处：[laoma528/awesome-zhuiju-free](https://github.com/laoma528/awesome-zhuiju-free)，[CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)，已筛选并作独立HP复查。其他项目只记录事实地址和分析，不复制执行型配置、软件或密钥。

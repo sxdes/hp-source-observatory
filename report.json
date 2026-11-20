@@ -1333,6 +1333,7 @@
   },
   "policy": {
     "health_interval_hours": 6,
+    "discovery_interval_minutes": 30,
     "navigation_interval_hours": 24,
     "stale_after_hours": 30,
     "github_required_for_detection": false,
