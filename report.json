@@ -2,8 +2,8 @@
   "schema": 1,
   "generated_at": 1795155963.07442,
   "detected_at": 1795190870.491927,
-  "health_checked_at": 1795198272.1580973,
-  "last_attempt_at": 1795196408.1246188,
+  "health_checked_at": 1795200057.6582556,
+  "last_attempt_at": 1795200079.2292023,
   "last_attempt": "not_due",
   "model_calls": 0,
   "execution": "HP · 国内直连 · 空闲检测",
@@ -371,6 +371,26 @@
       "playback": {
         "stage": "segments_fast",
         "checked_at": 1795190870.491927
+      }
+    },
+    {
+      "name": "采集影视",
+      "urls": [
+        "https://dy.7772888.xyz/api.php/tvbox"
+      ],
+      "publication_urls": [],
+      "api_count": 1,
+      "resource_verified": true,
+      "verification": "api",
+      "origin_ids": [
+        28
+      ],
+      "disabled": false,
+      "checked_at": 1795200052.214629,
+      "status": "api_readable",
+      "playback": {
+        "stage": "not_tested",
+        "checked_at": null
       }
     },
     {
@@ -1748,10 +1768,10 @@
   "counts": {
     "registered_inputs": 41,
     "readable_inputs": 28,
-    "brands": 40,
-    "api_hints": 21,
-    "pending_brands": 617,
-    "health_tested": 387,
+    "brands": 41,
+    "api_hints": 22,
+    "pending_brands": 616,
+    "health_tested": 393,
     "playable_samples": 1,
     "stable_sources": 0
   },
