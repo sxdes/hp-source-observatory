@@ -3,7 +3,7 @@
   "generated_at": 1795153310.8062525,
   "detected_at": "2026-11-20T04:44:25.309278+00:00",
   "health_checked_at": 1795153310.80625,
-  "last_attempt_at": 1795151935.2273934,
+  "last_attempt_at": 1795153774.2340348,
   "last_attempt": "not_due",
   "model_calls": 0,
   "execution": "HP · 国内直连 · 空闲检测",
@@ -43,7 +43,7 @@
       ],
       "disabled": false,
       "checked_at": 1795152873.2633817,
-      "status": "api_failed"
+      "status": "publication_verified"
     },
     {
       "name": "无尽",
@@ -59,7 +59,8 @@
         5,
         9,
         14,
-        16
+        16,
+        20
       ],
       "disabled": false,
       "checked_at": null,
@@ -236,6 +237,13 @@
       "kind": "resource_publication",
       "status": "readable",
       "checked_at": 1795153304.705177
+    },
+    {
+      "id": 20,
+      "url": "https://gist.github.com/tisyang/2e59d4be4e21a7662fd3b7cadc861c55",
+      "kind": "gist_resource_directory",
+      "status": "connector_seed_cached",
+      "checked_at": 1795153779.9080577
     }
   ],
   "tests": [
@@ -293,12 +301,12 @@
     }
   ],
   "counts": {
-    "registered_inputs": 19,
+    "registered_inputs": 20,
     "readable_inputs": 13,
     "brands": 5,
     "api_hints": 4,
-    "pending_brands": 66,
-    "health_tested": 7,
+    "pending_brands": 212,
+    "health_tested": 13,
     "playable_samples": 0,
     "stable_sources": 0
   },
