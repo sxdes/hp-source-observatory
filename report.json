@@ -1,10 +1,10 @@
 {
   "schema": 1,
   "generated_at": 1795264053.0414183,
-  "detected_at": 1795212946.669229,
-  "health_checked_at": 1795302089.9568422,
-  "last_attempt_at": 1795302418.7999678,
-  "last_attempt": "not_due",
+  "detected_at": 1795304261.755713,
+  "health_checked_at": 1795303885.7892973,
+  "last_attempt_at": 1795304225.8065052,
+  "last_attempt": "completed",
   "model_calls": 0,
   "execution": "HP · 国内直连 · 空闲检测",
   "sources": [
@@ -72,8 +72,8 @@
       "checked_at": 1795201857.1154544,
       "status": "api_readable",
       "playback": {
-        "stage": "segments_fast",
-        "checked_at": 1795212946.669229
+        "stage": "segments_slow",
+        "checked_at": 1795304261.755713
       }
     },
     {
@@ -241,8 +241,8 @@
       "checked_at": 1795280397.9968226,
       "status": "api_readable",
       "playback": {
-        "stage": "sample_incomplete",
-        "checked_at": 1795212946.669229
+        "stage": "segments_fast",
+        "checked_at": 1795304261.755713
       }
     },
     {
@@ -318,8 +318,8 @@
       "checked_at": 1795205464.963892,
       "status": "api_readable",
       "playback": {
-        "stage": "sample_incomplete",
-        "checked_at": 1795212946.669229
+        "stage": "identity_unverified",
+        "checked_at": 1795304261.755713
       }
     },
     {
@@ -411,7 +411,7 @@
       "status": "api_readable",
       "playback": {
         "stage": "sample_incomplete",
-        "checked_at": 1795212946.669229
+        "checked_at": 1795304261.755713
       }
     },
     {
@@ -456,7 +456,7 @@
       "status": "api_readable",
       "playback": {
         "stage": "segments_fast",
-        "checked_at": 1795212946.669229
+        "checked_at": 1795304261.755713
       }
     },
     {
@@ -501,7 +501,7 @@
       "status": "api_readable",
       "playback": {
         "stage": "shared_sample",
-        "checked_at": 1795212946.669229
+        "checked_at": 1795304261.755713
       }
     },
     {
@@ -1733,15 +1733,15 @@
     {
       "name": "爱奇艺资源站",
       "identity": true,
-      "coverage": "probe_failed",
-      "encryption": "unknown",
+      "coverage": "sampled",
+      "encryption": "none",
       "complete_sequence": true,
       "missing": [],
-      "segments": 0,
-      "segments_fast": false,
+      "segments": 2,
+      "segments_fast": true,
       "decode": "not_tested",
       "same_media_as": null,
-      "checked_at": 1795212946.669229,
+      "checked_at": 1795304261.755713,
       "stable": false
     },
     {
@@ -1755,7 +1755,7 @@
       "segments_fast": false,
       "decode": "not_tested",
       "same_media_as": null,
-      "checked_at": 1795212946.669229,
+      "checked_at": 1795304261.755713,
       "stable": false
     },
     {
@@ -1769,7 +1769,7 @@
       "segments_fast": true,
       "decode": "not_tested",
       "same_media_as": null,
-      "checked_at": 1795212946.669229,
+      "checked_at": 1795304261.755713,
       "stable": false
     },
     {
@@ -1783,7 +1783,7 @@
       "segments_fast": true,
       "decode": "not_tested",
       "same_media_as": "虎牙资源",
-      "checked_at": 1795212946.669229,
+      "checked_at": 1795304261.755713,
       "stable": false
     },
     {
@@ -1794,24 +1794,24 @@
       "complete_sequence": true,
       "missing": [],
       "segments": 2,
-      "segments_fast": true,
+      "segments_fast": false,
       "decode": "not_tested",
       "same_media_as": null,
-      "checked_at": 1795212946.669229,
+      "checked_at": 1795304261.755713,
       "stable": false
     },
     {
       "name": "百度",
-      "identity": true,
-      "coverage": "probe_failed",
+      "identity": false,
+      "coverage": "not_tested",
       "encryption": "unknown",
-      "complete_sequence": true,
+      "complete_sequence": false,
       "missing": [],
       "segments": 0,
       "segments_fast": false,
       "decode": "not_tested",
       "same_media_as": null,
-      "checked_at": 1795212946.669229,
+      "checked_at": 1795304261.755713,
       "stable": false
     },
     {
@@ -1930,7 +1930,7 @@
     "brands": 47,
     "api_hints": 28,
     "pending_brands": 610,
-    "health_tested": 563,
+    "health_tested": 569,
     "playable_samples": 0,
     "stable_sources": 0
   },
