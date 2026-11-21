@@ -2,8 +2,8 @@
   "schema": 1,
   "generated_at": 1795155963.07442,
   "detected_at": 1795212946.669229,
-  "health_checked_at": 1795223523.3744788,
-  "last_attempt_at": 1795225858.332251,
+  "health_checked_at": 1795227150.1697004,
+  "last_attempt_at": 1795227685.6913042,
   "last_attempt": "not_due",
   "model_calls": 0,
   "execution": "HP · 国内直连 · 空闲检测",
@@ -641,7 +641,7 @@
         34
       ],
       "disabled": false,
-      "checked_at": 1795155716.8900528,
+      "checked_at": 1795227140.3931184,
       "status": "api_readable",
       "playback": {
         "stage": "not_tested",
@@ -663,7 +663,7 @@
         34
       ],
       "disabled": false,
-      "checked_at": 1795155715.80785,
+      "checked_at": 1795227137.9333103,
       "status": "api_readable",
       "playback": {
         "stage": "not_tested",
@@ -753,7 +753,7 @@
         21
       ],
       "disabled": false,
-      "checked_at": 1795155273.8205357,
+      "checked_at": 1795227148.1655438,
       "status": "homepage_readable",
       "playback": {
         "stage": "web_unadapted",
@@ -877,7 +877,7 @@
         21
       ],
       "disabled": false,
-      "checked_at": 1795155265.3691392,
+      "checked_at": 1795227143.54863,
       "status": "homepage_readable",
       "playback": {
         "stage": "web_unadapted",
@@ -1930,7 +1930,7 @@
     "brands": 47,
     "api_hints": 28,
     "pending_brands": 610,
-    "health_tested": 467,
+    "health_tested": 469,
     "playable_samples": 1,
     "stable_sources": 0
   },
