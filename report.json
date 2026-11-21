@@ -3,8 +3,8 @@
   "generated_at": 1795264053.0414183,
   "detected_at": 1795212946.669229,
   "health_checked_at": 1795276787.390989,
-  "last_attempt_at": 1795276587.7086596,
-  "last_attempt": "not_due",
+  "last_attempt_at": 1795278454.0225868,
+  "last_attempt": "playback_or_recent_input",
   "model_calls": 0,
   "execution": "HP · 国内直连 · 空闲检测",
   "sources": [
