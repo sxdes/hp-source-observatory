@@ -2,8 +2,8 @@
   "schema": 1,
   "generated_at": 1795155963.07442,
   "detected_at": 1795212946.669229,
-  "health_checked_at": 1795221739.4954145,
-  "last_attempt_at": 1795222174.202168,
+  "health_checked_at": 1795223523.3744788,
+  "last_attempt_at": 1795224029.1043327,
   "last_attempt": "not_due",
   "model_calls": 0,
   "execution": "HP · 国内直连 · 空闲检测",
@@ -198,6 +198,26 @@
       ],
       "disabled": false,
       "checked_at": 1795205471.7457178,
+      "status": "api_readable",
+      "playback": {
+        "stage": "not_tested",
+        "checked_at": null
+      }
+    },
+    {
+      "name": "滴滴资源",
+      "urls": [
+        "https://api.ddapi.cc/api.php/provide/vod/"
+      ],
+      "publication_urls": [],
+      "api_count": 1,
+      "resource_verified": true,
+      "verification": "api",
+      "origin_ids": [
+        34
+      ],
+      "disabled": false,
+      "checked_at": 1795223520.5487285,
       "status": "api_readable",
       "playback": {
         "stage": "not_tested",
@@ -1907,10 +1927,10 @@
   "counts": {
     "registered_inputs": 41,
     "readable_inputs": 28,
-    "brands": 46,
-    "api_hints": 27,
-    "pending_brands": 611,
-    "health_tested": 461,
+    "brands": 47,
+    "api_hints": 28,
+    "pending_brands": 610,
+    "health_tested": 467,
     "playable_samples": 1,
     "stable_sources": 0
   },
