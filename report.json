@@ -2,9 +2,9 @@
   "schema": 1,
   "generated_at": 1795155963.07442,
   "detected_at": 1795212946.669229,
-  "health_checked_at": 1795232577.417737,
-  "last_attempt_at": 1795231383.7965508,
-  "last_attempt": "not_due",
+  "health_checked_at": 1795234400.6648197,
+  "last_attempt_at": 1795256524.495268,
+  "last_attempt": "interrupted_for_TV",
   "model_calls": 0,
   "execution": "HP · 国内直连 · 空闲检测",
   "sources": [
@@ -1930,7 +1930,7 @@
     "brands": 47,
     "api_hints": 28,
     "pending_brands": 610,
-    "health_tested": 487,
+    "health_tested": 493,
     "playable_samples": 1,
     "stable_sources": 0
   },
