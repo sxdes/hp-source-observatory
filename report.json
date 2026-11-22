@@ -2,8 +2,8 @@
   "schema": 1,
   "generated_at": 1795350920.7603812,
   "detected_at": 1795372793.509523,
-  "health_checked_at": 1795378327.2402775,
-  "last_attempt_at": 1795378268.205455,
+  "health_checked_at": 1795380123.5224166,
+  "last_attempt_at": 1795380104.2491345,
   "last_attempt": "not_due",
   "model_calls": 0,
   "execution": "HP · 国内直连 · 空闲检测",
@@ -533,6 +533,36 @@
       "playback": {
         "stage": "shared_sample",
         "checked_at": 1795372793.509523
+      }
+    },
+    {
+      "name": "速播",
+      "urls": [
+        "https://subocj.com/api.php/provide/vod/"
+      ],
+      "publication_urls": [],
+      "api_count": 1,
+      "resource_verified": true,
+      "verification": "api",
+      "origin_ids": [
+        2,
+        1,
+        4,
+        5,
+        8,
+        20,
+        28,
+        32,
+        33,
+        34,
+        41
+      ],
+      "disabled": false,
+      "checked_at": 1795380105.5152135,
+      "status": "api_readable",
+      "playback": {
+        "stage": "not_tested",
+        "checked_at": null
       }
     },
     {
@@ -2160,9 +2190,9 @@
   "counts": {
     "registered_inputs": 41,
     "readable_inputs": 29,
-    "brands": 58,
-    "api_hints": 29,
-    "pending_brands": 599,
+    "brands": 59,
+    "api_hints": 30,
+    "pending_brands": 598,
     "health_tested": 658,
     "playable_samples": 0,
     "stable_sources": 0
