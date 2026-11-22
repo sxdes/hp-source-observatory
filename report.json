@@ -2,8 +2,8 @@
   "schema": 1,
   "generated_at": 1795264053.0414183,
   "detected_at": 1795328929.645247,
-  "health_checked_at": 1795345473.1943748,
-  "last_attempt_at": 1795347418.0118406,
+  "health_checked_at": 1795349105.1699638,
+  "last_attempt_at": 1795349264.9267848,
   "last_attempt": "not_due",
   "model_calls": 0,
   "execution": "HP · 国内直连 · 空闲检测",
@@ -247,7 +247,7 @@
         34
       ],
       "disabled": false,
-      "checked_at": 1795302080.8948355,
+      "checked_at": 1795349074.6510546,
       "status": "api_readable",
       "playback": {
         "stage": "not_tested",
@@ -268,7 +268,7 @@
         41
       ],
       "disabled": false,
-      "checked_at": 1795325565.853766,
+      "checked_at": 1795349078.0388672,
       "status": "api_readable",
       "playback": {
         "stage": "previous_sample_not_passed",
@@ -743,7 +743,7 @@
         21
       ],
       "disabled": false,
-      "checked_at": 1795155322.4047685,
+      "checked_at": 1795349083.756267,
       "status": "homepage_readable",
       "playback": {
         "stage": "web_unadapted",
@@ -800,7 +800,8 @@
       "resource_verified": true,
       "verification": "video_site",
       "origin_ids": [
-        37
+        37,
+        21
       ],
       "disabled": false,
       "checked_at": 1795329192.3008118,
@@ -1171,7 +1172,7 @@
         37
       ],
       "disabled": false,
-      "checked_at": 1795155320.4881105,
+      "checked_at": 1795349080.8435576,
       "status": "homepage_readable",
       "playback": {
         "stage": "web_unadapted",
