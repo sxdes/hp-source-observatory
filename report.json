@@ -1,10 +1,10 @@
 {
   "schema": 1,
   "generated_at": 1795350920.7603812,
-  "detected_at": 1795351131.997503,
-  "health_checked_at": 1795371102.5533412,
-  "last_attempt_at": 1795370913.0731738,
-  "last_attempt": "not_due",
+  "detected_at": 1795372793.509523,
+  "health_checked_at": 1795372930.8991878,
+  "last_attempt_at": 1795372762.6361167,
+  "last_attempt": "completed",
   "model_calls": 0,
   "execution": "HP · 国内直连 · 空闲检测",
   "sources": [
@@ -30,8 +30,8 @@
       "checked_at": 1795183303.9048328,
       "status": "api_readable",
       "playback": {
-        "stage": "segments_fast",
-        "checked_at": 1795351131.997503
+        "stage": "previous_sample_not_passed",
+        "checked_at": 1795190829.523555
       }
     },
     {
@@ -72,8 +72,8 @@
       "checked_at": 1795201857.1154544,
       "status": "api_readable",
       "playback": {
-        "stage": "previous_sample_not_passed",
-        "checked_at": 1795304225.8065052
+        "stage": "sample_incomplete",
+        "checked_at": 1795372793.509523
       }
     },
     {
@@ -101,8 +101,8 @@
       "checked_at": 1795183309.2773256,
       "status": "api_readable",
       "playback": {
-        "stage": "sample_incomplete",
-        "checked_at": 1795351131.997503
+        "stage": "shared_sample",
+        "checked_at": 1795174864.801205
       }
     },
     {
@@ -271,8 +271,8 @@
       "checked_at": 1795349078.0388672,
       "status": "api_readable",
       "playback": {
-        "stage": "previous_sample_not_passed",
-        "checked_at": 1795212921.4083066
+        "stage": "decode_not_passed",
+        "checked_at": 1795372793.509523
       }
     },
     {
@@ -379,7 +379,7 @@
       "status": "api_readable",
       "playback": {
         "stage": "sequence_gaps",
-        "checked_at": 1795351131.997503
+        "checked_at": 1795372793.509523
       }
     },
     {
@@ -441,8 +441,8 @@
       "checked_at": 1795201848.191037,
       "status": "api_readable",
       "playback": {
-        "stage": "previous_sample_not_passed",
-        "checked_at": 1795304225.8065052
+        "stage": "sample_incomplete",
+        "checked_at": 1795372793.509523
       }
     },
     {
@@ -486,8 +486,8 @@
       "checked_at": 1795201852.2207298,
       "status": "api_readable",
       "playback": {
-        "stage": "not_tested",
-        "checked_at": null
+        "stage": "segments_fast",
+        "checked_at": 1795372793.509523
       }
     },
     {
@@ -507,8 +507,8 @@
       "checked_at": 1795156504.8495705,
       "status": "api_readable",
       "playback": {
-        "stage": "segments_fast",
-        "checked_at": 1795351131.997503
+        "stage": "shared_sample",
+        "checked_at": 1795174864.801205
       }
     },
     {
@@ -531,8 +531,8 @@
       "checked_at": 1795201854.840685,
       "status": "api_readable",
       "playback": {
-        "stage": "previous_sample_not_passed",
-        "checked_at": 1795304225.8065052
+        "stage": "shared_sample",
+        "checked_at": 1795372793.509523
       }
     },
     {
@@ -606,8 +606,8 @@
       "checked_at": 1795183306.224326,
       "status": "api_readable",
       "playback": {
-        "stage": "segments_fast",
-        "checked_at": 1795351131.997503
+        "stage": "segments_slow",
+        "checked_at": 1795172485.356886
       }
     },
     {
@@ -1953,25 +1953,39 @@
       "segments_fast": false,
       "decode": "not_tested",
       "same_media_as": null,
-      "checked_at": 1795351131.997503,
+      "checked_at": 1795372793.509523,
       "stable": false
     },
     {
-      "name": "闪电",
-      "identity": false,
-      "coverage": "not_tested",
+      "name": "爱奇艺资源站",
+      "identity": true,
+      "coverage": "sampled",
+      "encryption": "none",
+      "complete_sequence": true,
+      "missing": [],
+      "segments": 2,
+      "segments_fast": true,
+      "decode": "sample_failed",
+      "same_media_as": null,
+      "checked_at": 1795372793.509523,
+      "stable": false
+    },
+    {
+      "name": "茅台资源",
+      "identity": true,
+      "coverage": "probe_failed",
       "encryption": "unknown",
-      "complete_sequence": false,
+      "complete_sequence": true,
       "missing": [],
       "segments": 0,
       "segments_fast": false,
       "decode": "not_tested",
       "same_media_as": null,
-      "checked_at": 1795351131.997503,
+      "checked_at": 1795372793.509523,
       "stable": false
     },
     {
-      "name": "360",
+      "name": "虎牙资源",
       "identity": true,
       "coverage": "sampled",
       "encryption": "AES-128",
@@ -1981,7 +1995,49 @@
       "segments_fast": true,
       "decode": "not_tested",
       "same_media_as": null,
-      "checked_at": 1795351131.997503,
+      "checked_at": 1795372793.509523,
+      "stable": false
+    },
+    {
+      "name": "豪华资源",
+      "identity": true,
+      "coverage": "sampled",
+      "encryption": "AES-128",
+      "complete_sequence": true,
+      "missing": [],
+      "segments": 2,
+      "segments_fast": true,
+      "decode": "not_tested",
+      "same_media_as": "虎牙资源",
+      "checked_at": 1795372793.509523,
+      "stable": false
+    },
+    {
+      "name": "U酷资源2",
+      "identity": true,
+      "coverage": "probe_failed",
+      "encryption": "none",
+      "complete_sequence": true,
+      "missing": [],
+      "segments": 1,
+      "segments_fast": true,
+      "decode": "not_tested",
+      "same_media_as": null,
+      "checked_at": 1795372793.509523,
+      "stable": false
+    },
+    {
+      "name": "光速",
+      "identity": true,
+      "coverage": "sampled",
+      "encryption": "AES-128",
+      "complete_sequence": true,
+      "missing": [],
+      "segments": 2,
+      "segments_fast": true,
+      "decode": "not_tested",
+      "same_media_as": "红牛",
+      "checked_at": 1795174864.801205,
       "stable": false
     },
     {
@@ -1994,36 +2050,8 @@
       "segments": 2,
       "segments_fast": true,
       "decode": "not_tested",
-      "same_media_as": null,
-      "checked_at": 1795351131.997503,
-      "stable": false
-    },
-    {
-      "name": "魔都",
-      "identity": true,
-      "coverage": "sampled",
-      "encryption": "none",
-      "complete_sequence": true,
-      "missing": [],
-      "segments": 2,
-      "segments_fast": true,
-      "decode": "not_tested",
-      "same_media_as": null,
-      "checked_at": 1795351131.997503,
-      "stable": false
-    },
-    {
-      "name": "光速",
-      "identity": true,
-      "coverage": "probe_failed",
-      "encryption": "unknown",
-      "complete_sequence": true,
-      "missing": [],
-      "segments": 0,
-      "segments_fast": false,
-      "decode": "not_tested",
-      "same_media_as": null,
-      "checked_at": 1795351131.997503,
+      "same_media_as": "红牛",
+      "checked_at": 1795174864.801205,
       "stable": false
     }
   ],
