@@ -2,8 +2,8 @@
   "schema": 1,
   "generated_at": 1795264053.0414183,
   "detected_at": 1795304261.755713,
-  "health_checked_at": 1795305737.707553,
-  "last_attempt_at": 1795306051.6004386,
+  "health_checked_at": 1795307511.8143995,
+  "last_attempt_at": 1795307892.1093326,
   "last_attempt": "not_due",
   "model_calls": 0,
   "execution": "HP · 国内直连 · 空闲检测",
@@ -774,6 +774,26 @@
       ],
       "disabled": false,
       "checked_at": 1795155305.38567,
+      "status": "homepage_readable",
+      "playback": {
+        "stage": "web_unadapted",
+        "checked_at": null
+      }
+    },
+    {
+      "name": "freeys.cc",
+      "urls": [
+        "https://www.freeys.cc/"
+      ],
+      "publication_urls": [],
+      "api_count": 0,
+      "resource_verified": true,
+      "verification": "video_site",
+      "origin_ids": [
+        23
+      ],
+      "disabled": false,
+      "checked_at": 1795307502.9134054,
       "status": "homepage_readable",
       "playback": {
         "stage": "web_unadapted",
@@ -1947,10 +1967,10 @@
   "counts": {
     "registered_inputs": 41,
     "readable_inputs": 28,
-    "brands": 48,
+    "brands": 49,
     "api_hints": 28,
-    "pending_brands": 609,
-    "health_tested": 575,
+    "pending_brands": 608,
+    "health_tested": 581,
     "playable_samples": 0,
     "stable_sources": 0
   },
