@@ -2,8 +2,8 @@
   "schema": 1,
   "generated_at": 1795350920.7603812,
   "detected_at": 1795372793.509523,
-  "health_checked_at": 1795376548.9619527,
-  "last_attempt_at": 1795376431.7216897,
+  "health_checked_at": 1795378327.2402775,
+  "last_attempt_at": 1795378268.205455,
   "last_attempt": "not_due",
   "model_calls": 0,
   "execution": "HP · 国内直连 · 空闲检测",
@@ -632,6 +632,27 @@
       "status": "api_failed",
       "playback": {
         "stage": "not_tested",
+        "checked_at": null
+      }
+    },
+    {
+      "name": "麒麟资源",
+      "urls": [
+        "https://www.qilinzyz.com/"
+      ],
+      "publication_urls": [],
+      "api_count": 0,
+      "resource_verified": true,
+      "verification": "resource_page",
+      "origin_ids": [
+        20,
+        41
+      ],
+      "disabled": false,
+      "checked_at": 1795378317.7638288,
+      "status": "api_failed",
+      "playback": {
+        "stage": "web_unadapted",
         "checked_at": null
       }
     },
@@ -2139,9 +2160,9 @@
   "counts": {
     "registered_inputs": 41,
     "readable_inputs": 29,
-    "brands": 57,
+    "brands": 58,
     "api_hints": 29,
-    "pending_brands": 600,
+    "pending_brands": 599,
     "health_tested": 658,
     "playable_samples": 0,
     "stable_sources": 0
