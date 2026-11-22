@@ -2,8 +2,8 @@
   "schema": 1,
   "generated_at": 1795350920.7603812,
   "detected_at": 1795351131.997503,
-  "health_checked_at": 1795369269.4466817,
-  "last_attempt_at": 1795369059.7804434,
+  "health_checked_at": 1795371102.5533412,
+  "last_attempt_at": 1795370913.0731738,
   "last_attempt": "not_due",
   "model_calls": 0,
   "execution": "HP · 国内直连 · 空闲检测",
@@ -47,7 +47,7 @@
         32
       ],
       "disabled": false,
-      "checked_at": 1795325569.641152,
+      "checked_at": 1795371069.8538597,
       "status": "api_readable",
       "playback": {
         "stage": "not_tested",
@@ -134,9 +134,9 @@
         "https://www.wujinzy.com/"
       ],
       "publication_urls": [],
-      "api_count": 0,
+      "api_count": 1,
       "resource_verified": true,
-      "verification": "resource_page",
+      "verification": "api",
       "origin_ids": [
         2,
         5,
@@ -151,8 +151,8 @@
         41
       ],
       "disabled": false,
-      "checked_at": 1795154031.9729192,
-      "status": "api_failed",
+      "checked_at": 1795371075.2776136,
+      "status": "api_readable",
       "playback": {
         "stage": "previous_sample_not_passed",
         "checked_at": 1795328902.8616548
@@ -247,7 +247,7 @@
         34
       ],
       "disabled": false,
-      "checked_at": 1795349074.6510546,
+      "checked_at": 1795371072.7633502,
       "status": "api_readable",
       "playback": {
         "stage": "not_tested",
@@ -1029,7 +1029,7 @@
         37
       ],
       "disabled": false,
-      "checked_at": 1795155326.0754473,
+      "checked_at": 1795371077.8829339,
       "status": "homepage_readable",
       "playback": {
         "stage": "web_unadapted",
@@ -2112,7 +2112,7 @@
     "registered_inputs": 41,
     "readable_inputs": 29,
     "brands": 57,
-    "api_hints": 28,
+    "api_hints": 29,
     "pending_brands": 600,
     "health_tested": 658,
     "playable_samples": 0,
