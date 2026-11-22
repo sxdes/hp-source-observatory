@@ -1,10 +1,10 @@
 {
   "schema": 1,
   "generated_at": 1795264053.0414183,
-  "detected_at": 1795304261.755713,
-  "health_checked_at": 1795321984.898728,
-  "last_attempt_at": 1795322602.2428453,
-  "last_attempt": "not_due",
+  "detected_at": 1795328929.645247,
+  "health_checked_at": 1795329196.6602616,
+  "last_attempt_at": 1795328902.8616548,
+  "last_attempt": "completed",
   "model_calls": 0,
   "execution": "HP · 国内直连 · 空闲检测",
   "sources": [
@@ -47,7 +47,7 @@
         32
       ],
       "disabled": false,
-      "checked_at": 1795302078.983406,
+      "checked_at": 1795325569.641152,
       "status": "api_readable",
       "playback": {
         "stage": "not_tested",
@@ -72,8 +72,8 @@
       "checked_at": 1795201857.1154544,
       "status": "api_readable",
       "playback": {
-        "stage": "segments_slow",
-        "checked_at": 1795304261.755713
+        "stage": "previous_sample_not_passed",
+        "checked_at": 1795304225.8065052
       }
     },
     {
@@ -129,9 +129,39 @@
       }
     },
     {
+      "name": "无尽",
+      "urls": [
+        "https://api.wujinapi.me/api.php/provide/vod/from/wjm3u8/"
+      ],
+      "publication_urls": [],
+      "api_count": 1,
+      "resource_verified": true,
+      "verification": "api",
+      "origin_ids": [
+        2,
+        5,
+        9,
+        14,
+        16,
+        20,
+        28,
+        32,
+        33,
+        34,
+        41
+      ],
+      "disabled": false,
+      "checked_at": 1795154031.9729192,
+      "status": "api_failed",
+      "playback": {
+        "stage": "segments_slow",
+        "checked_at": 1795328929.645247
+      }
+    },
+    {
       "name": "最大",
       "urls": [
-        "http://zuidazy.me/api.php/provide/vod/"
+        "https://api.zuidapi.com/api.php/provide/vod/from/zuidam3u8/"
       ],
       "publication_urls": [],
       "api_count": 1,
@@ -154,8 +184,8 @@
       "checked_at": 1795156506.794159,
       "status": "api_readable",
       "playback": {
-        "stage": "previous_sample_not_passed",
-        "checked_at": 1795164008.029432
+        "stage": "sequence_gaps",
+        "checked_at": 1795328929.645247
       }
     },
     {
@@ -200,8 +230,8 @@
       "checked_at": 1795205471.7457178,
       "status": "api_readable",
       "playback": {
-        "stage": "not_tested",
-        "checked_at": null
+        "stage": "segments_fast",
+        "checked_at": 1795328929.645247
       }
     },
     {
@@ -238,11 +268,11 @@
         41
       ],
       "disabled": false,
-      "checked_at": 1795280397.9968226,
+      "checked_at": 1795325565.853766,
       "status": "api_readable",
       "playback": {
-        "stage": "segments_fast",
-        "checked_at": 1795304261.755713
+        "stage": "previous_sample_not_passed",
+        "checked_at": 1795212921.4083066
       }
     },
     {
@@ -318,8 +348,8 @@
       "checked_at": 1795205464.963892,
       "status": "api_readable",
       "playback": {
-        "stage": "identity_unverified",
-        "checked_at": 1795304261.755713
+        "stage": "previous_sample_not_passed",
+        "checked_at": 1795304225.8065052
       }
     },
     {
@@ -347,8 +377,8 @@
       "checked_at": 1795156512.7717724,
       "status": "api_readable",
       "playback": {
-        "stage": "previous_sample_not_passed",
-        "checked_at": 1795164008.029432
+        "stage": "sequence_gaps",
+        "checked_at": 1795328929.645247
       }
     },
     {
@@ -410,8 +440,8 @@
       "checked_at": 1795201848.191037,
       "status": "api_readable",
       "playback": {
-        "stage": "sample_incomplete",
-        "checked_at": 1795304261.755713
+        "stage": "previous_sample_not_passed",
+        "checked_at": 1795304225.8065052
       }
     },
     {
@@ -455,8 +485,8 @@
       "checked_at": 1795201852.2207298,
       "status": "api_readable",
       "playback": {
-        "stage": "segments_fast",
-        "checked_at": 1795304261.755713
+        "stage": "not_tested",
+        "checked_at": null
       }
     },
     {
@@ -500,8 +530,8 @@
       "checked_at": 1795201854.840685,
       "status": "api_readable",
       "playback": {
-        "stage": "shared_sample",
-        "checked_at": 1795304261.755713
+        "stage": "previous_sample_not_passed",
+        "checked_at": 1795304225.8065052
       }
     },
     {
@@ -761,6 +791,26 @@
       }
     },
     {
+      "name": "SA影视",
+      "urls": [
+        "https://safilm69.com/"
+      ],
+      "publication_urls": [],
+      "api_count": 0,
+      "resource_verified": true,
+      "verification": "video_site",
+      "origin_ids": [
+        37
+      ],
+      "disabled": false,
+      "checked_at": 1795329192.3008118,
+      "status": "homepage_readable",
+      "playback": {
+        "stage": "web_unadapted",
+        "checked_at": null
+      }
+    },
+    {
       "name": "SA视频",
       "urls": [
         "https://www.lsjys11.com/"
@@ -773,7 +823,7 @@
         21
       ],
       "disabled": false,
-      "checked_at": 1795155305.38567,
+      "checked_at": 1795325573.4693203,
       "status": "homepage_readable",
       "playback": {
         "stage": "web_unadapted",
@@ -936,7 +986,7 @@
         37
       ],
       "disabled": false,
-      "checked_at": 1795155317.2618132,
+      "checked_at": 1795325579.0620158,
       "status": "homepage_readable",
       "playback": {
         "stage": "web_unadapted",
@@ -978,6 +1028,26 @@
       ],
       "disabled": false,
       "checked_at": 1795155326.0754473,
+      "status": "homepage_readable",
+      "playback": {
+        "stage": "web_unadapted",
+        "checked_at": null
+      }
+    },
+    {
+      "name": "太乙电影",
+      "urls": [
+        "https://ww96.taiee.xyz/"
+      ],
+      "publication_urls": [],
+      "api_count": 0,
+      "resource_verified": true,
+      "verification": "video_site",
+      "origin_ids": [
+        37
+      ],
+      "disabled": false,
+      "checked_at": 1795329180.570772,
       "status": "homepage_readable",
       "playback": {
         "stage": "web_unadapted",
@@ -1871,77 +1941,35 @@
   ],
   "tests": [
     {
-      "name": "爱奇艺资源站",
+      "name": "红牛",
       "identity": true,
-      "coverage": "sampled",
-      "encryption": "none",
-      "complete_sequence": true,
-      "missing": [],
-      "segments": 2,
-      "segments_fast": true,
-      "decode": "not_tested",
-      "same_media_as": null,
-      "checked_at": 1795304261.755713,
-      "stable": false
-    },
-    {
-      "name": "茅台资源",
-      "identity": true,
-      "coverage": "probe_failed",
+      "coverage": "not_tested",
       "encryption": "unknown",
-      "complete_sequence": true,
+      "complete_sequence": false,
       "missing": [],
       "segments": 0,
       "segments_fast": false,
       "decode": "not_tested",
       "same_media_as": null,
-      "checked_at": 1795304261.755713,
+      "checked_at": 1795328929.645247,
       "stable": false
     },
     {
-      "name": "虎牙资源",
-      "identity": true,
-      "coverage": "sampled",
-      "encryption": "AES-128",
-      "complete_sequence": true,
-      "missing": [],
-      "segments": 2,
-      "segments_fast": true,
-      "decode": "not_tested",
-      "same_media_as": null,
-      "checked_at": 1795304261.755713,
-      "stable": false
-    },
-    {
-      "name": "豪华资源",
-      "identity": true,
-      "coverage": "sampled",
-      "encryption": "AES-128",
-      "complete_sequence": true,
-      "missing": [],
-      "segments": 2,
-      "segments_fast": true,
-      "decode": "not_tested",
-      "same_media_as": "虎牙资源",
-      "checked_at": 1795304261.755713,
-      "stable": false
-    },
-    {
-      "name": "U酷资源2",
+      "name": "橘猫影视",
       "identity": true,
       "coverage": "sampled",
       "encryption": "none",
       "complete_sequence": true,
       "missing": [],
       "segments": 2,
-      "segments_fast": false,
+      "segments_fast": true,
       "decode": "not_tested",
       "same_media_as": null,
-      "checked_at": 1795304261.755713,
+      "checked_at": 1795328929.645247,
       "stable": false
     },
     {
-      "name": "百度",
+      "name": "ikun",
       "identity": false,
       "coverage": "not_tested",
       "encryption": "unknown",
@@ -1951,7 +1979,51 @@
       "segments_fast": false,
       "decode": "not_tested",
       "same_media_as": null,
-      "checked_at": 1795304261.755713,
+      "checked_at": 1795328929.645247,
+      "stable": false
+    },
+    {
+      "name": "最大",
+      "identity": true,
+      "coverage": "not_tested",
+      "encryption": "unknown",
+      "complete_sequence": false,
+      "missing": [
+        8
+      ],
+      "segments": 0,
+      "segments_fast": false,
+      "decode": "not_tested",
+      "same_media_as": null,
+      "checked_at": 1795328929.645247,
+      "stable": false
+    },
+    {
+      "name": "无尽",
+      "identity": true,
+      "coverage": "sampled",
+      "encryption": "none",
+      "complete_sequence": true,
+      "missing": [],
+      "segments": 2,
+      "segments_fast": false,
+      "decode": "not_tested",
+      "same_media_as": null,
+      "checked_at": 1795328929.645247,
+      "stable": false
+    },
+    {
+      "name": "索尼",
+      "identity": false,
+      "coverage": "not_tested",
+      "encryption": "unknown",
+      "complete_sequence": false,
+      "missing": [],
+      "segments": 0,
+      "segments_fast": false,
+      "decode": "not_tested",
+      "same_media_as": null,
+      "checked_at": 1795328929.645247,
       "stable": false
     },
     {
@@ -2067,10 +2139,10 @@
   "counts": {
     "registered_inputs": 41,
     "readable_inputs": 28,
-    "brands": 54,
-    "api_hints": 28,
-    "pending_brands": 603,
-    "health_tested": 623,
+    "brands": 57,
+    "api_hints": 29,
+    "pending_brands": 600,
+    "health_tested": 631,
     "playable_samples": 0,
     "stable_sources": 0
   },
