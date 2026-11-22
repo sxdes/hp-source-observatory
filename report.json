@@ -2,8 +2,8 @@
   "schema": 1,
   "generated_at": 1795264053.0414183,
   "detected_at": 1795304261.755713,
-  "health_checked_at": 1795318354.1090736,
-  "last_attempt_at": 1795318913.119815,
+  "health_checked_at": 1795321984.898728,
+  "last_attempt_at": 1795320770.23508,
   "last_attempt": "not_due",
   "model_calls": 0,
   "execution": "HP · 国内直连 · 空闲检测",
@@ -944,6 +944,26 @@
       }
     },
     {
+      "name": "千千影视",
+      "urls": [
+        "https://www.qqys01.com/"
+      ],
+      "publication_urls": [],
+      "api_count": 0,
+      "resource_verified": true,
+      "verification": "video_site",
+      "origin_ids": [
+        37
+      ],
+      "disabled": false,
+      "checked_at": 1795321977.028618,
+      "status": "homepage_readable",
+      "playback": {
+        "stage": "web_unadapted",
+        "checked_at": null
+      }
+    },
+    {
       "name": "嘀嗒影视",
       "urls": [
         "https://www.didahd.xyz/"
@@ -1102,6 +1122,26 @@
       ],
       "disabled": false,
       "checked_at": 1795280414.8173177,
+      "status": "homepage_readable",
+      "playback": {
+        "stage": "web_unadapted",
+        "checked_at": null
+      }
+    },
+    {
+      "name": "番茄酱影视",
+      "urls": [
+        "https://fanqe.cc/"
+      ],
+      "publication_urls": [],
+      "api_count": 0,
+      "resource_verified": true,
+      "verification": "video_site",
+      "origin_ids": [
+        37
+      ],
+      "disabled": false,
+      "checked_at": 1795321961.9597323,
       "status": "homepage_readable",
       "playback": {
         "stage": "web_unadapted",
@@ -2027,10 +2067,10 @@
   "counts": {
     "registered_inputs": 41,
     "readable_inputs": 28,
-    "brands": 52,
+    "brands": 54,
     "api_hints": 28,
-    "pending_brands": 605,
-    "health_tested": 617,
+    "pending_brands": 603,
+    "health_tested": 623,
     "playable_samples": 0,
     "stable_sources": 0
   },
