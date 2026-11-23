@@ -1,10 +1,10 @@
 {
   "schema": 1,
   "generated_at": 1795350920.7603812,
-  "detected_at": 1795372793.509523,
-  "health_checked_at": 1795392730.2143734,
-  "last_attempt_at": 1795393010.1427107,
-  "last_attempt": "not_due",
+  "detected_at": 1795394885.418032,
+  "health_checked_at": 1795394561.4023607,
+  "last_attempt_at": 1795394860.5447974,
+  "last_attempt": "completed",
   "model_calls": 0,
   "execution": "HP · 国内直连 · 空闲检测",
   "sources": [
@@ -72,8 +72,8 @@
       "checked_at": 1795201857.1154544,
       "status": "api_readable",
       "playback": {
-        "stage": "sample_incomplete",
-        "checked_at": 1795372793.509523
+        "stage": "previous_sample_not_passed",
+        "checked_at": 1795372762.6361167
       }
     },
     {
@@ -154,8 +154,8 @@
       "checked_at": 1795371075.2776136,
       "status": "api_readable",
       "playback": {
-        "stage": "previous_sample_not_passed",
-        "checked_at": 1795328902.8616548
+        "stage": "segments_fast",
+        "checked_at": 1795394885.418032
       }
     },
     {
@@ -230,8 +230,8 @@
       "checked_at": 1795205471.7457178,
       "status": "api_readable",
       "playback": {
-        "stage": "not_tested",
-        "checked_at": null
+        "stage": "segments_fast",
+        "checked_at": 1795394885.418032
       }
     },
     {
@@ -271,8 +271,8 @@
       "checked_at": 1795392717.7206788,
       "status": "api_readable",
       "playback": {
-        "stage": "decode_not_passed",
-        "checked_at": 1795372793.509523
+        "stage": "previous_sample_not_passed",
+        "checked_at": 1795372762.6361167
       }
     },
     {
@@ -349,8 +349,8 @@
       "checked_at": 1795205464.963892,
       "status": "api_readable",
       "playback": {
-        "stage": "previous_sample_not_passed",
-        "checked_at": 1795304225.8065052
+        "stage": "segments_slow",
+        "checked_at": 1795394885.418032
       }
     },
     {
@@ -379,7 +379,7 @@
       "status": "api_readable",
       "playback": {
         "stage": "sequence_gaps",
-        "checked_at": 1795372793.509523
+        "checked_at": 1795394885.418032
       }
     },
     {
@@ -398,8 +398,8 @@
       "checked_at": 1795205467.2233114,
       "status": "api_readable",
       "playback": {
-        "stage": "not_tested",
-        "checked_at": null
+        "stage": "identity_unverified",
+        "checked_at": 1795394885.418032
       }
     },
     {
@@ -441,8 +441,8 @@
       "checked_at": 1795201848.191037,
       "status": "api_readable",
       "playback": {
-        "stage": "sample_incomplete",
-        "checked_at": 1795372793.509523
+        "stage": "previous_sample_not_passed",
+        "checked_at": 1795372762.6361167
       }
     },
     {
@@ -486,8 +486,8 @@
       "checked_at": 1795201852.2207298,
       "status": "api_readable",
       "playback": {
-        "stage": "segments_fast",
-        "checked_at": 1795372793.509523
+        "stage": "not_tested",
+        "checked_at": null
       }
     },
     {
@@ -531,8 +531,8 @@
       "checked_at": 1795201854.840685,
       "status": "api_readable",
       "playback": {
-        "stage": "shared_sample",
-        "checked_at": 1795372793.509523
+        "stage": "previous_sample_not_passed",
+        "checked_at": 1795372762.6361167
       }
     },
     {
@@ -561,8 +561,8 @@
       "checked_at": 1795380105.5152135,
       "status": "api_readable",
       "playback": {
-        "stage": "not_tested",
-        "checked_at": null
+        "stage": "sample_incomplete",
+        "checked_at": 1795394885.418032
       }
     },
     {
@@ -2004,11 +2004,39 @@
       "segments_fast": false,
       "decode": "not_tested",
       "same_media_as": null,
-      "checked_at": 1795372793.509523,
+      "checked_at": 1795394885.418032,
       "stable": false
     },
     {
-      "name": "爱奇艺资源站",
+      "name": "百度",
+      "identity": true,
+      "coverage": "sampled",
+      "encryption": "none",
+      "complete_sequence": true,
+      "missing": [],
+      "segments": 2,
+      "segments_fast": false,
+      "decode": "not_tested",
+      "same_media_as": null,
+      "checked_at": 1795394885.418032,
+      "stable": false
+    },
+    {
+      "name": "艾旦影视",
+      "identity": false,
+      "coverage": "not_tested",
+      "encryption": "unknown",
+      "complete_sequence": false,
+      "missing": [],
+      "segments": 0,
+      "segments_fast": false,
+      "decode": "not_tested",
+      "same_media_as": null,
+      "checked_at": 1795394885.418032,
+      "stable": false
+    },
+    {
+      "name": "橘猫影视",
       "identity": true,
       "coverage": "sampled",
       "encryption": "none",
@@ -2016,13 +2044,27 @@
       "missing": [],
       "segments": 2,
       "segments_fast": true,
-      "decode": "sample_failed",
+      "decode": "not_tested",
       "same_media_as": null,
-      "checked_at": 1795372793.509523,
+      "checked_at": 1795394885.418032,
       "stable": false
     },
     {
-      "name": "茅台资源",
+      "name": "无尽",
+      "identity": true,
+      "coverage": "sampled",
+      "encryption": "none",
+      "complete_sequence": true,
+      "missing": [],
+      "segments": 2,
+      "segments_fast": true,
+      "decode": "not_tested",
+      "same_media_as": null,
+      "checked_at": 1795394885.418032,
+      "stable": false
+    },
+    {
+      "name": "速播",
       "identity": true,
       "coverage": "probe_failed",
       "encryption": "unknown",
@@ -2032,49 +2074,7 @@
       "segments_fast": false,
       "decode": "not_tested",
       "same_media_as": null,
-      "checked_at": 1795372793.509523,
-      "stable": false
-    },
-    {
-      "name": "虎牙资源",
-      "identity": true,
-      "coverage": "sampled",
-      "encryption": "AES-128",
-      "complete_sequence": true,
-      "missing": [],
-      "segments": 2,
-      "segments_fast": true,
-      "decode": "not_tested",
-      "same_media_as": null,
-      "checked_at": 1795372793.509523,
-      "stable": false
-    },
-    {
-      "name": "豪华资源",
-      "identity": true,
-      "coverage": "sampled",
-      "encryption": "AES-128",
-      "complete_sequence": true,
-      "missing": [],
-      "segments": 2,
-      "segments_fast": true,
-      "decode": "not_tested",
-      "same_media_as": "虎牙资源",
-      "checked_at": 1795372793.509523,
-      "stable": false
-    },
-    {
-      "name": "U酷资源2",
-      "identity": true,
-      "coverage": "probe_failed",
-      "encryption": "none",
-      "complete_sequence": true,
-      "missing": [],
-      "segments": 1,
-      "segments_fast": true,
-      "decode": "not_tested",
-      "same_media_as": null,
-      "checked_at": 1795372793.509523,
+      "checked_at": 1795394885.418032,
       "stable": false
     },
     {
