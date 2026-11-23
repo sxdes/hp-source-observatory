@@ -1,10 +1,10 @@
 {
   "schema": 1,
   "generated_at": 1795350920.7603812,
-  "detected_at": 1795394885.418032,
-  "health_checked_at": 1795394561.4023607,
-  "last_attempt_at": 1795432751.5903378,
-  "last_attempt": "playback_or_recent_input",
+  "detected_at": 1795434601.718528,
+  "health_checked_at": 1795434351.9256392,
+  "last_attempt_at": 1795434593.1115603,
+  "last_attempt": "completed",
   "model_calls": 0,
   "execution": "HP · 国内直连 · 空闲检测",
   "sources": [
@@ -30,8 +30,8 @@
       "checked_at": 1795183303.9048328,
       "status": "api_readable",
       "playback": {
-        "stage": "previous_sample_not_passed",
-        "checked_at": 1795190829.523555
+        "stage": "sample_incomplete",
+        "checked_at": 1795434601.718528
       }
     },
     {
@@ -151,17 +151,17 @@
         41
       ],
       "disabled": false,
-      "checked_at": 1795371075.2776136,
+      "checked_at": 1795434337.4961686,
       "status": "api_readable",
       "playback": {
-        "stage": "segments_fast",
-        "checked_at": 1795394885.418032
+        "stage": "previous_sample_not_passed",
+        "checked_at": 1795328902.8616548
       }
     },
     {
       "name": "最大",
       "urls": [
-        "http://zuidazy.me/api.php/provide/vod/"
+        "https://api.zuidapi.com/api.php/provide/vod/from/zuidam3u8/"
       ],
       "publication_urls": [],
       "api_count": 1,
@@ -184,8 +184,8 @@
       "checked_at": 1795156506.794159,
       "status": "api_readable",
       "playback": {
-        "stage": "previous_sample_not_passed",
-        "checked_at": 1795328902.8616548
+        "stage": "sequence_gaps",
+        "checked_at": 1795434601.718528
       }
     },
     {
@@ -230,8 +230,8 @@
       "checked_at": 1795205471.7457178,
       "status": "api_readable",
       "playback": {
-        "stage": "segments_fast",
-        "checked_at": 1795394885.418032
+        "stage": "not_tested",
+        "checked_at": null
       }
     },
     {
@@ -247,7 +247,7 @@
         34
       ],
       "disabled": false,
-      "checked_at": 1795371072.7633502,
+      "checked_at": 1795434334.652847,
       "status": "api_readable",
       "playback": {
         "stage": "not_tested",
@@ -349,8 +349,8 @@
       "checked_at": 1795205464.963892,
       "status": "api_readable",
       "playback": {
-        "stage": "segments_slow",
-        "checked_at": 1795394885.418032
+        "stage": "previous_sample_not_passed",
+        "checked_at": 1795394860.5447974
       }
     },
     {
@@ -379,7 +379,7 @@
       "status": "api_readable",
       "playback": {
         "stage": "sequence_gaps",
-        "checked_at": 1795394885.418032
+        "checked_at": 1795434601.718528
       }
     },
     {
@@ -398,8 +398,8 @@
       "checked_at": 1795205467.2233114,
       "status": "api_readable",
       "playback": {
-        "stage": "identity_unverified",
-        "checked_at": 1795394885.418032
+        "stage": "previous_sample_not_passed",
+        "checked_at": 1795394860.5447974
       }
     },
     {
@@ -561,8 +561,8 @@
       "checked_at": 1795380105.5152135,
       "status": "api_readable",
       "playback": {
-        "stage": "sample_incomplete",
-        "checked_at": 1795394885.418032
+        "stage": "previous_sample_not_passed",
+        "checked_at": 1795394860.5447974
       }
     },
     {
@@ -1182,7 +1182,7 @@
         21
       ],
       "disabled": false,
-      "checked_at": 1795155367.3606713,
+      "checked_at": 1795434342.1523523,
       "status": "homepage_readable",
       "playback": {
         "stage": "web_unadapted",
@@ -1285,7 +1285,7 @@
         37
       ],
       "disabled": false,
-      "checked_at": 1795155341.375925,
+      "checked_at": 1795434340.506427,
       "status": "homepage_readable",
       "playback": {
         "stage": "web_unadapted",
@@ -2004,25 +2004,11 @@
       "segments_fast": false,
       "decode": "not_tested",
       "same_media_as": null,
-      "checked_at": 1795394885.418032,
+      "checked_at": 1795434601.718528,
       "stable": false
     },
     {
-      "name": "百度",
-      "identity": true,
-      "coverage": "sampled",
-      "encryption": "none",
-      "complete_sequence": true,
-      "missing": [],
-      "segments": 2,
-      "segments_fast": false,
-      "decode": "not_tested",
-      "same_media_as": null,
-      "checked_at": 1795394885.418032,
-      "stable": false
-    },
-    {
-      "name": "艾旦影视",
+      "name": "ikun",
       "identity": false,
       "coverage": "not_tested",
       "encryption": "unknown",
@@ -2032,39 +2018,55 @@
       "segments_fast": false,
       "decode": "not_tested",
       "same_media_as": null,
-      "checked_at": 1795394885.418032,
+      "checked_at": 1795434601.718528,
       "stable": false
     },
     {
-      "name": "橘猫影视",
+      "name": "最大",
       "identity": true,
-      "coverage": "sampled",
-      "encryption": "none",
-      "complete_sequence": true,
-      "missing": [],
-      "segments": 2,
-      "segments_fast": true,
+      "coverage": "not_tested",
+      "encryption": "unknown",
+      "complete_sequence": false,
+      "missing": [
+        8
+      ],
+      "segments": 0,
+      "segments_fast": false,
       "decode": "not_tested",
       "same_media_as": null,
-      "checked_at": 1795394885.418032,
+      "checked_at": 1795434601.718528,
       "stable": false
     },
     {
-      "name": "无尽",
-      "identity": true,
-      "coverage": "sampled",
-      "encryption": "none",
-      "complete_sequence": true,
+      "name": "索尼",
+      "identity": false,
+      "coverage": "not_tested",
+      "encryption": "unknown",
+      "complete_sequence": false,
       "missing": [],
-      "segments": 2,
-      "segments_fast": true,
+      "segments": 0,
+      "segments_fast": false,
       "decode": "not_tested",
       "same_media_as": null,
-      "checked_at": 1795394885.418032,
+      "checked_at": 1795434601.718528,
       "stable": false
     },
     {
-      "name": "速播",
+      "name": "闪电",
+      "identity": false,
+      "coverage": "not_tested",
+      "encryption": "unknown",
+      "complete_sequence": false,
+      "missing": [],
+      "segments": 0,
+      "segments_fast": false,
+      "decode": "not_tested",
+      "same_media_as": null,
+      "checked_at": 1795434601.718528,
+      "stable": false
+    },
+    {
+      "name": "360",
       "identity": true,
       "coverage": "probe_failed",
       "encryption": "unknown",
@@ -2074,7 +2076,7 @@
       "segments_fast": false,
       "decode": "not_tested",
       "same_media_as": null,
-      "checked_at": 1795394885.418032,
+      "checked_at": 1795434601.718528,
       "stable": false
     },
     {
