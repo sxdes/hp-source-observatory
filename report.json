@@ -2,8 +2,8 @@
   "schema": 1,
   "generated_at": 1795350920.7603812,
   "detected_at": 1795372793.509523,
-  "health_checked_at": 1795389128.4800646,
-  "last_attempt_at": 1795391171.1223302,
+  "health_checked_at": 1795392730.2143734,
+  "last_attempt_at": 1795393010.1427107,
   "last_attempt": "not_due",
   "model_calls": 0,
   "execution": "HP · 国内直连 · 空闲检测",
@@ -47,7 +47,7 @@
         32
       ],
       "disabled": false,
-      "checked_at": 1795371069.8538597,
+      "checked_at": 1795392720.6210375,
       "status": "api_readable",
       "playback": {
         "stage": "not_tested",
@@ -268,7 +268,7 @@
         41
       ],
       "disabled": false,
-      "checked_at": 1795349078.0388672,
+      "checked_at": 1795392717.7206788,
       "status": "api_readable",
       "playback": {
         "stage": "decode_not_passed",
@@ -1162,7 +1162,7 @@
         37
       ],
       "disabled": false,
-      "checked_at": 1795155340.2325263,
+      "checked_at": 1795392726.8441532,
       "status": "homepage_readable",
       "playback": {
         "stage": "web_unadapted",
@@ -1306,7 +1306,7 @@
         37
       ],
       "disabled": false,
-      "checked_at": 1795155328.5535758,
+      "checked_at": 1795392723.2466397,
       "status": "homepage_readable",
       "playback": {
         "stage": "web_unadapted",
