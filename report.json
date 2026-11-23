@@ -2,9 +2,9 @@
   "schema": 1,
   "generated_at": 1795350920.7603812,
   "detected_at": 1795434601.718528,
-  "health_checked_at": 1795434351.9256392,
-  "last_attempt_at": 1795434593.1115603,
-  "last_attempt": "completed",
+  "health_checked_at": 1795436170.3573568,
+  "last_attempt_at": 1795436455.7613506,
+  "last_attempt": "not_due",
   "model_calls": 0,
   "execution": "HP · 国内直连 · 空闲检测",
   "sources": [
