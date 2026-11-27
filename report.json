@@ -3,7 +3,7 @@
   "generated_at": 1795350920.7603812,
   "detected_at": 1795434601.718528,
   "health_checked_at": 1795436170.3573568,
-  "last_attempt_at": 1795796777.5849156,
+  "last_attempt_at": 1795798617.7207236,
   "last_attempt": "playback_or_recent_input",
   "model_calls": 0,
   "execution": "HP · 国内直连 · 空闲检测",
@@ -472,26 +472,6 @@
       ],
       "disabled": false,
       "checked_at": 1795349083.756267,
-      "status": "homepage_readable",
-      "playback": {
-        "stage": "web_unadapted",
-        "checked_at": null
-      }
-    },
-    {
-      "name": "7itv.com",
-      "urls": [
-        "https://www.7itv.com/"
-      ],
-      "publication_urls": [],
-      "api_count": 0,
-      "resource_verified": true,
-      "verification": "video_site",
-      "origin_ids": [
-        23
-      ],
-      "disabled": false,
-      "checked_at": 1795194624.6408381,
       "status": "homepage_readable",
       "playback": {
         "stage": "web_unadapted",
@@ -1805,9 +1785,9 @@
   "counts": {
     "registered_inputs": 41,
     "readable_inputs": 29,
-    "brands": 43,
+    "brands": 42,
     "api_hints": 18,
-    "pending_brands": 614,
+    "pending_brands": 615,
     "health_tested": 658,
     "playable_samples": 0,
     "stable_sources": 0
