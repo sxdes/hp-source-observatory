@@ -3,7 +3,7 @@
   "generated_at": 1795350920.7603812,
   "detected_at": 1795434601.718528,
   "health_checked_at": 1795436170.3573568,
-  "last_attempt_at": 1795765513.521013,
+  "last_attempt_at": 1795767338.370146,
   "last_attempt": "playback_or_recent_input",
   "model_calls": 0,
   "execution": "HP · 国内直连 · 空闲检测",
@@ -301,28 +301,6 @@
       "playback": {
         "stage": "previous_sample_not_passed",
         "checked_at": 1795394860.5447974
-      }
-    },
-    {
-      "name": "茅台",
-      "urls": [
-        "https://mtzy5.com/api.php/provide/vod/"
-      ],
-      "publication_urls": [],
-      "api_count": 1,
-      "resource_verified": true,
-      "verification": "api",
-      "origin_ids": [
-        2,
-        16,
-        41
-      ],
-      "disabled": false,
-      "checked_at": 1795161361.974786,
-      "status": "api_readable",
-      "playback": {
-        "stage": "not_tested",
-        "checked_at": null
       }
     },
     {
@@ -1911,9 +1889,9 @@
   "counts": {
     "registered_inputs": 41,
     "readable_inputs": 29,
-    "brands": 47,
-    "api_hints": 21,
-    "pending_brands": 610,
+    "brands": 46,
+    "api_hints": 20,
+    "pending_brands": 611,
     "health_tested": 658,
     "playable_samples": 0,
     "stable_sources": 0
