@@ -3,7 +3,7 @@
   "generated_at": 1795350920.7603812,
   "detected_at": 1795434601.718528,
   "health_checked_at": 1795436170.3573568,
-  "last_attempt_at": 1795763672.4122138,
+  "last_attempt_at": 1795765513.521013,
   "last_attempt": "playback_or_recent_input",
   "model_calls": 0,
   "execution": "HP · 国内直连 · 空闲检测",
@@ -106,29 +106,6 @@
       }
     },
     {
-      "name": "天涯影视",
-      "urls": [
-        "https://tyyszyapi.com/api.php/provide/vod/"
-      ],
-      "publication_urls": [],
-      "api_count": 1,
-      "resource_verified": true,
-      "verification": "api",
-      "origin_ids": [
-        2,
-        28,
-        32,
-        41
-      ],
-      "disabled": false,
-      "checked_at": 1795159555.1568162,
-      "status": "api_failed",
-      "playback": {
-        "stage": "not_tested",
-        "checked_at": null
-      }
-    },
-    {
       "name": "无尽",
       "urls": [
         "https://www.wujinzy.com/"
@@ -186,31 +163,6 @@
       "playback": {
         "stage": "sequence_gaps",
         "checked_at": 1795434601.718528
-      }
-    },
-    {
-      "name": "极速",
-      "urls": [
-        "https://jszyapi.com/api.php/provide/vod/"
-      ],
-      "publication_urls": [],
-      "api_count": 1,
-      "resource_verified": true,
-      "verification": "api",
-      "origin_ids": [
-        2,
-        16,
-        32,
-        33,
-        34,
-        41
-      ],
-      "disabled": false,
-      "checked_at": 1795159559.9633088,
-      "status": "api_readable",
-      "playback": {
-        "stage": "not_tested",
-        "checked_at": null
       }
     },
     {
@@ -273,32 +225,6 @@
       "playback": {
         "stage": "previous_sample_not_passed",
         "checked_at": 1795372762.6361167
-      }
-    },
-    {
-      "name": "猫眼",
-      "urls": [
-        "https://api.maoyanapi.top/api.php/provide/vod"
-      ],
-      "publication_urls": [],
-      "api_count": 1,
-      "resource_verified": true,
-      "verification": "api",
-      "origin_ids": [
-        2,
-        1,
-        4,
-        5,
-        8,
-        41,
-        10
-      ],
-      "disabled": false,
-      "checked_at": 1795159562.1579115,
-      "status": "api_readable",
-      "playback": {
-        "stage": "not_tested",
-        "checked_at": null
       }
     },
     {
@@ -421,27 +347,6 @@
       }
     },
     {
-      "name": "虎牙",
-      "urls": [
-        "https://huyazy.net/api.php/provide/vod/"
-      ],
-      "publication_urls": [],
-      "api_count": 1,
-      "resource_verified": true,
-      "verification": "api",
-      "origin_ids": [
-        2,
-        41
-      ],
-      "disabled": false,
-      "checked_at": 1795159563.7601645,
-      "status": "api_readable",
-      "playback": {
-        "stage": "not_tested",
-        "checked_at": null
-      }
-    },
-    {
       "name": "虎牙资源",
       "urls": [
         "https://www.huyaapi.com/api.php/provide/vod"
@@ -534,36 +439,6 @@
       "disabled": false,
       "checked_at": 1795280400.5474038,
       "status": "api_failed",
-      "playback": {
-        "stage": "not_tested",
-        "checked_at": null
-      }
-    },
-    {
-      "name": "金鹰",
-      "urls": [
-        "https://jyzyapi.com/provide/vod/"
-      ],
-      "publication_urls": [],
-      "api_count": 1,
-      "resource_verified": true,
-      "verification": "api",
-      "origin_ids": [
-        2,
-        5,
-        9,
-        16,
-        18,
-        28,
-        30,
-        32,
-        33,
-        34,
-        41
-      ],
-      "disabled": false,
-      "checked_at": 1795159569.6290011,
-      "status": "api_readable",
       "playback": {
         "stage": "not_tested",
         "checked_at": null
@@ -2036,9 +1911,9 @@
   "counts": {
     "registered_inputs": 41,
     "readable_inputs": 29,
-    "brands": 52,
-    "api_hints": 26,
-    "pending_brands": 605,
+    "brands": 47,
+    "api_hints": 21,
+    "pending_brands": 610,
     "health_tested": 658,
     "playable_samples": 0,
     "stable_sources": 0
