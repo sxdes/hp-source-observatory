@@ -3,7 +3,7 @@
   "generated_at": 1795350920.7603812,
   "detected_at": 1795434601.718528,
   "health_checked_at": 1795436170.3573568,
-  "last_attempt_at": 1795807725.5214427,
+  "last_attempt_at": 1795809542.7232661,
   "last_attempt": "playback_or_recent_input",
   "model_calls": 0,
   "execution": "HP · 国内直连 · 空闲检测",
@@ -115,27 +115,6 @@
       }
     },
     {
-      "name": "橘猫影视",
-      "urls": [
-        "http://www.zitv.cc/api.php/provide/vod/"
-      ],
-      "publication_urls": [],
-      "api_count": 1,
-      "resource_verified": true,
-      "verification": "api",
-      "origin_ids": [
-        20,
-        30
-      ],
-      "disabled": false,
-      "checked_at": 1795205471.7457178,
-      "status": "api_readable",
-      "playback": {
-        "stage": "not_tested",
-        "checked_at": null
-      }
-    },
-    {
       "name": "滴滴资源",
       "urls": [
         "https://api.ddapi.cc/api.php/provide/vod/"
@@ -177,33 +156,6 @@
       }
     },
     {
-      "name": "百度",
-      "urls": [
-        "https://api.apibdzy.com/api.php/provide/vod/"
-      ],
-      "publication_urls": [],
-      "api_count": 1,
-      "resource_verified": true,
-      "verification": "api",
-      "origin_ids": [
-        2,
-        5,
-        20,
-        28,
-        30,
-        32,
-        34,
-        41
-      ],
-      "disabled": false,
-      "checked_at": 1795205464.963892,
-      "status": "api_readable",
-      "playback": {
-        "stage": "previous_sample_not_passed",
-        "checked_at": 1795394860.5447974
-      }
-    },
-    {
       "name": "红牛",
       "urls": [
         "http://hongniuzy2.com/api.php/provide/vod/"
@@ -230,26 +182,6 @@
       "playback": {
         "stage": "sequence_gaps",
         "checked_at": 1795434601.718528
-      }
-    },
-    {
-      "name": "艾旦影视",
-      "urls": [
-        "https://lovedan.net/api.php/provide/vod/"
-      ],
-      "publication_urls": [],
-      "api_count": 1,
-      "resource_verified": true,
-      "verification": "api",
-      "origin_ids": [
-        20
-      ],
-      "disabled": false,
-      "checked_at": 1795205467.2233114,
-      "status": "api_readable",
-      "playback": {
-        "stage": "previous_sample_not_passed",
-        "checked_at": 1795394860.5447974
       }
     },
     {
@@ -664,27 +596,6 @@
       ],
       "disabled": false,
       "checked_at": 1795227143.54863,
-      "status": "homepage_readable",
-      "playback": {
-        "stage": "web_unadapted",
-        "checked_at": null
-      }
-    },
-    {
-      "name": "奈飞工厂",
-      "urls": [
-        "https://www.netflixgc.com/"
-      ],
-      "publication_urls": [],
-      "api_count": 0,
-      "resource_verified": true,
-      "verification": "video_site",
-      "origin_ids": [
-        21,
-        37
-      ],
-      "disabled": false,
-      "checked_at": 1795205476.4659984,
       "status": "homepage_readable",
       "playback": {
         "stage": "web_unadapted",
@@ -1694,9 +1605,9 @@
   "counts": {
     "registered_inputs": 41,
     "readable_inputs": 29,
-    "brands": 38,
-    "api_hints": 14,
-    "pending_brands": 619,
+    "brands": 34,
+    "api_hints": 11,
+    "pending_brands": 623,
     "health_tested": 658,
     "playable_samples": 0,
     "stable_sources": 0
