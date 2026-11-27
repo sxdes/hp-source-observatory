@@ -3,7 +3,7 @@
   "generated_at": 1795350920.7603812,
   "detected_at": 1795434601.718528,
   "health_checked_at": 1795436170.3573568,
-  "last_attempt_at": 1795785667.0030541,
+  "last_attempt_at": 1795787524.4009485,
   "last_attempt": "playback_or_recent_input",
   "model_calls": 0,
   "execution": "HP · 国内直连 · 空闲检测",
@@ -74,35 +74,6 @@
       "playback": {
         "stage": "previous_sample_not_passed",
         "checked_at": 1795372762.6361167
-      }
-    },
-    {
-      "name": "光速",
-      "urls": [
-        "https://api.guangsuapi.com/api.php/provide/vod/"
-      ],
-      "publication_urls": [],
-      "api_count": 1,
-      "resource_verified": true,
-      "verification": "api",
-      "origin_ids": [
-        2,
-        5,
-        9,
-        18,
-        20,
-        28,
-        30,
-        32,
-        34,
-        41
-      ],
-      "disabled": false,
-      "checked_at": 1795183309.2773256,
-      "status": "api_readable",
-      "playback": {
-        "stage": "shared_sample",
-        "checked_at": 1795174864.801205
       }
     },
     {
@@ -423,31 +394,6 @@
       }
     },
     {
-      "name": "魔都",
-      "urls": [
-        "https://caiji.moduapi.cc/api.php/provide/vod"
-      ],
-      "publication_urls": [],
-      "api_count": 1,
-      "resource_verified": true,
-      "verification": "api",
-      "origin_ids": [
-        2,
-        28,
-        32,
-        33,
-        34,
-        41
-      ],
-      "disabled": false,
-      "checked_at": 1795183306.224326,
-      "status": "api_readable",
-      "playback": {
-        "stage": "segments_slow",
-        "checked_at": 1795172485.356886
-      }
-    },
-    {
       "name": "麒麟资源",
       "urls": [
         "https://www.qilinzyz.com/"
@@ -509,36 +455,6 @@
       "status": "api_readable",
       "playback": {
         "stage": "not_tested",
-        "checked_at": null
-      }
-    },
-    {
-      "name": "优质",
-      "urls": [
-        "https://www.1080zyk15.com/"
-      ],
-      "publication_urls": [
-        "https://yzzy.tv/"
-      ],
-      "api_count": 0,
-      "resource_verified": true,
-      "verification": "publication_page",
-      "origin_ids": [
-        2,
-        16,
-        19,
-        28,
-        30,
-        32,
-        34,
-        41,
-        1
-      ],
-      "disabled": false,
-      "checked_at": 1795183289.969121,
-      "status": "publication_verified",
-      "playback": {
-        "stage": "web_unadapted",
         "checked_at": null
       }
     },
@@ -1889,9 +1805,9 @@
   "counts": {
     "registered_inputs": 41,
     "readable_inputs": 29,
-    "brands": 46,
-    "api_hints": 20,
-    "pending_brands": 611,
+    "brands": 43,
+    "api_hints": 18,
+    "pending_brands": 614,
     "health_tested": 658,
     "playable_samples": 0,
     "stable_sources": 0
