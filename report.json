@@ -3,7 +3,7 @@
   "generated_at": 1795350920.7603812,
   "detected_at": 1795434601.718528,
   "health_checked_at": 1795436170.3573568,
-  "last_attempt_at": 1795804076.7780447,
+  "last_attempt_at": 1795805893.9839308,
   "last_attempt": "playback_or_recent_input",
   "model_calls": 0,
   "execution": "HP · 国内直连 · 空闲检测",
@@ -52,28 +52,6 @@
       "playback": {
         "stage": "not_tested",
         "checked_at": null
-      }
-    },
-    {
-      "name": "U酷资源2",
-      "urls": [
-        "https://api.ukuapi88.com/api.php/provide/vod"
-      ],
-      "publication_urls": [],
-      "api_count": 1,
-      "resource_verified": true,
-      "verification": "api",
-      "origin_ids": [
-        28,
-        32,
-        34
-      ],
-      "disabled": false,
-      "checked_at": 1795201857.1154544,
-      "status": "api_readable",
-      "playback": {
-        "stage": "previous_sample_not_passed",
-        "checked_at": 1795372762.6361167
       }
     },
     {
@@ -272,75 +250,6 @@
       "playback": {
         "stage": "previous_sample_not_passed",
         "checked_at": 1795394860.5447974
-      }
-    },
-    {
-      "name": "茅台资源",
-      "urls": [
-        "https://caiji.maotaizy.cc/api.php/provide/vod"
-      ],
-      "publication_urls": [],
-      "api_count": 1,
-      "resource_verified": true,
-      "verification": "api",
-      "origin_ids": [
-        28,
-        32
-      ],
-      "disabled": false,
-      "checked_at": 1795201848.191037,
-      "status": "api_readable",
-      "playback": {
-        "stage": "previous_sample_not_passed",
-        "checked_at": 1795372762.6361167
-      }
-    },
-    {
-      "name": "虎牙资源",
-      "urls": [
-        "https://www.huyaapi.com/api.php/provide/vod"
-      ],
-      "publication_urls": [],
-      "api_count": 1,
-      "resource_verified": true,
-      "verification": "api",
-      "origin_ids": [
-        28,
-        32,
-        33,
-        34,
-        36
-      ],
-      "disabled": false,
-      "checked_at": 1795201852.2207298,
-      "status": "api_readable",
-      "playback": {
-        "stage": "not_tested",
-        "checked_at": null
-      }
-    },
-    {
-      "name": "豪华资源",
-      "urls": [
-        "https://hhzyapi.com/api.php/provide/vod"
-      ],
-      "publication_urls": [],
-      "api_count": 1,
-      "resource_verified": true,
-      "verification": "api",
-      "origin_ids": [
-        28,
-        32,
-        33,
-        34,
-        36
-      ],
-      "disabled": false,
-      "checked_at": 1795201854.840685,
-      "status": "api_readable",
-      "playback": {
-        "stage": "previous_sample_not_passed",
-        "checked_at": 1795372762.6361167
       }
     },
     {
@@ -1785,9 +1694,9 @@
   "counts": {
     "registered_inputs": 41,
     "readable_inputs": 29,
-    "brands": 42,
-    "api_hints": 18,
-    "pending_brands": 615,
+    "brands": 38,
+    "api_hints": 14,
+    "pending_brands": 619,
     "health_tested": 658,
     "playable_samples": 0,
     "stable_sources": 0
