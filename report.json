@@ -3,7 +3,7 @@
   "generated_at": 1795350920.7603812,
   "detected_at": 1795434601.718528,
   "health_checked_at": 1795436170.3573568,
-  "last_attempt_at": 1795829700.3843977,
+  "last_attempt_at": 1795831558.1791945,
   "last_attempt": "playback_or_recent_input",
   "model_calls": 0,
   "execution": "HP · 国内直连 · 空闲检测",
@@ -256,50 +256,6 @@
       }
     },
     {
-      "name": "🚀深林",
-      "urls": [
-        "https://slapibf.com/api.php/provide/vod/"
-      ],
-      "publication_urls": [],
-      "api_count": 1,
-      "resource_verified": true,
-      "verification": "api",
-      "origin_ids": [
-        23,
-        32,
-        34
-      ],
-      "disabled": false,
-      "checked_at": 1795227140.3931184,
-      "status": "api_readable",
-      "playback": {
-        "stage": "not_tested",
-        "checked_at": null
-      }
-    },
-    {
-      "name": "🚀玉兔",
-      "urls": [
-        "https://apiyutu.com/api.php/provide/vod/"
-      ],
-      "publication_urls": [],
-      "api_count": 1,
-      "resource_verified": true,
-      "verification": "api",
-      "origin_ids": [
-        23,
-        32,
-        34
-      ],
-      "disabled": false,
-      "checked_at": 1795227137.9333103,
-      "status": "api_readable",
-      "playback": {
-        "stage": "not_tested",
-        "checked_at": null
-      }
-    },
-    {
       "name": "66 大片网",
       "urls": [
         "https://www.77dpw.vip/"
@@ -313,26 +269,6 @@
       ],
       "disabled": false,
       "checked_at": 1795349083.756267,
-      "status": "homepage_readable",
-      "playback": {
-        "stage": "web_unadapted",
-        "checked_at": null
-      }
-    },
-    {
-      "name": "PPnix",
-      "urls": [
-        "https://www.ppnix.com/cn/"
-      ],
-      "publication_urls": [],
-      "api_count": 0,
-      "resource_verified": true,
-      "verification": "video_site",
-      "origin_ids": [
-        21
-      ],
-      "disabled": false,
-      "checked_at": 1795227148.1655438,
       "status": "homepage_readable",
       "playback": {
         "stage": "web_unadapted",
@@ -576,26 +512,6 @@
       ],
       "disabled": false,
       "checked_at": 1795329180.570772,
-      "status": "homepage_readable",
-      "playback": {
-        "stage": "web_unadapted",
-        "checked_at": null
-      }
-    },
-    {
-      "name": "奈菲影视",
-      "urls": [
-        "https://www.nfyingshi.com/"
-      ],
-      "publication_urls": [],
-      "api_count": 0,
-      "resource_verified": true,
-      "verification": "video_site",
-      "origin_ids": [
-        21
-      ],
-      "disabled": false,
-      "checked_at": 1795227143.54863,
       "status": "homepage_readable",
       "playback": {
         "stage": "web_unadapted",
@@ -1605,9 +1521,9 @@
   "counts": {
     "registered_inputs": 41,
     "readable_inputs": 29,
-    "brands": 34,
-    "api_hints": 11,
-    "pending_brands": 623,
+    "brands": 30,
+    "api_hints": 9,
+    "pending_brands": 627,
     "health_tested": 658,
     "playable_samples": 0,
     "stable_sources": 0
